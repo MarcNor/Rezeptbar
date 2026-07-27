@@ -1,0 +1,36 @@
+{
+  "id": "sigara-boerek",
+  "title": "Sigara Börek aus dem Ofen",
+  "category": "sonstiges",
+  "cuisine": "türkisch",
+  "time": 40,
+  "servings": 12,
+  "image": "images/börek.png",
+  "ingredients": [
+    { "amount": "1", "unit": "Packung", "name": "Yufkablätter" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "2", "unit": "EL", "name": "Olivenöl" },
+    { "amount": "200", "unit": "g", "name": "Spinat" },
+    { "amount": "1", "unit": "EL", "name": "Tomatenmark" },
+    { "amount": "1", "unit": "EL", "name": "Paprikamark" },
+    { "amount": "0,5", "unit": "TL", "name": "Kreuzkümmel, gemahlen" },
+    { "amount": "", "unit": "", "name": "Pfeffer und Gewürze nach Geschmack" },
+    { "amount": "120", "unit": "g", "name": "Weichkäse (Feta oder Baktat)" },
+    { "amount": "1", "unit": "", "name": "Eiweiß" },
+    { "amount": "50", "unit": "ml", "name": "Milch" },
+    { "amount": "1", "unit": "", "name": "Eigelb" },
+    { "amount": "", "unit": "", "name": "Schwarzkümmel oder Sesam" }
+  ],
+  "steps": [
+    "Zwiebel fein hacken und in Olivenöl andünsten.",
+    "Spinat zugeben und 3–4 Minuten mitdünsten, bis er zusammengefallen ist.",
+    "Tomatenmark, Paprikamark und Gewürze einrühren, dann vom Herd nehmen und abkühlen lassen.",
+    "Weichkäse in die abgekühlte Füllung bröckeln und unterheben.",
+    "Eiweiß mit Milch verrühren. Eigelb separat verquirlen und mit etwas von der Eiweiß-Milch-Mischung verrühren.",
+    "Ein Yufkablatt auf einen Teller legen und mit der Eiweiß-Milch-Mischung bestreichen.",
+    "Etwa 2 TL Füllung auflegen, die Seiten einklappen und aufrollen. Mit den restlichen Blättern und der Füllung wiederholen.",
+    "Die Röllchen auf ein Backblech setzen, mit der Eigelbmischung bestreichen und mit Sesam oder Schwarzkümmel bestreuen.",
+    "Bei 220 °C ca. 15–20 Minuten backen, bis die Böreks goldbraun und knusprig sind."
+  ],
+  "notes": "Dazu passt frischer Salat. Ergibt je nach Größe der Yufkablätter 10–12 Röllchen. Quelle: sallys-blog.de"
+}

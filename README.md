@@ -1,7 +1,13 @@
-# Kochbuch
+# Rezeptbar
 
 Eine einfache Single-Page-Rezeptsammlung als statische Website, hostbar über GitHub Pages.
 Kein Build-Tool nötig – reines HTML/CSS/JavaScript.
+
+Es gibt drei Bereiche, zwischen denen über die Tab-Leiste im Header gewechselt wird:
+**Kochen** (`fruehstueck`, `mittag`, `sonstiges`), **Backen** (`backen`) und
+**Getränke** (`getraenke`). Die Zuordnung Kategorie → Bereich steht in
+`js/app.js` in `SECTIONS`. Innerhalb von "Kochen" gibt es zusätzlich einen
+Art-Filter, da dieser Bereich mehrere Kategorien zusammenfasst.
 
 ## Aufbau
 
@@ -36,7 +42,8 @@ scripts/generate-index.mjs  Erzeugt recipes/index.json aus allen recipes/*.json
        "Tomaten zugeben und köcheln lassen.",
        "Pürieren und abschmecken."
      ],
-     "notes": "Optional mit Sahne verfeinern."
+     "notes": "Optional mit Sahne verfeinern.",
+     "image": "images/tomatensuppe.jpg"
    }
    ```
 
@@ -46,9 +53,19 @@ scripts/generate-index.mjs  Erzeugt recipes/index.json aus allen recipes/*.json
    - `cuisine`: freier Text, z. B. `italienisch`, `asiatisch`, `spanisch`
    - `time`: Zubereitungszeit in Minuten (Zahl)
    - `servings`: Anzahl Portionen (Zahl)
-   - `ingredients`: Liste aus `{ amount, unit, name }`
+   - `ingredients`: Liste aus `{ amount, unit, name, component }`. `component` ist optional
+     und gruppiert Zutaten unter einer Überschrift (z. B. `"Boden"`, `"Füllung"`, `"Ganache"`)
+     – nützlich bei Rezepten mit mehreren Teilkomponenten wie Torten. Aufeinanderfolgende
+     Zutaten mit demselben `component`-Wert werden zusammen unter dieser Überschrift
+     angezeigt; ohne `component` erscheinen sie als normale, unbeschriftete Liste.
    - `steps`: Liste von Zubereitungsschritten (Strings)
+   - `utensils`: optionale Liste benötigter Küchenutensilien (Strings), wird als eigener
+     Abschnitt "Utensilien" oberhalb von Zutaten/Zubereitung angezeigt. Ohne dieses Feld
+     wird kein Utensilien-Abschnitt angezeigt.
    - `notes`: optionaler Freitext (kann weggelassen werden)
+   - `image`: optionaler relativer Pfad zu einem Vorschaubild (z. B. `images/tomatensuppe.jpg`),
+     wird als Thumbnail in der Übersicht und als großes Bild in der Detailansicht angezeigt.
+     Bilddateien einfach in `images/` ablegen. Ohne `image`-Feld wird kein Bild angezeigt.
 
 2. Beim Push nach `main` erzeugt die GitHub Action automatisch `recipes/index.json`
    und deployed die Seite. Lokal kannst du den Index manuell erzeugen mit:

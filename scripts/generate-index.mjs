@@ -37,6 +37,7 @@ async function main() {
       cuisine: recipe.cuisine || "",
       time: recipe.time || null,
       servings: recipe.servings || null,
+      image: recipe.image || null,
     });
   }
 

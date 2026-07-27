@@ -1,0 +1,38 @@
+{
+  "id": "kartoffelsalat-caesar-art",
+  "title": "Kartoffelsalat nach Caesar-Art",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 50,
+  "servings": 4,
+  "image": "images/cesar_salat.png",
+  "ingredients": [
+    { "amount": "1000", "unit": "g", "name": "Kartoffeln" },
+    { "amount": "3", "unit": "", "name": "Zwiebeln" },
+    { "amount": "5", "unit": "", "name": "Sardellenfilets (in Öl)" },
+    { "amount": "1", "unit": "", "name": "Bio-Zitrone (nur die abgeriebene Schale)" },
+    { "amount": "", "unit": "", "name": "Salz und Pfeffer" },
+    { "amount": "4", "unit": "EL", "name": "Olivenöl" },
+    { "amount": "2", "unit": "", "name": "Mini-Römersalate (ca. 350 g)" },
+    { "amount": "250", "unit": "g", "name": "Spitzpaprika" },
+    { "amount": "6", "unit": "Stiele", "name": "Petersilie" },
+    { "amount": "2", "unit": "EL", "name": "Sherryessig" },
+    { "amount": "50", "unit": "g", "name": "Parmesan oder vegetarischer Hartkäse" },
+    { "amount": "2", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "50", "unit": "g", "name": "Tahin (Sesampaste)" },
+    { "amount": "2", "unit": "TL", "name": "Senf, mittelscharf" },
+    { "amount": "100", "unit": "ml", "name": "Kokosmilch" },
+    { "amount": "4", "unit": "EL", "name": "Zitronensaft" }
+  ],
+  "steps": [
+    "Kartoffeln waschen und in mundgerechte Stücke schneiden.",
+    "Zwiebeln schälen, halbieren und in Streifen schneiden; Sardellen grob hacken.",
+    "Kartoffeln mit Zitronenschale, Zwiebeln, Sardellen, 2 EL Olivenöl, Salz und Pfeffer vermischen.",
+    "Auf einem mit Backpapier ausgelegten Blech verteilen und im vorgeheizten Ofen bei 200 °C (180 °C Umluft) ca. 30 Minuten backen, dann abkühlen lassen.",
+    "Knoblauch schälen und klein schneiden, mit Tahin, Senf, Kokosmilch und Zitronensaft mit dem Stabmixer pürieren und mit Salz und Pfeffer abschmecken.",
+    "Römersalat putzen, waschen und zupfen. Spitzpaprika putzen, waschen und in Stücke schneiden. Petersilie waschen und die Blätter hacken.",
+    "Gebackene Kartoffeln mit Paprika, Petersilie, Sherryessig, den restlichen 2 EL Olivenöl, Salz und Pfeffer vermischen.",
+    "Mit dem Römersalat in einer Schüssel anrichten, mit dem Tahin-Dressing beträufeln und mit geriebenem Parmesan bestreuen."
+  ],
+  "notes": "Quelle: lecker.de"
+}

@@ -5,6 +5,7 @@
   "cuisine": "italienisch",
   "time": 25,
   "servings": 4,
+  "image": "images/spaghetti-carbonara.svg",
   "ingredients": [
     { "amount": "400", "unit": "g", "name": "Spaghetti" },
     { "amount": "150", "unit": "g", "name": "Guanciale oder Pancetta" },

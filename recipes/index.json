@@ -1,11 +1,39 @@
 [
   {
+    "id": "blaubeertorte-blueberry-dream",
+    "title": "Blaubeertorte \"Blueberry Dream\"",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/blaubeer_torte.png"
+  },
+  {
     "id": "pancakes",
     "title": "Fluffige Pancakes",
     "category": "fruehstueck",
     "cuisine": "amerikanisch",
     "time": 20,
-    "servings": 2
+    "servings": 2,
+    "image": null
+  },
+  {
+    "id": "gefuelltes-pfannenbrot",
+    "title": "Gefülltes Pfannenbrot",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 30,
+    "servings": 6,
+    "image": "images/Pfannenbrot.png"
+  },
+  {
+    "id": "kartoffelsalat-caesar-art",
+    "title": "Kartoffelsalat nach Caesar-Art",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 50,
+    "servings": 4,
+    "image": "images/cesar_salat.png"
   },
   {
     "id": "mango-lassi",
@@ -13,7 +41,17 @@
     "category": "getraenke",
     "cuisine": "indisch",
     "time": 5,
-    "servings": 2
+    "servings": 2,
+    "image": null
+  },
+  {
+    "id": "sigara-boerek",
+    "title": "Sigara Börek aus dem Ofen",
+    "category": "sonstiges",
+    "cuisine": "türkisch",
+    "time": 40,
+    "servings": 12,
+    "image": "images/börek.png"
   },
   {
     "id": "spaghetti-carbonara",
@@ -21,6 +59,7 @@
     "category": "mittag",
     "cuisine": "italienisch",
     "time": 25,
-    "servings": 4
+    "servings": 4,
+    "image": "images/spaghetti-carbonara.svg"
   }
 ]

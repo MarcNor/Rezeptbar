@@ -1,0 +1,28 @@
+{
+  "id": "gefuelltes-pfannenbrot",
+  "title": "Gefülltes Pfannenbrot",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 30,
+  "servings": 6,
+  "image": "images/Pfannenbrot.png",
+  "ingredients": [
+    { "amount": "350", "unit": "g", "name": "Mehl" },
+    { "amount": "", "unit": "", "name": "Mehl zum Bestäuben" },
+    { "amount": "2", "unit": "TL", "name": "Salz" },
+    { "amount": "300", "unit": "g", "name": "Naturjoghurt" },
+    { "amount": "6", "unit": "Scheiben", "name": "Gouda" },
+    { "amount": "6", "unit": "Scheiben", "name": "Schinken" },
+    { "amount": "", "unit": "", "name": "Olivenöl zum Braten" },
+    { "amount": "", "unit": "", "name": "Butter zum Bestreichen" }
+  ],
+  "steps": [
+    "Mehl und Salz vermischen, Joghurt dazugeben und zu einem glatten Teig verkneten.",
+    "Teig in 6 gleich große Kugeln teilen und auf einer bemehlten Fläche dünn rund ausrollen.",
+    "Je 2 Scheiben Gouda und etwas gewürfelten Kochschinken mittig auf jeden Teigfladen legen.",
+    "Alle vier Seiten des Teigfladens über die Füllung schlagen, sodass ein geschlossenes Päckchen entsteht.",
+    "Die gefüllten Brote in Olivenöl bei mittlerer Hitze von beiden Seiten goldbraun ausbacken.",
+    "Heiß aus der Pfanne nehmen und mit etwas Butter bestreichen."
+  ],
+  "notes": "Alternative Füllungen: Feta & aufgetauter TK-Spinat, oder Mozzarella & gehacktes Basilikum. Quelle: lecker.de"
+}

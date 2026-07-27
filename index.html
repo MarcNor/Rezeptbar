@@ -3,13 +3,30 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kochbuch</title>
+  <title>Rezeptbar</title>
   <link rel="stylesheet" href="css/style.css" />
+  <script>
+    (function () {
+      var saved = localStorage.getItem("theme");
+      if (saved === "light" || saved === "dark") {
+        document.documentElement.setAttribute("data-theme", saved);
+      }
+    })();
+  </script>
 </head>
 <body>
   <header class="site-header">
-    <div class="container">
-      <a href="#/" class="logo">📖 Kochbuch</a>
+    <div class="container header-inner">
+      <a href="#/" class="logo">📖 Rezeptbar</a>
+      <div class="header-controls">
+        <nav id="section-nav" class="section-nav">
+          <a href="#/kochen" data-section="kochen">Kochen</a>
+          <a href="#/backen" data-section="backen">Backen</a>
+          <a href="#/getraenke" data-section="getraenke">Getränke</a>
+        </nav>
+        <button type="button" id="image-toggle" class="theme-toggle" aria-label="Bilder in Übersicht umschalten"></button>
+        <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Farbschema umschalten"></button>
+      </div>
     </div>
   </header>
 
@@ -17,7 +34,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>Kochbuch &mdash; eine private Rezeptsammlung</p>
+      <p>Rezeptbar &mdash; eine private Rezeptsammlung</p>
     </div>
   </footer>
 
