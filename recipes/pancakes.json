@@ -1,0 +1,25 @@
+{
+  "id": "pancakes",
+  "title": "Fluffige Pancakes",
+  "category": "fruehstueck",
+  "cuisine": "amerikanisch",
+  "time": 20,
+  "servings": 2,
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "Mehl" },
+    { "amount": "2", "unit": "TL", "name": "Backpulver" },
+    { "amount": "2", "unit": "EL", "name": "Zucker" },
+    { "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "amount": "250", "unit": "ml", "name": "Milch" },
+    { "amount": "1", "unit": "", "name": "Ei" },
+    { "amount": "30", "unit": "g", "name": "Butter, geschmolzen" }
+  ],
+  "steps": [
+    "Mehl, Backpulver, Zucker und Salz vermischen.",
+    "Milch, Ei und geschmolzene Butter verquirlen und zu den trockenen Zutaten geben.",
+    "Kurz zu einem glatten Teig verrühren, nicht überrühren.",
+    "Portionsweise in einer beschichteten Pfanne bei mittlerer Hitze goldbraun backen, dabei einmal wenden.",
+    "Mit Ahornsirup, Beeren oder nach Belieben servieren."
+  ],
+  "notes": ""
+}

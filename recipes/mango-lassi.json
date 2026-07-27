@@ -1,0 +1,22 @@
+{
+  "id": "mango-lassi",
+  "title": "Mango Lassi",
+  "category": "getraenke",
+  "cuisine": "indisch",
+  "time": 5,
+  "servings": 2,
+  "ingredients": [
+    { "amount": "1", "unit": "", "name": "reife Mango" },
+    { "amount": "250", "unit": "g", "name": "Joghurt" },
+    { "amount": "100", "unit": "ml", "name": "Milch" },
+    { "amount": "1", "unit": "EL", "name": "Honig oder Zucker" },
+    { "amount": "1", "unit": "Prise", "name": "Kardamom, gemahlen" }
+  ],
+  "steps": [
+    "Mango schälen und das Fruchtfleisch grob würfeln.",
+    "Alle Zutaten in einen Mixer geben und cremig pürieren.",
+    "Bei Bedarf mit etwas Milch die gewünschte Konsistenz einstellen.",
+    "Gut gekühlt servieren."
+  ],
+  "notes": ""
+}

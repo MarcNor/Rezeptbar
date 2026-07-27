@@ -1,0 +1,26 @@
+{
+  "id": "spaghetti-carbonara",
+  "title": "Spaghetti Carbonara",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 25,
+  "servings": 4,
+  "ingredients": [
+    { "amount": "400", "unit": "g", "name": "Spaghetti" },
+    { "amount": "150", "unit": "g", "name": "Guanciale oder Pancetta" },
+    { "amount": "4", "unit": "", "name": "Eigelb" },
+    { "amount": "1", "unit": "", "name": "Ei" },
+    { "amount": "80", "unit": "g", "name": "Pecorino, gerieben" },
+    { "amount": "", "unit": "", "name": "Schwarzer Pfeffer" },
+    { "amount": "", "unit": "", "name": "Salz" }
+  ],
+  "steps": [
+    "Spaghetti in reichlich Salzwasser al dente kochen.",
+    "Guanciale in Würfel schneiden und in einer Pfanne ohne Fett knusprig auslassen.",
+    "Eigelbe, Ei und Pecorino verquirlen und kräftig pfeffern.",
+    "Abgetropfte Spaghetti (etwas Nudelwasser aufheben) zum Speck in die Pfanne geben und vom Herd nehmen.",
+    "Die Ei-Käse-Mischung unterrühren und mit etwas Nudelwasser zu einer cremigen Sauce binden.",
+    "Sofort mit extra Pecorino und Pfeffer servieren."
+  ],
+  "notes": "Die Pfanne muss beim Einrühren der Eimischung vom Herd sein, sonst gerinnt das Ei."
+}

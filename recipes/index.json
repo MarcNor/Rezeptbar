@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pancakes",
+    "title": "Fluffige Pancakes",
+    "category": "fruehstueck",
+    "cuisine": "amerikanisch",
+    "time": 20,
+    "servings": 2
+  },
+  {
+    "id": "mango-lassi",
+    "title": "Mango Lassi",
+    "category": "getraenke",
+    "cuisine": "indisch",
+    "time": 5,
+    "servings": 2
+  },
+  {
+    "id": "spaghetti-carbonara",
+    "title": "Spaghetti Carbonara",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 25,
+    "servings": 4
+  }
+]
