@@ -1,0 +1,41 @@
+{
+  "id": "gyoza-mit-selbstgemachtem-teig",
+  "title": "Gyoza mit Spitzkohl und Hackfleisch",
+  "category": "mittag",
+  "cuisine": "japanisch",
+  "time": 90,
+  "servings": 20,
+  "image": "images/gyoza.png",
+  "ingredients": [
+    { "component": "Teig", "amount": "250", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Teig", "amount": "25", "unit": "g", "name": "Kartoffelstärke" },
+    { "component": "Teig", "amount": "0,5", "unit": "TL", "name": "Salz" },
+    { "component": "Teig", "amount": "140", "unit": "ml", "name": "Wasser" },
+    { "component": "Teig", "amount": "", "unit": "", "name": "Kartoffelstärke zum Bestäuben" },
+
+    { "component": "Füllung", "amount": "2", "unit": "", "name": "Lauchzwiebeln" },
+    { "component": "Füllung", "amount": "1", "unit": "", "name": "kleine Knoblauchzehe" },
+    { "component": "Füllung", "amount": "5", "unit": "g", "name": "Ingwer" },
+    { "component": "Füllung", "amount": "200", "unit": "g", "name": "Spitzkohl" },
+    { "component": "Füllung", "amount": "1", "unit": "TL", "name": "Salz (für den Spitzkohl)" },
+    { "component": "Füllung", "amount": "160", "unit": "g", "name": "Hackfleisch" },
+    { "component": "Füllung", "amount": "1", "unit": "TL", "name": "Zucker" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Weißer Pfeffer, nach Geschmack" },
+    { "component": "Füllung", "amount": "3", "unit": "TL", "name": "Sojasauce" },
+    { "component": "Füllung", "amount": "1", "unit": "TL", "name": "Sesamöl" },
+
+    { "component": "Dip", "amount": "1", "unit": "EL", "name": "Sojasauce" },
+    { "component": "Dip", "amount": "1", "unit": "EL", "name": "Reisessig" }
+  ],
+  "steps": [
+    "Teig: Wasser aufkochen und das Salz darin auflösen. Mehl und Kartoffelstärke sieben und vermischen, das Salzwasser einrühren und zunächst mit einem Löffel, dann mit den Händen zu einem Teig verkneten.",
+    "Teig ca. 5 Minuten auf der Arbeitsfläche kneten, zu einer Kugel formen, in Folie wickeln und mindestens 30 Minuten ruhen lassen.",
+    "Teig auf 2–3 mm Dicke ausrollen, mit etwas Kartoffelstärke bestäuben und mit einer 10-cm-Ausstechform 20 Kreise ausstechen. Mit Stärke bepinseln und bis zur Verwendung mit einem feuchten Tuch abdecken.",
+    "Füllung: Lauchzwiebeln, Knoblauch und Ingwer fein hacken. Spitzkohl grob hacken, mit Salz bestreuen, kurz ziehen lassen und die austretende Flüssigkeit in einem Tuch fest ausdrücken.",
+    "Lauchzwiebeln, Knoblauch, Ingwer, Spitzkohl, Hackfleisch, Zucker, Pfeffer, Sojasauce und Sesamöl gut miteinander vermengen.",
+    "Je ca. 15 g Füllung mittig auf ein Teigblatt setzen. Rand mit angefeuchtetem Finger befeuchten, das Blatt zuklappen und die Ränder in Falten zusammendrücken. Vor dem Braten die Unterseite leicht mit Mehl bestäuben.",
+    "In einer großen Pfanne (28 cm) 1 EL Öl erhitzen, die Gyoza in Reihen hineinsetzen und die Unterseite anbraten, bis sie leicht gebräunt sind.",
+    "Wasser zugießen und abgedeckt bei mittlerer Hitze garen, bis das Wasser verdampft ist.",
+    "Für den Dip, die beiden Zutaten miteinander vermischen und in kleinen Schälchen servieren."
+  ]
+}

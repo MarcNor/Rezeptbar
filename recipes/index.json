@@ -18,6 +18,24 @@
     "image": null
   },
   {
+    "id": "gebratene-nudeln-mit-ei-und-gemuese",
+    "title": "Gebratene Nudeln mit Ei und Gemüse",
+    "category": "mittag",
+    "cuisine": "chinesisch",
+    "time": 30,
+    "servings": 4,
+    "image": "images/gebratene_nudeln.png"
+  },
+  {
+    "id": "gebratener-reis-mit-ei",
+    "title": "Gebratener Reis mit Ei",
+    "category": "mittag",
+    "cuisine": "asiatisch",
+    "time": 30,
+    "servings": 2,
+    "image": "images/gebratener_reis.png"
+  },
+  {
     "id": "gefuelltes-pfannenbrot",
     "title": "Gefülltes Pfannenbrot",
     "category": "mittag",
@@ -25,6 +43,15 @@
     "time": 30,
     "servings": 6,
     "image": "images/Pfannenbrot.png"
+  },
+  {
+    "id": "gyoza-mit-selbstgemachtem-teig",
+    "title": "Gyoza mit Spitzkohl und Hackfleisch",
+    "category": "mittag",
+    "cuisine": "japanisch",
+    "time": 90,
+    "servings": 20,
+    "image": "images/gyoza.png"
   },
   {
     "id": "kartoffelsalat-caesar-art",
@@ -47,7 +74,7 @@
   {
     "id": "sigara-boerek",
     "title": "Sigara Börek aus dem Ofen",
-    "category": "sonstiges",
+    "category": "mittag",
     "cuisine": "türkisch",
     "time": 40,
     "servings": 12,
@@ -61,5 +88,14 @@
     "time": 25,
     "servings": 4,
     "image": "images/spaghetti-carbonara.svg"
+  },
+  {
+    "id": "teriyaki-sauce-selbstgemacht",
+    "title": "Teriyaki Sauce selber machen",
+    "category": "sonstiges",
+    "cuisine": "japanisch",
+    "time": 30,
+    "servings": 4,
+    "image": "images/teriyaki_sauce.png"
   }
 ]

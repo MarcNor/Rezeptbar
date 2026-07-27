@@ -5,6 +5,11 @@
   const sectionNav = document.getElementById("section-nav");
   const themeToggle = document.getElementById("theme-toggle");
   const imageToggle = document.getElementById("image-toggle");
+  const BASE_TITLE = document.title;
+
+  function setTitle(suffix) {
+    document.title = suffix ? `${suffix} · ${BASE_TITLE}` : BASE_TITLE;
+  }
 
   function currentTheme() {
     const attr = document.documentElement.getAttribute("data-theme");
@@ -135,6 +140,7 @@
 
   function renderOverview(section) {
     const sectionDef = SECTIONS[section];
+    setTitle(sectionDef.label);
     const st = sectionState[section];
     const sectionRecipes = recipeIndex.filter((r) => sectionDef.categories.includes(r.category));
 
@@ -277,6 +283,7 @@
   }
 
   function renderDetail(recipe, section) {
+    setTitle(recipe.title);
     const baseServings = recipe.servings || null;
     let servings = baseServings;
 

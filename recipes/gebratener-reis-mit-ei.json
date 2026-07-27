@@ -1,0 +1,33 @@
+{
+  "id": "gebratener-reis-mit-ei",
+  "title": "Gebratener Reis mit Ei",
+  "category": "mittag",
+  "cuisine": "asiatisch",
+  "time": 30,
+  "servings": 2,
+  "image": "images/gebratener_reis.png",
+  "ingredients": [
+    { "amount": "1", "unit": "", "name": "kleine rote Chilischote, fein gewürfelt" },
+    { "amount": "1", "unit": "", "name": "Karotte, gewürfelt" },
+    { "amount": "1", "unit": "", "name": "weiße Zwiebel, gewürfelt" },
+    { "amount": "0,5", "unit": "Bund", "name": "Frühlingszwiebeln, grob geschnitten" },
+    { "amount": "2", "unit": "", "name": "Eier, verquirlt" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe, fein gewürfelt" },
+    { "amount": "15", "unit": "g", "name": "Ingwer, fein gewürfelt" },
+    { "amount": "200", "unit": "g", "name": "Basmatireis, gekocht und ausgekühlt" },
+    { "amount": "5", "unit": "EL", "name": "Bratöl" },
+    { "amount": "2", "unit": "EL", "name": "Sojasauce" },
+    { "amount": "1", "unit": "EL", "name": "Sesamöl, geröstet" },
+    { "component": "Topping", "amount": "2", "unit": "", "name": "Frühlingszwiebeln, fein geschnitten" },
+    { "component": "Topping", "amount": "3", "unit": "Stiele", "name": "Koriander" }
+  ],
+  "steps": [
+    "Chili in 1 EL erhitztem Öl im Wok kurz anbraten und herausnehmen.",
+    "Karotte und Zwiebel in 1 EL Öl anbraten, Frühlingszwiebeln zugeben und glasig dünsten, dann herausnehmen.",
+    "Wok auswischen, verquirlte Eier in 1 EL Öl braten und ebenfalls herausnehmen. Wok erneut auswischen.",
+    "Ingwer und Knoblauch in erhitztem Öl anbraten, Reis zugeben und mitbraten.",
+    "Gebratenes Gemüse zugeben, kurz mitbraten, Ei unterheben und mit Sojasauce und Sesamöl abschmecken.",
+    "Mit Frühlingszwiebeln, Koriander und nach Belieben etwas Chiliöl bestreut servieren."
+  ],
+  "notes": "Quelle: kikkoman.de"
+}
