@@ -268,16 +268,16 @@
     return String(scaled);
   }
 
-  function groupIngredients(ingredients) {
+  function groupByComponent(items) {
     const groups = [];
     let current = null;
-    for (const ing of ingredients) {
-      const component = ing.component || null;
+    for (const item of items) {
+      const component = item.component || null;
       if (!current || current.component !== component) {
         current = { component, items: [] };
         groups.push(current);
       }
-      current.items.push(ing);
+      current.items.push(item);
     }
     return groups;
   }
@@ -289,7 +289,7 @@
 
     function renderIngredients() {
       const factor = baseServings ? servings / baseServings : 1;
-      const groups = groupIngredients(recipe.ingredients || []);
+      const groups = groupByComponent(recipe.ingredients || []);
       return groups
         .map((group) => {
           const items = group.items
@@ -306,10 +306,29 @@
           return `
           ${
             group.component
-              ? `<h3 class="ingredient-group-heading">${escapeHtml(group.component)}</h3>`
+              ? `<h3 class="group-heading">${escapeHtml(group.component)}</h3>`
               : ""
           }
           <ul class="ingredients-list">${items}</ul>`;
+        })
+        .join("");
+    }
+
+    function renderSteps() {
+      const normalized = (recipe.steps || []).map((step) =>
+        typeof step === "string" ? { component: null, text: step } : step
+      );
+      const groups = groupByComponent(normalized);
+      return groups
+        .map((group) => {
+          const items = group.items.map((step) => `<li>${escapeHtml(step.text)}</li>`).join("");
+          return `
+          ${
+            group.component
+              ? `<h3 class="group-heading">${escapeHtml(group.component)}</h3>`
+              : ""
+          }
+          <ol class="steps-list">${items}</ol>`;
         })
         .join("");
     }
@@ -326,8 +345,6 @@
           Portionen
         </div>`;
     }
-
-    const steps = (recipe.steps || []).map((step) => `<li>${escapeHtml(step)}</li>`).join("");
 
     function render() {
       app.innerHTML = `
@@ -364,7 +381,7 @@
             </section>
             <section>
               <h2>Zubereitung</h2>
-              <ol class="steps-list">${steps}</ol>
+              ${renderSteps()}
             </section>
           </div>
           ${recipe.notes ? `<p class="notes">${escapeHtml(recipe.notes)}</p>` : ""}

@@ -1,0 +1,31 @@
+{
+  "id": "mie-nudel-suppe",
+  "title": "Chinesische Mie-Nudel-Suppe",
+  "category": "mittag",
+  "cuisine": "chinesisch",
+  "time": 40,
+  "servings": 4,
+  "image": "images/mie_nudel_suppe.png",
+  "ingredients": [
+    { "amount": "25", "unit": "g", "name": "Ingwer" },
+    { "amount": "250", "unit": "g", "name": "Möhren" },
+    { "amount": "4", "unit": "", "name": "Frühlingszwiebeln" },
+    { "amount": "150", "unit": "g", "name": "Pilze" },
+    { "amount": "200", "unit": "g", "name": "Tofu" },
+    { "amount": "150", "unit": "g", "name": "Mi-Nudeln" },
+    { "amount": "2", "unit": "", "name": "Eier" },
+    { "amount": "3", "unit": "EL", "name": "Erdnussöl" },
+    { "amount": "1,5", "unit": "TL", "name": "Szechuanpfeffer" },
+    { "amount": "3", "unit": "", "name": "Sternanis" },
+    { "amount": "800", "unit": "ml", "name": "Gemüsebrühe" },
+    { "amount": "30", "unit": "ml", "name": "Sojasauce" },
+    { "amount": "", "unit": "", "name": "Sesamöl" }
+  ],
+  "steps": [
+    "Ingwer und Möhren schälen. Lauchzwiebeln putzen. Ingwer fein reiben. Möhren und Frühlingszwiebeln in ca. 3 cm lange dünne Stifte schneiden. Stielenden der Shiitakepilze abschneiden und die Pilze in dünne Scheiben schneiden. Tofu in ca. 1 cm große Würfel schneiden. Korianderblätter abzupfen. Mie-Nudeln nach Packungsanweisung kochen, abgießen und abschrecken. Eier in ca. 5:30 Minuten wachsweich kochen, abgießen und abschrecken.",
+    "1 EL Erdnussöl in einem Topf erhitzen. Szechuanpfeffer, schwarzen Pfeffer und Sternanis darin bei mittlerer bis starker Hitze ca. 30 Sekunden anrösten. Ingwer dazugeben und 30 Sekunden mitbraten. Brühe und Sojasoße dazugießen, aufkochen. Möhren und Shiitakepilze hinzufügen. Topf vom Herd nehmen und alles bei geschlossenem Deckel 10 Minuten ziehen lassen.",
+    "In der Zwischenzeit restliches Erdnussöl in einer Pfanne erhitzen und die Tofuwürfel bei starker Hitze darin rundherum goldbraun anbraten.",
+    "Eier schälen, halbieren, mit Mie-Nudeln, Frühlingszwiebeln, Tofu und Koriander in die Suppenschalen geben, mit der heißen Suppe übergießen und mit Sesamöl beträufelt servieren."
+  ],
+  "notes": ""
+}

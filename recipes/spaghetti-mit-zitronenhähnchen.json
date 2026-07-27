@@ -1,0 +1,34 @@
+{
+  "id": "spaghetti-mit-zitronenhähnchen",
+  "title": "Spaghetti mit Zitronenhähnchen\n",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 50,
+  "servings": 4,
+  "image": "images/spaghetti-mit-zitronenhähnchen.png",
+  "ingredients": [
+    { "amount": "4", "unit": "Stiele", "name": "Thymian" },
+    { "amount": "1", "unit": "Zweig", "name": "Rosmarin" },
+    { "amount": "1", "unit": "", "name": "Bio-Zitrone" },
+    { "amount": "4", "unit": "EL", "name": "Olivenöl" },
+    { "amount": "", "unit": "", "name": "Zucker" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "600", "unit": "g", "name": "Hähnchenfilet" },
+    { "amount": "2", "unit": "", "name": "Zwiebeln" },
+    { "amount": "5", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "400", "unit": "g", "name": "Spaghetti" },
+    { "amount": "2", "unit": "EL", "name": "Butter" },
+    { "amount": "1", "unit": "EL", "name": "Mehl" },
+    { "amount": "200", "unit": "g", "name": "Schlagsahne" },
+    { "amount": "1", "unit": "TL", "name": "Gemüsebrühe" }
+  ],
+  "steps": [
+    "Für die Marinade Thymian und Rosmarin waschen und trocken schütteln. Blättchen bzw. Nadeln abzupfen, fein hacken. Zitrone heiß waschen, abtrocknen und die Schale fein abreiben. Zitrone halbieren, auspressen.",
+    "Zitronensaft, -schale, Kräuter, 2 EL Öl und je 1⁄2 TL Zucker und Pfeffer verrühren. Fleisch waschen, trocken tupfen und würfeln. Mit Marinade in einen Gefrierbeutel füllen, Beutel verschließen. Durchkneten und ca. 30 Minuten ziehen lassen.",
+    "Zwiebeln schälen, fein würfeln. Knoblauch schälen und 2 Zehen fein hacken. 3 Zehen in 3–4 l kochendem Salzwasser (1 TL Salz pro Liter) aufkochen. Nudeln darin nach Packungsanweisung garen.",
+    "Eine große Pfanne ohne Fett erhitzen. Fleisch samt Marinade darin bei mittlerer Hitze rundherum 4–5 Minuten braten, mit Salz würzen und herausnehmen.",
+    "Butter im Bratfett erhitzen. Zwiebeln und gehackten Knoblauch darin andünsten. Mit Mehl bestäuben, kurz anschwitzen. 300 ml Nudelwasser abnehmen und angießen. Sahne und Brühe einrühren, aufkochen und ca. 5 Minuten köcheln.",
+    "Mit Salz und Pfeffer abschmecken. Nudeln abgießen, zurück in den Topf geben. Mit Fleisch und Soße mischen und nochmals kurz erhitzen. Mit Basilikum bestreut anrichten. Dazu: frisch geriebener Parmesan."
+  ]
+}

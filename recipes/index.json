@@ -9,6 +9,24 @@
     "image": "images/blaubeer_torte.png"
   },
   {
+    "id": "burger-knusperhähnchen-coleslaw",
+    "title": "Burger mit Knusperhähnchen und Coleslaw",
+    "category": "mittag",
+    "cuisine": "amerikanisch",
+    "time": 200,
+    "servings": 6,
+    "image": "images/burger-knusperhähnchen-coleslaw.png"
+  },
+  {
+    "id": "mie-nudel-suppe",
+    "title": "Chinesische Mie-Nudel-Suppe",
+    "category": "mittag",
+    "cuisine": "chinesisch",
+    "time": 40,
+    "servings": 4,
+    "image": "images/mie_nudel_suppe.png"
+  },
+  {
     "id": "pancakes",
     "title": "Fluffige Pancakes",
     "category": "fruehstueck",
@@ -23,7 +41,7 @@
     "category": "mittag",
     "cuisine": "chinesisch",
     "time": 30,
-    "servings": 4,
+    "servings": 2,
     "image": "images/gebratene_nudeln.png"
   },
   {
@@ -85,9 +103,18 @@
     "title": "Spaghetti Carbonara",
     "category": "mittag",
     "cuisine": "italienisch",
-    "time": 25,
+    "time": 20,
+    "servings": 2,
+    "image": "images/spaghetti-carbonara.png"
+  },
+  {
+    "id": "spaghetti-mit-zitronenhähnchen",
+    "title": "Spaghetti mit Zitronenhähnchen\n",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 50,
     "servings": 4,
-    "image": "images/spaghetti-carbonara.svg"
+    "image": "images/spaghetti-mit-zitronenhähnchen.png"
   },
   {
     "id": "teriyaki-sauce-selbstgemacht",

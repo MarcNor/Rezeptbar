@@ -3,25 +3,24 @@
   "title": "Spaghetti Carbonara",
   "category": "mittag",
   "cuisine": "italienisch",
-  "time": 25,
-  "servings": 4,
-  "image": "images/spaghetti-carbonara.svg",
+  "time": 20,
+  "servings": 2,
+  "image": "images/spaghetti-carbonara.png",
   "ingredients": [
-    { "amount": "400", "unit": "g", "name": "Spaghetti" },
-    { "amount": "150", "unit": "g", "name": "Guanciale oder Pancetta" },
-    { "amount": "4", "unit": "", "name": "Eigelb" },
-    { "amount": "1", "unit": "", "name": "Ei" },
-    { "amount": "80", "unit": "g", "name": "Pecorino, gerieben" },
+    { "amount": "250", "unit": "g", "name": "Spaghetti" },
+    { "amount": "150", "unit": "g", "name": "Speck" },
+    { "amount": "2", "unit": "", "name": "Eier" },
+    { "amount": "200", "unit": "ml", "name": "Sahne" },
+    { "amount": "80", "unit": "g", "name": "Parmesan" },
     { "amount": "", "unit": "", "name": "Schwarzer Pfeffer" },
-    { "amount": "", "unit": "", "name": "Salz" }
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Muskat" }
   ],
   "steps": [
-    "Spaghetti in reichlich Salzwasser al dente kochen.",
-    "Guanciale in Würfel schneiden und in einer Pfanne ohne Fett knusprig auslassen.",
-    "Eigelbe, Ei und Pecorino verquirlen und kräftig pfeffern.",
-    "Abgetropfte Spaghetti (etwas Nudelwasser aufheben) zum Speck in die Pfanne geben und vom Herd nehmen.",
-    "Die Ei-Käse-Mischung unterrühren und mit etwas Nudelwasser zu einer cremigen Sauce binden.",
-    "Sofort mit extra Pecorino und Pfeffer servieren."
+    "Spaghetti nach Packungsanweisung al dente garen.",
+    "In der Zwischenzeit Speck in einer großen Pfanne braten, beiseite stellen.",
+    "Eier, Sahne und Parmesan verquirlen. Mit Salz, Pfeffer und Muskat würzen.",
+    "Nudeln direkt aus dem Nudelwasser zum Speck in die Pfanne geben und Eimischung hinzufügen. Alles vermischen, dann bei sehr kleiner Hitze unter Rühren vermischen, bis die Sauce anzieht. Noch einmal abschmecken und genießen."
   ],
   "notes": "Die Pfanne muss beim Einrühren der Eimischung vom Herd sein, sonst gerinnt das Ei."
 }

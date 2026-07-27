@@ -451,7 +451,7 @@ body {
   margin: 0 0 0.9rem;
 }
 
-.ingredient-group-heading {
+.group-heading {
   font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -460,7 +460,7 @@ body {
   margin: 1.1rem 0 0.5rem;
 }
 
-.recipe-detail h2 + .ingredient-group-heading {
+.recipe-detail h2 + .group-heading {
   margin-top: 0;
 }
 
