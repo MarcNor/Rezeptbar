@@ -1,0 +1,32 @@
+{
+  "id": "schoko-brownie-cookies",
+  "title": "Schoko-Brownie-Cookies",
+  "category": "backen",
+  "cuisine": "amerikanisch",
+  "time": 40,
+  "servings": 12,
+  "image": "images/schoko-brownie-cookies.png",
+  "ingredients": [
+    { "amount": "140", "unit": "g", "name": "Weizenmehl" },
+    { "amount": "3", "unit": "EL", "name": "dunkler Backkako" },
+    { "amount": "4", "unit": "g", "name": "Backpulver" },
+    { "amount": "1", "unit": "Prise", "name": "Meersalz" },
+    { "amount": "200", "unit": "g", "name": "Schokolade (65-70% Kakaoanteil)" },
+    { "amount": "125", "unit": "g", "name": "Butter (Zimmertemperatur)" },
+    { "amount": "150", "unit": "g", "name": "Zucker" },
+    { "amount": "100", "unit": "g", "name": "brauner Zucker" },
+    { "amount": "2", "unit": "", "name": "Eier" }
+  ],
+  "steps": [
+    "Alle Zutaten schon mal abwiegen und bereithalten. Bei diesem Rezept ist es besonders wichtig, auf Timing und korrekte Zutaten sowie Mengen zu achten. Bitte also nicht den Zucker reduzieren (der hat nämlich nicht nur Einfluss auf die Süsse des Teiges, sondern bestimmt die Konsistenz des fertigen Cookies massgeblich), Zutaten mit Augenmass abwiegen, falschen, süssen Trinkkakao verwenden statt dunklem Backkakao, erst nach Fertigstellen des Teiges den Ofen vorheizen etc. Tschuldigung, aber ist heute besonders wichtig.",
+    "Den Backofen auf 180°C Ober- und Unterhitze vorheizen. Ein Backblech mit Backpapier versehen und bereithalten.",
+    "Die trockenen Zutaten (also Mehl, Backkakao, Backpulver und Salz) mischen und beiseite stellen.",
+    "Fein gehackte Schokolade und Butterstücke über einem siedenden Wasserbad (am besten in einer solchen Wasserbad-Schale) langsam und sachte schmelzen lassen, dabei ab und an umrühren. Die Schale mit der Schokolade und Butter dürfen das Wasser nicht berühren, alles soll nur durch den aufsteigenden heißen Wasserdampf zum Schmelzen gebracht werden. Ist alles zu einer homogenen Schokomasse verschmolzen, das ganze vom Herd ziehen.",
+    "Unterdessen sofort mit dem Rest des Teiges anfangen. Beide Zuckersorten samt der Eier in eine Rührschüssel oder die Schüssel Eurer Küchenmaschine geben und genau 5 Minuten lang mit dem Teigmischeraufsatz oder Handrührerquirlen mixen.",
+    "Die geschmolzene Schokolade zur Eiermixtur geben und ca. 45 Sekunden lang verrühren. Gerne einmal mit einem Teigschaber auch vom Boden her noch einmal durchrühren, denn hier versteckt sich gerne mal etwas nicht gut gerührter Teig.",
+    "Mehlmixtur dazu geben und nur noch ganz kurz sachte rühren. Hier gilt die Regel: lieber noch ein paar Mehlinseln sehen, als einen überrührten Teig und später einen zähen Keks zu haben. Hinweis: Der Teig ist sehr weich, eher 'Amerikaner-Gebäck',-haft als man es bei anderen Cookie-Rezepten gewohnt ist, nicht erschrecken, das soll so. Der Teig soll ja etwas verlaufen, innen saftig bleiben und diese hübschen Furchen bekommen.",
+    "Nun mithilfe eines Eisportionierers 12 Portionen Teig entnehmen und mit Abstand zueinander als ungefähre Halbkugel-Häufchen  geben. Optional mit grobem Meersalz bestreuen und für 12 Minuten zum Backen mittig in den Ofen geben.",
+    "Herausnehmen und bitte noch nicht vom Blech ziehen, denn die Brownie-Cookies sind jetzt noch sehr weich und würden vermutlich brechen. Am besten wartet man noch 10-15 Minuten lang. Nicht erschrecken, die Cookies fallen - kaum aus dem Ofen - langsam in sich zusammen, die Furchen bilden sich heraus und der Keks ist innen schön 'fudgy'. Das soll so sein, ihr habt nichts falsch gemacht."
+  ],
+  "notes": ""
+}

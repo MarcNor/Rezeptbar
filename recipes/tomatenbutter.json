@@ -1,0 +1,25 @@
+{
+  "id": "tomatenbutter",
+  "title": "Tomaten-Kräuterbutter",
+  "category": "sonstiges",
+  "cuisine": "italienisch",
+  "time": 5,
+  "image": "images/tomatenbutter.png",
+  "ingredients": [
+    { "amount": "175", "unit": "g", "name": "Butter (Zimmertemperatur)" },
+    { "amount": "3", "unit": "EL", "name": "Tomatenmark" },
+    { "amount": "50", "unit": "g", "name": "getrocknete Tomaten in Öl" },
+    { "amount": "2", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "", "unit": "", "name": "Oregano" },
+    { "amount": "", "unit": "", "name": "Thymian" },
+    { "amount": "", "unit": "", "name": "Basilikum" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Tomaten fein hacken. Knoblauch pressen. Kräuter fein hacken.",
+    "Weiche Butter, Tomaten, Tomatenmark, Knoblauch und Kräuter mit einer Gabel gut vermischen.",
+    "Mit Salz und Pfeffer würzen."
+  ],
+  "notes": ""
+}

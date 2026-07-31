@@ -90,6 +90,15 @@
     "image": null
   },
   {
+    "id": "schoko-brownie-cookies",
+    "title": "Schoko-Brownie-Cookies",
+    "category": "backen",
+    "cuisine": "amerikanisch",
+    "time": 40,
+    "servings": 12,
+    "image": "images/schoko-brownie-cookies.png"
+  },
+  {
     "id": "sigara-boerek",
     "title": "Sigara Börek aus dem Ofen",
     "category": "mittag",
@@ -124,5 +133,14 @@
     "time": 30,
     "servings": 4,
     "image": "images/teriyaki_sauce.png"
+  },
+  {
+    "id": "tomatenbutter",
+    "title": "Tomaten-Kräuterbutter",
+    "category": "sonstiges",
+    "cuisine": "italienisch",
+    "time": 5,
+    "servings": null,
+    "image": "images/tomatenbutter.png"
   }
 ]
