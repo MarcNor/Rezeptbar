@@ -9,7 +9,6 @@
   "ingredients": [
     { "amount": "125", "unit": "g", "name": "Mie-Nudeln" },
     { "amount": "100", "unit": "g", "name": "Möhren" },
-    { "amount": "100", "unit": "g", "name": "Sojasprossen (Mungobohnensprossen)" },
     { "amount": "800", "unit": "g", "name": "Lauch (ca. 1 Stange)" },
     { "amount": "8", "unit": "g", "name": "Ingwer" },
     { "amount": "2", "unit": "", "name": "Frühlingszwiebeln" },
@@ -27,12 +26,12 @@
   ],
   "steps": [
     "Mie-Nudeln nach Packungsanweisung kochen und abtropfen lassen.",
-    "Knoblauch und Ingwer schälen und fein würfeln. Möhren schälen und in ca. 6 cm lange, 4 mm dicke Streifen schneiden. Lauch und Frühlingszwiebeln putzen, waschen und in ca. 5 mm dicke Scheiben bzw. Röllchen schneiden. Sojasprossen waschen und abtropfen lassen.",
+    "Knoblauch und Ingwer schälen und fein würfeln. Möhren schälen und in ca. 6 cm lange, 4 mm dicke Streifen schneiden. Lauch und Frühlingszwiebeln putzen, waschen und in ca. 5 mm dicke Scheiben bzw. Röllchen schneiden.",
     "Soße aus Sojasoße, Sesamöl, Kreuzkümmel, Pfeffer und Cayennepfeffer verrühren.",
     "Eier verquirlen, mit Salz würzen, in 1 EL heißem Öl zu Rührei braten und beiseitestellen.",
     "1 EL Öl erhitzen, Knoblauch und Ingwer 1 Minute anbraten, Möhren zugeben und 1 Minute mitbraten, dann den Lauch zugeben und weitere 1 Minute anbraten.",
     "Nudeln mit der Soße hinzufügen, gründlich vermischen und ca. 5 Minuten braten.",
-    "Frühlingszwiebeln, Sojasprossen und Rührei unterrühren und mit Salz, Pfeffer, Sojasoße und Sesamöl abschmecken."
+    "Frühlingszwiebeln und Rührei unterrühren und mit Salz, Pfeffer, Sojasoße und Sesamöl abschmecken."
   ],
   "notes": ""
 }

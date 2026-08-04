@@ -1,5 +1,14 @@
 [
   {
+    "id": "bao-buns-jackfruit-coleslaw",
+    "title": "Bao Buns mit Jackfruit und Coleslaw",
+    "category": "mittag",
+    "cuisine": "asianisch",
+    "time": 200,
+    "servings": 6,
+    "image": "images/bao-buns-jackfruit-coleslaw.png"
+  },
+  {
     "id": "blaubeertorte-blueberry-dream",
     "title": "Blaubeertorte \"Blueberry Dream\"",
     "category": "backen",

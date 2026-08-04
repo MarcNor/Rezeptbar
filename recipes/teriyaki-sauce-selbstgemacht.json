@@ -14,17 +14,15 @@
     { "amount": "50", "unit": "g", "name": "brauner Zucker" },
     { "amount": "150", "unit": "ml", "name": "Sojasauce" },
     { "amount": "150", "unit": "ml", "name": "Mirin" },
-    { "amount": "50", "unit": "ml", "name": "Sake" },
-    { "amount": "", "unit": "", "name": "geschälte Sesamsamen, optional" }
+    { "amount": "50", "unit": "ml", "name": "Sake" }
   ],
   "steps": [
-    "Sesamsamen (falls verwendet) in einer Gusspfanne anrösten und beiseitestellen.",
     "Knoblauch und Ingwer schälen.",
     "Speiseöl und Sesamöl erhitzen, Ingwer und Knoblauch darin leicht andünsten.",
     "Zucker zugeben und unter ständigem Rühren schmelzen lassen.",
     "Mirin, Sojasauce und Sake hinzufügen.",
     "Bei mittlerer Hitze unter gelegentlichem Rühren auf die gewünschte Konsistenz reduzieren.",
-    "Sesamsamen unterrühren, Ingwer und Knoblauch entfernen und die Sauce abkühlen lassen."
+    "Ingwer und Knoblauch entfernen und die Sauce abkühlen lassen."
   ],
-  "notes": "Quelle: grillkameraden.de"
+  "notes": ""
 }

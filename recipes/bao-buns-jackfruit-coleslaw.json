@@ -1,0 +1,60 @@
+{
+  "id": "bao-buns-jackfruit-coleslaw",
+  "title": "Bao Buns mit Jackfruit und Coleslaw",
+  "category": "mittag",
+  "cuisine": "asianisch",
+  "time": 180,
+  "servings": 6,
+  "image": "images/bao-buns-jackfruit-coleslaw.png",
+  "ingredients": [
+    { "component": "Bao Bun", "amount": "250", "unit": "g", "name": "Weizenmehl (405 oder 550)" },
+    { "component": "Bao Bun", "amount": "0,25", "unit": "Würfel", "name": "frische Hefe" },
+    { "component": "Bao Bun", "amount": "10", "unit": "g", "name": "Zucker" },
+    { "component": "Bao Bun", "amount": "112,5", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "component": "Bao Bun", "amount": "25", "unit": "ml", "name": "Kokosmilch" },
+    { "component": "Bao Bun", "amount": "10", "unit": "ml", "name": "Pflanzenöl" },
+    { "component": "Bao Bun", "amount": "", "unit": "", "name": "Salz" },
+
+    { "component": "Füllung", "amount": "1", "unit": "Dose", "name": "Jackfruit" },
+    { "component": "Füllung", "amount": "1", "unit": "EL", "name": "Teriyaki-Sauce" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Sonnenblumenöl" },
+
+    { "component": "Coleslaw", "amount": "800", "unit": "g", "name": "Weißkohl" },
+    { "component": "Coleslaw", "amount": "200", "unit": "g", "name": "Möhren" },
+    { "component": "Coleslaw", "amount": "120", "unit": "g", "name": "Schmand" },
+    { "component": "Coleslaw", "amount": "80", "unit": "g", "name": "Mayonnaise" },
+    { "component": "Coleslaw", "amount": "2", "unit": "", "name": "Zwiebeln" },
+    { "component": "Coleslaw", "amount": "2", "unit": "EL", "name": "Zitronensaft" },
+    { "component": "Coleslaw", "amount": "2", "unit": "EL", "name": "Weißweinessig" },
+    { "component": "Coleslaw", "amount": "1", "unit": "TL", "name": "Senf, mittelscharf" },
+    { "component": "Coleslaw", "amount": "2", "unit": "TL", "name": "Zucker" },
+    { "component": "Coleslaw", "amount": "1,5", "unit": "TL", "name": "Salz" },
+    { "component": "Coleslaw", "amount": "", "unit": "", "name": "Pfeffer" },
+
+    { "component": "Außerdem", "amount": "", "unit": "", "name": "Sesam" },
+    { "component": "Außerdem", "amount": "", "unit": "", "name": "Koriander" }
+  ],
+  "steps": [
+    { "component": "Bao Bun", "text": "Für den Teig Mehl in eine Schüssel geben. In der Mitte eine Mulde formen und die Hefe hineinbröseln. 1 TL des Zuckers und einen Teil des Wassers dazugeben und mit etwas Mehl von der Seite gut verquirlen, bis sich die Hefe aufgelöst hat. Abgedeckt etwa 15 Minuten ruhen lassen. Restliches Wasser, Zucker, Kokosmilch, Öl und Salz zugeben und von Hand oder mit den Knethaken der Rührmaschine mindestens 10 Minuten lang zu einem geschmeidigen, elastischen und glatten Teig verkneten. Zu einer Kugel formen, zurück in die Schüssel legen und abgedeckt etwa 1 Stunde lang an einem warmen und zugfreien Ort gehen lassen, bis sich das Volumen mindestens verdoppelt hat." },
+    { "component": "Bao Bun", "text": "Den gegangenen Teig aus der Schüssel nehmen und auf einer leicht bemehlten Arbeitsfläche kurz durchkneten und einige Minuten entspannen lassen. Den Teig in gleich große Stücke teilen, zu kleinen Kugeln formen, kurz entspannen lassen und mit dem Nudelholz zu länglichen Zungen ausrollen."},
+    { "component": "Bao Bun", "text": "Die Teigovale von einer Seite dünn mit Öl bepinsel und zusammenklappen, sodass kleine Taschen entstehen. Auf einem bemehlten Brett oder der bemehlten Arbeitsfläche abgedeckt noch einmal etwa 20 Minuten ruhen lassen." },
+    { "component": "Bao Bun", "text": "Backpapier zurechtschneiden und die Teiglinge auf dem Backpapier mit etwas Abstand in Dampfgareinsatz oder Bambusdämpfer setzen. Wasser in einem Topf oder Wok zum Kochen bringen, Bambusdämpfer oder Dampfgareinsatz einsetzen und die Buns bei geschlossenem Deckel je nach Größe 10-15 Minuten dämpfen. Den Deckel während des Dämpfens nicht öffnen. Je nach Größe des Dampfgareinsatzes die Buns in mehreren Portionen dämpfen. Etwas abkühlen lassen und nach Belieben füllen."},
+
+    { "component": "Füllung", "text": "Jackfruit abgießen und in kleine Stücke teilen." },
+    { "component": "Füllung", "text": "Öl in einer Pfanne erhitzen und Jackfruit von allen Seiten knusprig anbraten." },
+    { "component": "Füllung", "text": "Teriyaki-Sauce hinzufügen und umrühren, bis alles glasiert ist." },
+
+    { "component": "Coleslaw", "text": "Zuerst putzt Du den Weißkohl, dafür entfernst Du die äußeren dunkelgrünen Blätter, wäschst ihn gründlich ab, viertelst ihn und schneidest keilförmig den Strunk heraus." },
+    { "component": "Coleslaw", "text": "Dann wiegst Du ca. 800 g vom geputzten Weißkohl ab und schneidest mit einem Brotmesser den Kohl in ca. 2 mm schmale Streifen." },
+    { "component": "Coleslaw", "text": "Wenn Dir die Weißkohl-Streifen zu lang sind kannst Du sie auch nochmals in der Mitte teilen. Im Anschluss gibst Du sie in eine große Schüssel." },
+    { "component": "Coleslaw", "text": "Dann bestreust Du sie mit 1 TL Salz und knetest die Kohlstreifen mit beiden Händen für ca. 1 Minute, bis sie weicher werden. Danach lässt Du den Kohl für mindestens 2-3 Minuten stehen, damit er noch mehr Flüssigkeit abgibt." },
+    { "component": "Coleslaw", "text": "Im Anschluss gibst Du die Kohlstreifen in ein Küchensieb, drückst sie nochmals kräftig aus, damit so viel wie möglich Flüssigkeit entweicht. Auf dem Bild kannst Du sehen, wie viel ungefähr rausgekommen ist. Die Flüssigkeit kannst Du entfernen, die brauchst Du nicht mehr." },
+    { "component": "Coleslaw", "text": "Den Kohl gibst Du nun in die Schüssel zurück, die 200 g Möhren schälst Du, schneidest die Enden ab und raspelst sie grob auf einer Küchenreibe. Die 2 Zwiebeln schälst Du und schneidest sie in feine Würfel. Beides gibst Du zum Weißkohl in die Schüssel." },
+    { "component": "Coleslaw", "text": "Für das Coleslaw Dressing verrührst Du in einer kleinen Schüssel mit einem Schneebesen wie folgt: 120 g Schmand, 80 g Mayonnaise, 2 EL Zitronensaft, 2 EL Weißweinessig, 2 TL Zucker, 1 TL Senf, ½ TL Salz und 1 Messerspitze gemahlenen schwarzen Pfeffer. Nach Belieben alle Zutaten nochmals zum Abschmecken verwenden." },
+    { "component": "Coleslaw", "text": "Jetzt vermengst Du noch das Salatdressing mit dem Kohl und dem Gemüse in der Salatschüssel." },
+    { "component": "Coleslaw", "text": "Du kannst den amerikanischen Krautsalat direkt servieren oder im Kühlschrank abgedeckt aufbewahren." },
+
+    { "component": "Zusammensetzen", "text": "Bao Bun nehmen, Jackfruit und Coleslaw einfüllen." },
+    { "component": "Zusammensetzen", "text": "Nach Belieben mit Sesam und Koriander garnieren." }
+  ]
+}
