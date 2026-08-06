@@ -1,0 +1,27 @@
+{
+  "id": "gebratener-lachs",
+  "title": "Gebratener Lachs",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 15,
+  "servings": 2,
+  "image": "images/gebratener-lachs.png",
+  "ingredients": [
+    { "amount": "2", "unit": "", "name": "Lachsfilets" },
+    { "amount": "1", "unit": "EL", "name": "Pflanzenöl" },
+    { "amount": "1", "unit": "EL", "name": "Butter" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "1", "unit": "Zweig", "name": "Rosmarin" },
+    { "amount": "1", "unit": "Zweig", "name": "Thymian" },
+    { "amount": "1", "unit": "", "name": "Bio-Zitrone" }
+  ],
+  "steps": [
+    "Die Lachsfilets mit Küchenpapier trockentupfen. Falls doch Gräten zu sehen sind, entfernst du sie mit einer Pinzette. Fischfilets von beiden Seiten leicht mit Salz und schwarzem Pfeffer aus der Mühle würzen.",
+    "Anschließend erhitzt du in einer beschichteten Pfanne Öl auf mittlere bis hohe Hitze. Dann legst du die Filets hinein und lässt sie bei mittlerer Hitze 4-5 Minuten braten. Bewege die Lachsfilets nach Möglichkeit beim Braten nicht. Die Unterseite sollte am Ende leicht gebräunt sein.",
+    "Dann einmal wenden und nach Belieben zum Aromatisieren noch 1 geschälte, grob gewürfelte Knoblauchzehe, Kräuterzweige und Zitrone dazulegen. Die Lachsfilets ebenfalls 4-5 Minuten bei mittlerer Hitze auf der zweiten Seite braten.",
+    "In den letzten 1-2 Minuten gibst du Butter in die Pfanne, lässt sie schmelzen und schöpfst die Butter mit einem Esslöffel mehrmals über die Lachsfilets."
+  ],
+  "notes": ""
+}

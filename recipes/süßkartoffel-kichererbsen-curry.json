@@ -1,0 +1,41 @@
+{
+  "id": "süßkartoffel-kichererbsen-curry",
+  "title": "Süßkartoffel Curry mit Kichererbsen",
+  "category": "mittag",
+  "cuisine": "indisch",
+  "time": 25,
+  "servings": 5,
+  "image": "images/süßkartoffel-kichererbsen-curry.png",
+  "ingredients": [
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "1", "unit": "Stück", "name": "Ingwer" },
+    { "amount": "1", "unit": "TL", "name": "Kreuzkümmel" },
+    { "amount": "0,5", "unit": "TL", "name": "Kurkuma" },
+    { "amount": "1,5", "unit": "EL", "name": "Currypaste oder -pulver" },
+    { "amount": "1", "unit": "", "name": "Süßkartoffel" },
+    { "amount": "1", "unit": "", "name": "Karotte" },
+    { "amount": "400", "unit": "ml", "name": "passierte Tomaten" },
+    { "amount": "400", "unit": "ml", "name": "Kokosmilch" },
+    { "amount": "175", "unit": "g", "name": "Brokkoli" },
+    { "amount": "1", "unit": "Dose", "name": "Kichererbsen" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "1", "unit": "Beutel", "name": "Reis" },
+    { "amount": "", "unit": "", "name": "Petersilie" },
+    { "amount": "", "unit": "", "name": "Cashewnüsse" },
+    { "amount": "", "unit": "", "name": "Sesam" },
+    { "amount": "", "unit": "", "name": "Limettensaft" }
+  ],
+  "steps": [
+    "Das Öl in einer großen Pfanne oder einem großen Topf bei mittlerer Hitze erhitzen. Die Zwiebeln hinzugeben und ca. 3-5 Minuten glasig anbraten.",
+    "Den Knoblauch, Ingwer, Kreuzkümmel, Kurkuma und Currypaste hinzufügen. Alles gut verrühren und weitere 1-2 Minute braten.",
+    "Dann die gewürfelte Süßkartoffel und die Karotte hinzugeben, erneut umrühren und weitere 1-2 Minuten braten, bis das Gemüse leicht gebräunt ist. Nun die passierten Tomaten und die Kokosmilch hinzugeben und verrühren. Die Pfanne abdecken und bei mittlerer Hitze etwa 10 Minuten köcheln lassen.",
+    "Nun die Brokkoliröschen und die Kichererbsen dazugeben und weitere 10-15 Minuten köcheln lassen, bis das Gemüse gar ist. (Wenn das Curry beim Kochen zu dick wird, füge etwas Wasser hinzu).",
+    "Nebenbei den Reis nach Packungsanleitung kochen.",
+    "Anschließend mit Salz und Pfeffer abschmecken. Den Herd ausschalten und das Curry etwa 5 Minuten ziehen lassen.",
+    "Das Curry mit gekochtem Reis (oder anderen Beilagen) servieren. Nach Belieben mit gerösteten Cashewnüssen, Sesamsamen, Petersilie garnieren. Auf Wunsch mit einem Spritzer Limettensaft abrunden."
+  ],
+  "notes": ""
+}

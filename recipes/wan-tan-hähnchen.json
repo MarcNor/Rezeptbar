@@ -1,0 +1,41 @@
+{
+  "id": "wan-tan-hähnchen",
+  "title": "Wan Tans mit Hähnchen",
+  "category": "mittag",
+  "cuisine": "chinesisch",
+  "time": 95,
+  "servings": 10,
+  "image": "images/wan-tan-hähnchen.png",
+  "ingredients": [
+    { "component": "Teig", "amount": "120", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Teig", "amount": "75", "unit": "ml", "name": "Wasser" },
+    { "component": "Teig", "amount": "0,25", "unit": "TL", "name": "Salz" },
+    { "component": "Teig", "amount": "etwas", "unit": "", "name": "Maisstärke" },
+
+    { "component": "Füllung", "amount": "100", "unit": "g", "name": "Hähnchenbrust" },
+    { "component": "Füllung", "amount": "1", "unit": "", "name": "Möhre" },
+    { "component": "Füllung", "amount": "1", "unit": "", "name": "Frühlingszwiebel" },
+    { "component": "Füllung", "amount": "1", "unit": "", "name": "Ei" },
+    { "component": "Füllung", "amount": "0,5", "unit": "TL", "name": "Speisestärke" },
+    { "component": "Füllung", "amount": "1", "unit": "EL", "name": "Sojasauce" },
+    { "component": "Füllung", "amount": "0,25", "unit": "TL", "name": "Sesamöl" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    {"component": "Teig", "text": "Wasser aufkochen und 5 Minuten abkühlen lassen."},
+    {"component": "Teig", "text": "Mehl und Salz in der Schüssel der Küchenmaschine mischen. In der Mitte eine Mulde bilden und das heisse Wasser reingiessen. Für 5 Minuten auf mittlerer Stufe zu einem geschmeidigen Teig kneten."},
+    {"component": "Teig", "text": "Teig auf eine saubere Arbeitsfläche geben und von Hand nochmal kurz durchkneten. In zwei Kugeln teilen und jeweils mit Frischhaltefolie einpacken. Für 30 Minuten bei Raumtemperatur ruhen lassen."},
+    {"component": "Teig", "text": "Die Kugeln auf eine mit Maisstärke bemehlte Arbeitsfläche geben und mit einem Nudelholz länglich ausrollen."},
+    {"component": "Teig", "text": "Pasta Roller auf einer sauberen Arbeitsfläche aufstellen. Pasta Roller, Arbeitsfläche, sowie Hände mit Maisstärke bestäuben. Den Teig zweimal mit dem grössten Walzenabstand durch den Pasta Roller laufen lassen."},
+    {"component": "Teig", "text": "Den Walzenabstand um eine Grösse verringern und den Teig zweimal durchlaufen lassen. Das Ganze zweimal wiederholen, bis der Teig ganz dünn ist (~2 mm)."},
+    {"component": "Teig", "text": "Teig mithilfe eines Pizzaschneiders in Quadrate schneiden. Eine Länge von 7.5-9 cm ist ideal."},
+
+    {"component": "Füllung", "text": "Hähnchenbrust sehr fein hacken oder würfeln und im Blitzhacker grob pürieren. Die Möhre schälen und winzig fein würfeln. Frühlingszwiebeln putzen, waschen, in feine Scheiben schneiden. Ei trennen."},
+    {"component": "Füllung", "text": "Hähnchenbrust, Möhre, Zwiebeln, Speisestärke, Eigelb, Sojasauce und Sesamöl gründlich miteinander verkneten, salzen und pfeffern."},
+
+    {"component": "Zusammensetzen", "text": "Je 1 TL Füllung auf die Mitte der Teigquadrate geben. Teigränder mit verquirltem Eiweiß bepinseln, hochheben und über der Füllung behutsam zusammendrücken oder -drehen."},
+    {"component": "Zusammensetzen", "text": "Zum Dämpfen im Topf ausreichend Wasser zum Kochen bringen. Den Dämpfaufsatz mit passend rund zugeschnittenem Backpapier auslegen und die Wan-Tans darin verteilen. Den Aufsatz auf den Topf setzen und die Wan-Tans zugedeckt ca. 10 Min. dämpfen."}
+  ],
+  "notes": ""
+}

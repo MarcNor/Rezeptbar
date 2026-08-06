@@ -45,6 +45,15 @@
     "image": "images/couscous-bratlinge.png"
   },
   {
+    "id": "erbseneintopf",
+    "title": "Erbseneintopf",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 95,
+    "servings": 4,
+    "image": "images/erbseneintopf.png"
+  },
+  {
     "id": "focaccia-kartoffel-dinkel",
     "title": "Focaccia aus Kartoffel-Dinkelteig",
     "category": "mittag",
@@ -54,6 +63,15 @@
     "image": "images/focaccia-kartoffel-dinkel.png"
   },
   {
+    "id": "pilz-shawarma",
+    "title": "Focaccia mit Pilz-Shawarma",
+    "category": "mittag",
+    "cuisine": "orientalisch",
+    "time": 90,
+    "servings": 2,
+    "image": "images/pilz-shawarma.png"
+  },
+  {
     "id": "gebratene-nudeln-mit-ei-und-gemuese",
     "title": "Gebratene Nudeln mit Ei und Gemüse",
     "category": "mittag",
@@ -61,6 +79,15 @@
     "time": 30,
     "servings": 2,
     "image": "images/gebratene_nudeln.png"
+  },
+  {
+    "id": "gebratener-lachs",
+    "title": "Gebratener Lachs",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 15,
+    "servings": 2,
+    "image": "images/gebratener-lachs.png"
   },
   {
     "id": "gebratener-reis-mit-ei",
@@ -79,6 +106,15 @@
     "time": 30,
     "servings": 6,
     "image": "images/Pfannenbrot.png"
+  },
+  {
+    "id": "gelbe-linsen-curry-suppe",
+    "title": "Gelbe Linsen-Curry-Suppe",
+    "category": "mittag",
+    "cuisine": "indisch",
+    "time": 25,
+    "servings": 4,
+    "image": "images/gelbe-linsen-curry-suppe.png"
   },
   {
     "id": "gyoza-mit-selbstgemachtem-teig",
@@ -108,6 +144,15 @@
     "image": "images/cesar_salat.png"
   },
   {
+    "id": "hühnersuppe",
+    "title": "Klassiche Hühnersuppe",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 150,
+    "servings": 16,
+    "image": "images/hühnersuppe.png"
+  },
+  {
     "id": "lasagne",
     "title": "Lasagne",
     "category": "mittag",
@@ -115,6 +160,15 @@
     "time": 150,
     "servings": 4,
     "image": "images/lasagne.png"
+  },
+  {
+    "id": "mango-hähnchen-curry",
+    "title": "Mango-Curry mit Hähnchen",
+    "category": "mittag",
+    "cuisine": "indisch",
+    "time": 30,
+    "servings": 4,
+    "image": "images/mango-hähnchen-curry.png"
   },
   {
     "id": "neapolitanische_pizza",
@@ -225,6 +279,15 @@
     "image": "images/spaghetti-salat.png"
   },
   {
+    "id": "süßkartoffel-kichererbsen-curry",
+    "title": "Süßkartoffel Curry mit Kichererbsen",
+    "category": "mittag",
+    "cuisine": "indisch",
+    "time": 25,
+    "servings": 5,
+    "image": "images/süßkartoffel-kichererbsen-curry.png"
+  },
+  {
     "id": "teriyaki-sauce-selbstgemacht",
     "title": "Teriyaki Sauce selber machen",
     "category": "sonstiges",
@@ -259,5 +322,23 @@
     "time": 20,
     "servings": 2,
     "image": "images/udon-mit-teriyaki.png"
+  },
+  {
+    "id": "köttbullar-dillsoße",
+    "title": "Vegane Köttbullar mit Dillsoße",
+    "category": "mittag",
+    "cuisine": "schwedisch",
+    "time": 40,
+    "servings": 2,
+    "image": "images/köttbullar-dillsoße.png"
+  },
+  {
+    "id": "wan-tan-hähnchen",
+    "title": "Wan Tans mit Hähnchen",
+    "category": "mittag",
+    "cuisine": "chinesisch",
+    "time": 95,
+    "servings": 10,
+    "image": "images/wan-tan-hähnchen.png"
   }
 ]

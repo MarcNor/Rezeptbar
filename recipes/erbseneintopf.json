@@ -1,0 +1,28 @@
+{
+  "id": "erbseneintopf",
+  "title": "Erbseneintopf",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 95,
+  "servings": 4,
+  "image": "images/erbseneintopf.png",
+  "ingredients": [
+    { "amount": "250", "unit": "g", "name": "Erbsen" },
+    { "amount": "1,5", "unit": "l", "name": "Wasser" },
+    { "amount": "80", "unit": "g", "name": "Speckwürfel" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "150", "unit": "g", "name": "Karotten" },
+    { "amount": "100", "unit": "g", "name": "Knollensellerie" },
+    { "amount": "300", "unit": "g", "name": "mehligkochende Kartoffeln" },
+    { "amount": "1", "unit": "TL", "name": "Majoran" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Die Erbsen waschen und über Nacht in Wasser einweichen.",
+    "Den Speck würfeln und in einem Topf auslassen, Zwiebel-, Karotten- und Selleriewürfel dazugeben und kurz anbraten.",
+    "Erbsen mit dem Einweichwasser dazugeben und alles ca. 1 Stunde köcheln lassen, dabei ab und zu umrühren, damit nichts ansetzt.",
+    "Dann die Kartoffeln und den Majoran dazugeben, weiterkochen. Sind die Kartoffeln gar, den Eintopf abschmecken und die Würstchen darin heiß werden lassen."
+  ],
+  "notes": ""
+}

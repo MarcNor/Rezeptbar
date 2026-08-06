@@ -1,0 +1,34 @@
+{
+  "id": "hühnersuppe",
+  "title": "Klassiche Hühnersuppe",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 150,
+  "servings": 16,
+  "image": "images/hühnersuppe.png",
+  "ingredients": [
+    { "amount": "1", "unit": "", "name": "Suppenhuhn" },
+    { "amount": "1", "unit": "", "name": "Suppengrün" },
+    { "amount": "1", "unit": "", "name": "Petersilienwurzel" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "Stück", "name": "Ingwer" },
+    { "amount": "1", "unit": "", "name": "Lorbeerblatt" },
+    { "amount": "1", "unit": "EL", "name": "Pfefferkörner" },
+    { "amount": "1", "unit": "EL", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Suppennudeln" },
+    { "amount": "", "unit": "", "name": "Petersilie" }
+  ],
+  "steps": [
+    "Das Suppenhuhn mit einem Küchentuch abtupfen. Wenn Du magst, kannst Du noch die Fettdrüse entfernen, falls noch vorhanden, die gibt besonders viel Fett ab.",
+    "Das Suppengrün vorbereiten: Lauch putzen und in Scheiben schneiden, Knollensellerie und Möhre schälen und grob würfeln, den Blumenkohl waschen und grob zerteilen.",
+    "Den Ingwer abwaschen und in Scheiben schneiden, die Petersilienwurzel schälen und grob würfeln, die Zwiebel einfach mit Schale halbieren.",
+    "Jetzt gibst Du das Suppenhuhn und das gesamte Gemüse in einen großen Topf und gießt ca. 5 Liter kaltes Wasser hinein (das Huhn sollte mit Wasser bedeckt sein). Auf dem Herd langsam erhitzen bis zum Siedepunkt.",
+    "Jetzt Salz, Pfefferkörner und Lorbeerblatt hineingeben und ca. 2 Stunden ohne Deckel sanft sieden bzw. garziehen lassen.",
+    "Den aufsteigenden Schaum (Trübstoffe) immer wieder mit einem kleinen Sieb abschöpfen, damit sie klar wird. Am Anfang ist das relativ viel und dann wird es immer weniger.",
+    "Nach der Garzeit nimmst Du das Suppenhuhn aus dem Topf, entfernst die Haut vom Fleisch und trennst es von den Knochen. In mundgerechte Stücke schneiden und beiseite stellen.",
+    "Jetzt gießt Du die Suppe durch ein Sieb in einen anderen Topf um.",
+    "Die Hühnersuppe mit Gemüse nach Belieben bestücken einkochen. Suppennudeln nach Packungsanweisung.",
+    "Zum Schluss noch das Fleisch hineingeben und nach Belieben mit frischer Petersilie oder Schnittlauch bestreuen."
+  ],
+  "notes": ""
+}

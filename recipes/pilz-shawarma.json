@@ -1,0 +1,63 @@
+{
+  "id": "pilz-shawarma",
+  "title": "Focaccia mit Pilz-Shawarma",
+  "category": "mittag",
+  "cuisine": "orientalisch",
+  "time": 90,
+  "servings": 2,
+  "image": "images/pilz-shawarma.png",
+  "ingredients": [
+    { "component": "Focaccia", "amount": "250", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Focaccia", "amount": "1", "unit": "Pck.", "name": "Trockenhefe" },
+    { "component": "Focaccia", "amount": "5", "unit": "g", "name": "Salz" },
+    { "component": "Focaccia", "amount": "10", "unit": "g", "name": "Zucker" },
+    { "component": "Focaccia", "amount": "170", "unit": "ml", "name": "Wasser" },
+    { "component": "Focaccia", "amount": "8", "unit": "g", "name": "Olivenöl" },
+
+    { "component": "Pilz-Shawarma", "amount": "40", "unit": "g", "name": "Olivenöl" },
+    { "component": "Pilz-Shawarma", "amount": "100", "unit": "g", "name": "Zwiebeln" },
+    { "component": "Pilz-Shawarma", "amount": "100", "unit": "g", "name": "Champignons" },
+    { "component": "Pilz-Shawarma", "amount": "100", "unit": "g", "name": "Kräuterseitlinge" },
+    { "component": "Pilz-Shawarma", "amount": "7", "unit": "g", "name": "Jerusalem-Gewürz" },
+    { "component": "Pilz-Shawarma", "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "component": "Pilz-Shawarma", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Pilz-Shawarma", "amount": "", "unit": "", "name": "Petersilie" },
+
+    { "component": "Tahina", "amount": "0,5", "unit": "EL", "name": "Zitronensaft" },
+    { "component": "Tahina", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Tahina", "amount": "55", "unit": "ml", "name": "Wasser" },
+    { "component": "Tahina", "amount": "70", "unit": "g", "name": "Tahin" },
+
+    { "component": "Amba", "amount": "1", "unit": "", "name": "Mango" },
+    { "component": "Amba", "amount": "0,25", "unit": "", "name": "Zitrone" },
+    { "component": "Amba", "amount": "1", "unit": "EL", "name": "Olivenöl" },
+    { "component": "Amba", "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "component": "Amba", "amount": "0,5", "unit": "TL", "name": "Bockshornkleesamen" },
+    { "component": "Amba", "amount": "0,5", "unit": "TL", "name": "Senfsamen" },
+    { "component": "Amba", "amount": "1", "unit": "TL", "name": "Kurkuma" },
+    { "component": "Amba", "amount": "0,25", "unit": "TL", "name": "Kreuzkümmel" },
+    { "component": "Amba", "amount": "1", "unit": "TL", "name": "Harissa" },
+    { "component": "Amba", "amount": "1", "unit": "EL", "name": "Rotweinessig" },
+    { "component": "Amba", "amount": "", "unit": "", "name": "Salz" },
+
+    { "component": "Zum anrichten", "amount": "", "unit": "", "name": "Petersilie" },
+    { "component": "Zum anrichten", "amount": "", "unit": "", "name": "Minze" },
+    { "component": "Zum anrichten", "amount": "", "unit": "", "name": "Koriander" }
+  ],
+  "steps": [
+    { "component": "Focaccia", "text": "Für die Focaccia Mehl, Trockenhefe, Salz und Zucker in eine Küchenmaschine geben. Wasser und Olivenöl hinzufügen. Mit dem Knethaken ca. 7 Minuten verarbeiten. 5 Minuten ruhen lassen, 3 Minuten weiter verarbeiten. Wieder 5 Minuten ruhen lassen, dann nochmals 2 Minuten weiterverarbeiten. Mit Folie abdecken und über Nacht im Kühlschrank gehen lassen."},
+    { "component": "Focaccia", "text": "Teig aus dem Kühlschrank holen und je 150 g schwere Kugeln formen. Leicht bemehlen. Mit Frischhaltefolie oder einem feuchten Tuch abdecken. 1–2 Stunden bei Raumtemperatur ruhen lassen."},
+
+    {"component": "Pilz-Shawarma", "text": "Olivenöl in einer Pfanne erhitzen, Zwiebeln anrösten, dann herausnehmen. Champignons und Kräuterseitlinge in der Pfanne anrösten. Zwiebeln, Jerusalem-Gewürz, Chili und Knoblauch hinzufügen und für ca. 2 Minuten rösten. Salz und Petersilie dazugeben und durchschwenken."},
+
+    {"component": "Tahina", "text": "Zitronensaft, Salz und Wasser in einem hohen Gefäß verrühren. Das Sesammus nach und nach mit einem Schneebesen oder Pürierstab einarbeiten, bis sich die Zutaten gut verbunden haben und die Tahina glatt und cremig ist."},
+
+    {"component": "Amba", "text": "Mango schälen und das Fruchtfleisch vom Kern lösen."},
+    {"component": "Amba", "text": "Bockshornkleesamen und Senfsamen in einer Pfanne ohne Öl kurz anrösten"},
+    {"component": "Amba", "text": "Zitrone auspressen. Knoblauch schälen."},
+    {"component": "Amba", "text": "Alle Zutaten in einen Mixer geben und zu einer glatten Sauce pürieren. Mit Salz abschmecken."},
+
+    {"component": "Zusammensetzen", "text": "Focaccia backen, mit dem Pilz-Shawarma belegen. Mit Tahina und Amba toppen. Zitronensaft, Olivenöl und Salz verrühren. Die Kräuter damit marinieren und auf die Focaccia geben."}
+  ],
+  "notes": ""
+}

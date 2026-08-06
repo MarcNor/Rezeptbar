@@ -1,0 +1,36 @@
+{
+  "id": "mango-hähnchen-curry",
+  "title": "Mango-Curry mit Hähnchen",
+  "category": "mittag",
+  "cuisine": "indisch",
+  "time": 30,
+  "servings": 4,
+  "image": "images/mango-hähnchen-curry.png",
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "Hähnchen" },
+    { "amount": "1,5", "unit": "EL", "name": "Currypulver" },
+    { "amount": "2", "unit": "EL", "name": "Öl" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "1", "unit": "Stück", "name": "Ingwer" },
+    { "amount": "1", "unit": "TL", "name": "Paprikapulver" },
+    { "amount": "1", "unit": "EL", "name": "Sojasauce" },
+    { "amount": "1", "unit": "", "name": "Mango" },
+    { "amount": "200", "unit": "ml", "name": "Kokosmilch" },
+    { "amount": "1", "unit": "", "name": "Limette" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "1", "unit": "Beutel", "name": "Reis" },
+    { "amount": "", "unit": "", "name": "Petersilie" },
+    { "amount": "", "unit": "", "name": "Sesam" },
+    { "amount": "", "unit": "", "name": "Frühliungszwiebel" }
+  ],
+  "steps": [
+    "Das Hähnchen waschen, zurechtschneiden und mit Salz und Pfeffer (und ggf. Hähnchengewürz) würzen.",
+    "In einer Pfanne das Öl erhitzen und das Hähnchen darin anbraten, bis es goldbraun ist. Dann aus der Pfanne nehmen und beiseite stellen.",
+    "In derselben Pfanne die Zwiebeln 2-3 Minuten anbraten. Dann Knoblauch und Ingwer dazugeben und eine weitere Minute rösten. Nun das restliche Currypulver sowie Paprikapulver hinzugeben und kurz mitrösten. Zuletzt mit Tamari ablöschen und dann alles in einem Mixer geben.",
+    "Mangowürfel und Kokosmilch dazugeben und alles cremig mixen. Mit Salz, Pfeffer und Limettensaft abschmecken. Dann zurück in die Pfanne gießen und bei geringer Hitze noch 2-3 Minuten köcheln lassen (wem die Soße zu dick ist, kann gerne noch mehr Kokosmilch oder etwas Wasser hinzufügen).",
+    "Anschließend das Hähnchen unterrühren und das Mango-Curry mit Reis in Schalen servieren. Nach Belieben mit frischer Petersilie und Sesam garnieren."
+  ],
+  "notes": ""
+}
