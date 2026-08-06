@@ -1,0 +1,23 @@
+{
+  "id": "schweizer-rösti",
+  "title": "Schweizer Rösti",
+  "category": "mittag",
+  "cuisine": "schweizerisch",
+  "time": 30,
+  "servings": 2,
+  "image": "images/schweizer-rösti.png",
+  "ingredients": [
+    { "amount": "500", "unit": "g", "name": "mehlig- oder festkochende Kartoffeln" },
+    { "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "amount": "1", "unit": "Prise", "name": "Pfeffer" },
+    { "amount": "1", "unit": "Prise", "name": "Muskatnuss" },
+    { "amount": "8", "unit": "EL", "name": "Öl" },
+    { "amount": "1", "unit": "EL", "name": "Butter" }
+  ],
+  "steps": [
+    "Kartoffeln reiben, mit Salz, Pfeffer und frisch geriebener Muskatnuss würzen und anschließend gut vermengen. Für 3 Minuten beiseitestellen.",
+    "Kartoffelraspeln auf ein sauberes Geschirrtuch geben und das Wasser aus den Kartoffeln ausdrücken.",
+    "Bratöl in einer Pfanne erhitzen. Kartoffelraspeln in die Pfanne geben, verteilen und zu einer Rösti formen. Hitze etwas reduzieren und ca. 10 Min. anbraten, dann wenden und auf der anderen Seite ebenfalls goldbraun braten. Butter dazugeben und die Rösti noch mal 1-2 Min. darin schwenken."
+  ],
+  "notes": ""
+}

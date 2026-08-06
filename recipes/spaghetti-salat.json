@@ -1,0 +1,28 @@
+{
+  "id": "spaghetti-salat",
+  "title": "Spaghetti Salat mit Thunfisch",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 45,
+  "servings": 1,
+  "image": "images/spaghetti-salat.png",
+  "ingredients": [
+    { "amount": "500", "unit": "g", "name": "Spaghetti" },
+    { "amount": "2", "unit": "Dosen", "name": "Thunfisch" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "2", "unit": "", "name": "Paprika" },
+    { "amount": "0,5", "unit": "Flasche", "name": "Texicana Salsa" },
+    { "amount": "0,5", "unit": "Glas", "name": "Miracel Wip" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Spaghetti nach Packungsanleitung kochen und abkühlen lassen.",
+    "Zwiebel und Paprika in kleine Würfel schneiden.",
+    "Thunfisch abtropfen lassen, in eine große Schüssel geben und klein machen.",
+    "Spaghetti, Paprika und Zwiebel hinzufügen und alles gut vermischen.",
+    "Mexicana Salsa und Miracel Wip unterrühren, mit Salz und Pfeffer abschmecken und gut vermischen.",
+    "Den Salat für mindestens 30 Minuten im Kühlschrank ziehen lassen."
+  ],
+  "notes": "Wenn der Salat zu steif wird, etwas Milch hinzufügen."
+}

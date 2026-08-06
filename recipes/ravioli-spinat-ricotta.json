@@ -1,0 +1,39 @@
+{
+  "id": "ravioli-spinat-ricotta",
+  "title": "Ravioli mit Spinat-Ricotta-Füllung",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 90,
+  "servings": 2,
+  "image": "images/ravioli-spinat-ricotta.png",
+  "ingredients": [
+    { "component": "Nudelteig", "amount": "125", "unit": "g", "name": "Mehl" },
+    { "component": "Nudelteig", "amount": "1", "unit": "", "name": "Ei" },
+    { "component": "Nudelteig", "amount": "0,5", "unit": "TL", "name": "Salz" },
+    { "component": "Nudelteig", "amount": "2", "unit": "EL", "name": "Olivenöl" },
+    { "component": "Nudelteig", "amount": "1,5", "unit": "EL", "name": "Wasser" },
+
+    { "component": "Füllung", "amount": "150", "unit": "g", "name": "Spinat" },
+    { "component": "Füllung", "amount": "110", "unit": "g", "name": "Ricotta" },
+    { "component": "Füllung", "amount": "40", "unit": "g", "name": "Parmesan" },
+    { "component": "Füllung", "amount": "1", "unit": "Schuss", "name": "Sahne" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Meersalz" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Pfeffer" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Muskatnuss" },
+
+    { "component": "Sonstiges", "amount": "20", "unit": "g", "name": "Parmesan" },
+    { "component": "Sonstiges", "amount": "2", "unit": "EL", "name": "Butter" }
+  ],
+  "steps": [
+    { "component": "Nudelteig", "text": "Das Mehl durch einen Sieb in eine Schüssel sieben und anschließend mit Salz mischen. Die Eier, das Wasser und Olivenöl hinzugeben und alles so lange kneten, bis ein glatter und geschmeidiger Teig entsteht. Den fertigen Teig in Klarsichtfolie wickeln und ca. 30 Minuten kühl aufbewahren, damit er ruhen kann."},
+    { "component": "Nudelteig", "text": "Den Teig auf der Arbeitsfläche nochmals durchkneten und anschließend dünn ausrollen. Mit einem Glas Kreise ausstechen. Die Kreise auf eine bemehlte Arbeitsfläche legen und mit einem sauberen Küchentuch abdecken."},
+
+    { "component": "Füllung", "text": "Parmesan reiben, Spinat ggf. auftauen und leicht anbraten. Mit etwas Muskatnuss würzen."},
+    { "component": "Füllung", "text": "Ricotta, Spinat und Gewürze vermischen. Einen guten Schuss Sahne, sowie Parmesan hinzufügen und unterheben."},
+
+    { "component": "Zubereitung", "text": "Kleinen Klecks der Füllung in die Mitte der Teigkreise geben. Die Ränder mit Wasser bestreichen und die Kreise zusammenklappen. Die Ränder gut andrücken, damit die Ravioli beim Kochen nicht aufgehen."},
+    { "component": "Zubereitung", "text": "Die Ravioli in kochendem Salzwasser ca. 6 Minuten garen, bis sie an der Oberfläche schwimmen. Mit einer Schaumkelle herausnehmen und abtropfen lassen."},
+    { "component": "Zubereitung", "text": "In einer Pfanne Butter erhitzen und die Ravioli darin kurz anbraten. Mit frisch geriebenem Parmesan bestreuen und servieren."}
+  ],
+  "notes": ""
+}

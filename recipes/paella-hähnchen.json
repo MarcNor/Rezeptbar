@@ -1,0 +1,37 @@
+{
+  "id": "paella-hähnchen",
+  "title": "Paella mit Hähnchen",
+  "category": "mittag",
+  "cuisine": "spanisch",
+  "time": 50,
+  "servings": 4,
+  "image": "images/paella-hähnchen.png",
+  "ingredients": [
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "2", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "1", "unit": "", "name": "gelbe Paprika" },
+    { "amount": "1", "unit": "", "name": "rote Paprika" },
+    { "amount": "2", "unit": "", "name": "Strauchtomaten" },
+    { "amount": "3", "unit": "", "name": "Lacuhzwiebeln" },
+    { "amount": "0,5", "unit": "Dose", "name": "Safran" },
+    { "amount": "300", "unit": "g", "name": "Erbsen (tiefgefroren)" },
+    { "amount": "300", "unit": "g", "name": "Hähnchenbrustfilet" },
+    { "amount": "200", "unit": "g", "name": "Paella- oder Risottoreis" },
+    { "amount": "4", "unit": "EL", "name": "Öl" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "2", "unit": "TL", "name": "Currypulver" },
+    { "amount": "500", "unit": "ml", "name": "Geflügelbrühe" },
+    { "amount": "0,5", "unit": "TL", "name": "Paprikapulver (edelsüß)" },
+    { "amount": "1", "unit": "", "name": "Zitrone" }
+  ],
+  "steps": [
+    "Zwiebel abziehen und würfeln, Knoblauch abziehen und hacken. Paprikaschoten halbieren, Stielansatz und Kerngehäuse entfernen, waschen und in 1,5 cm große Stücke schneiden. Tomaten waschen, halbieren, Stielansatz entfernen und würfeln. Lauchzwiebeln waschen, putzen und in feine Ringe schneiden.",
+    "Safranfäden mit etwas heißem Wasser übergießen und etwa 5 Minuten ziehen lassen, Erbsen etwas antauen lassen. Hähnchenbrustfilet abbrausen, trockentupfen und in etwa 2 cm große Stücke schneiden. Reis auf ein Sieb geben, abbrausen und abtropfen lassen.",
+    "1 EL Rapsöl in einer Paella- oder weiten Pfanne erhitzen, die Hähnchenbrustfilet-Stücke darin unter Wenden scharf anbraten mit etwas Pfeffer und Salz würzen, herausnehmen und beiseitestellen. Das restliche Öl in der zuvor verwendeten Pfanne erhitzen, Zwiebelwürfel, Knoblauch und Paprika dazu geben und 3-4 Minuten braten.",
+    "Erbsen, Tomaten, Reis und Safranfäden (inkl. Einweichwasser) dazugeben, mit Currypulver, wenig Salz und Pfeffer würzen, alles gut vermengen und mit der Geflügelbrühe aufgießen. Einmal aufkochen lassen und bei niedriger bis mittlerer Hitze und geschlossenem Deckel etwa 25 Minuten garen, dabei möglichst nicht mehr umrühren. Nach 20 Minuten die Hähnchenbrustfilet-Stücke oben auf den Pfanneninhalt legen und leicht eindrücken.",
+    "Nach der Garzeit den Pfannendeckel abnehmen, die Lauchzwiebel-Ringe und Hähnchenbrustfilet-Stücke unterheben und die Paella mit Paprikapulver und ggfs. Pfeffer und Curry abschmecken, weitere 5 Minuten ohne Hitzezufuhr ziehen lassen. Zitrone in 4 Viertel schneiden.",
+    "Hähnchen-Paella auf 4 Teller verteilen und mit je einem Viertel Zitrone servieren."
+  ],
+  "notes": ""
+}

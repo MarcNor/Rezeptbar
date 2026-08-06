@@ -1,0 +1,30 @@
+{
+  "id": "einfache_pizza",
+  "title": "Schnelle Pizza",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 90,
+  "servings": 1,
+  "image": "images/pizza.png",
+  "ingredients": [
+    { "component": "Teig", "amount": "225", "unit": "g", "name": "Mehl" },
+    { "component": "Teig", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Teig", "amount": "1,5", "unit": "EL", "name": "Olivenöl" },
+    { "component": "Teig", "amount": "125", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "component": "Teig", "amount": "0,5", "unit": "Pck.", "name": "Trockenhefe" },
+
+    { "component": "Soße", "amount": "200", "unit": "g", "name": "passierte Tomaten" },
+    { "component": "Soße", "amount": "", "unit": "", "name": "Kräuter" },
+
+    { "component": "Belag", "amount": "250", "unit": "g", "name": "Gouda" },
+    { "component": "Belag", "amount": "1", "unit": "", "name": "Mozarella" }
+  ],
+  "steps": [
+    "In eine Schüssel Mehl und Salz geben. In einem Messbecher Wasser mit dem Olivenöl und der Trockenhefe mit einer Gabel gut durchrühren und zu dem Mehl und Salz zufügen. Gut durchkneten.",
+    "Den Teig 1 Stunde gehen lassen, anschließend auf ein Blech oder als runde Pizzen ausrollen.",
+    "Passierte Tomaten mit Kräutern, Salz, Pfeffer und Zucker abschmecken und auf den ausgerollten Teig streichen.",
+    "Gouda auf dem Teig verteilen, Mozarella zerreißen und ebenfalls auf der Pizza verteilen.",
+    "Die Pizza bei 220 - 250 °C Ober-/Unterhitze im unteren Teil für 8 - 15 Min. backen. "
+  ],
+  "notes": ""
+}

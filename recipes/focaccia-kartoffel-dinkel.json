@@ -1,0 +1,35 @@
+{
+  "id": "focaccia-kartoffel-dinkel",
+  "title": "Focaccia aus Kartoffel-Dinkelteig",
+  "category": "mittag",
+  "cuisine": "schweizerisch",
+  "time": 180,
+  "servings": 4,
+  "image": "images/focaccia-kartoffel-dinkel.png",
+  "ingredients": [
+    { "component": "Teig", "amount": "300", "unit": "g", "name": "vorwiegend festkochende Kartoffeln" },
+    { "component": "Teig", "amount": "600", "unit": "g", "name": "Dinkelmehl" },
+    { "component": "Teig", "amount": "100", "unit": "ml", "name": "Milch" },
+    { "component": "Teig", "amount": "200", "unit": "ml", "name": "Wasser" },
+    { "component": "Teig", "amount": "1", "unit": "Pck.", "name": "Hefe" },
+    { "component": "Teig", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Teig", "amount": "2", "unit": "EL", "name": "Öl" },
+
+    { "component": "Belag", "amount": "200", "unit": "g", "name": "Spinat" },
+    { "component": "Belag", "amount": "1", "unit": "", "name": "Knoblauchzehen" },
+    { "component": "Belag", "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "component": "Belag", "amount": "100", "unit": "g", "name": "getrocknete Tomaten" },
+    { "component": "Belag", "amount": "", "unit": "", "name": "grobes Meersalz" },
+    { "component": "Belag", "amount": "20", "unit": "g", "name": "Pinienkerne" },
+    { "component": "Belag", "amount": "2", "unit": "Zweige", "name": "Rosmarin" }
+  ],
+  "steps": [
+    "Kartoffeln am besten am Vortag waschen und mit Schale kochen. Am nächsten Tag pellen und durch eine Presse in eine Rührschüssel drücken.",
+    "Das Mehl hinzufügen. Milch und Wasser leicht erwärmen und in eine Schale gießen. Die Hefe hineinbröckeln und mit der Flüssigkeit vermengen. Den Hefeansatz zu den Kartoffeln geben. Den Teig verkneten und dabei etwas Salz und Olivenöl hinzufügen. Der Teig sollte nicht zu flüssig oder klumpig sein. Gegebenenfalls etwas Mehl oder Wasser hinzufügen. Wenn sich der Teig gut vom Rand löst und samtig ist, mit einem Handtuch abdecken und etwa 2 Stunden bei Zimmertemperatur gehen lassen.",
+    "Inzwischen Spinat waschen und abtropfen lassen. Knoblauch und Schalotten schälen und würfeln. Tomaten ebenfalls würfeln. 2 EL Öl in einer Pfanne erhitzen. Knoblauch und Schalotten darin andünsten. Spinat zufügen und zusammenfallen lassen. Tomaten unterheben. Mit grobem Meersalz aus der Mühle und Pfeffer würzen. Pinienkerne unterheben.",
+    "Ofen auf 175°C Umluft vorheizen. Ein Backblech oder eine flache Ofenform mit Backpapier belegen oder mit etwas Olivenöl bestreichen. Den Teig oval oder rechteckig nicht zu dünn ausrollen, er sollte dicker als bei einer Pizza sein.",
+    "Rosmarin waschen und trocken schütteln. Nadeln von den Zweigen streifen, hacken und mit Öl verrühren. In die Brote kleine Vertiefungen drücken und mit dem Rosmarinöl beträufeln. Mit frisch gemahlenem Meersalz aus der Mühle bestreuen.",
+    "Im vorgeheizten Backofen ca. 30 Min. backen. Nach ca. 20 Min. der Backzeit die Spinatmischung auf den Broten verteilen und die Brote zu Ende backen."
+  ],
+  "notes": ""
+}

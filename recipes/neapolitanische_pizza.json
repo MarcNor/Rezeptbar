@@ -1,0 +1,34 @@
+{
+  "id": "neapolitanische_pizza",
+  "title": "Neapolitanische Pizza",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 720,
+  "servings": 1,
+  "image": "images/pizza.png",
+  "ingredients": [
+    { "component": "Teig", "amount": "250", "unit": "g", "name": "Mehl" },
+    { "component": "Teig", "amount": "160", "unit": "ml", "name": "kaltes Wasser" },
+    { "component": "Teig", "amount": "1", "unit": "Pck.", "name": "Trockenhefe" },
+    { "component": "Teig", "amount": "8", "unit": "g", "name": "Salz" },
+    { "component": "Teig", "amount": "", "unit": "", "name": "Olivenöl" },
+
+    { "component": "Soße", "amount": "200", "unit": "g", "name": "passierte Tomaten" },
+    { "component": "Soße", "amount": "", "unit": "", "name": "Kräuter" },
+
+    { "component": "Belag", "amount": "250", "unit": "g", "name": "Gouda" },
+    { "component": "Belag", "amount": "1", "unit": "", "name": "Mozarella" }
+  ],
+  "steps": [
+    "Wiege das Wasser ab. Wenn du den Pizzateig schon häufiger gemacht hast, kannst du dich langsam bis an etwas mehr kaltes Wasser rantasten.",
+    "Das kalte Wasser, 1g Trockenhefe und 150 g Mehl mit einem Handrührgerät 2-3 Minuten kneten.",
+    "Den Teig in einer abgedeckten Schüssel für 12-16 Stunden in den Kühlschrank stellen.",
+    "Am nächsten Tag den Pizzateig aus dem Kühlschrank nehmen und weiterverarbeiten. Gebe das Salz, die restliche Trockenhefe und das restliche Mehl nach und nach in die Schüssel hinzu. Alle Zutaten mit dem gekühlten Pizzateig gut verkneten und die Schüssel dabei drehen bis ein geschmeidiger, glänzender Teig entsteht. Das kann so zwischen 10-20 Minuten dauern.\n",
+    "Die Teigmasse in einer mit Olivenöl bestrichenen Schüssel legen. Die Schüssel abdecken und für 6 Stunden bei Zimmertemperatur gehen lassen.",
+    "Aus diesem Teig 6 Stücke á 275 g abtrennen und in Kugeln formen. Die Kugeln müssen nochmal für 2 weitere Stunden ruhen. Alternativ kannst du die Kugeln auch bis zu 2 Stunden vor der weiteren Verwendung im Kühlschrank lagern. Die Schüssel bzw. das Gefäß in dem du die Teigkugeln lagerst, solltest du mit etwas Olivenöl einölen.",
+    "Passierte Tomaten mit Kräutern, Salz, Pfeffer und Zucker abschmecken und auf den ausgerollten Teig streichen.",
+    "Gouda auf dem Teig verteilen, Mozarella zerreißen und ebenfalls auf der Pizza verteilen.",
+    "Die Pizza bei 220 - 250 °C Ober-/Unterhitze im unteren Teil für 8 - 15 Min. backen. "
+  ],
+  "notes": ""
+}

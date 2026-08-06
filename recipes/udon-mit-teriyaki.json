@@ -1,0 +1,28 @@
+{
+  "id": "udon-mit-teriyaki",
+  "title": "Udon Nudeln mit Teriyaki Sauce",
+  "category": "mittag",
+  "cuisine": "asiatisch",
+  "time": 20,
+  "servings": 2,
+  "image": "images/udon-mit-teriyaki.png",
+  "ingredients": [
+    { "amount": "2", "unit": "Pck.", "name": "vorgekochte Udon-Nudeln" },
+    { "amount": "1", "unit": "", "name": "Paprika" },
+    { "amount": "2", "unit": "", "name": "Möhren" },
+    { "amount": "100", "unit": "g", "name": "Bohnen" },
+    { "amount": "2", "unit": "", "name": "Frühlingszwiebeln" },
+    { "amount": "2", "unit": "EL", "name": "Teriyaki Sauce" },
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "", "unit": "", "name": "Röstzwiebeln" },
+    { "amount": "", "unit": "", "name": "Sesam" }
+  ],
+  "steps": [
+    "Gemüse waschen und in kleine Stücke schneiden.",
+    "Öl in einer Pfanne erhitzen und das Gemüse darin anbraten.",
+    "Udon-Nudeln hinzufügen und kurz mitbraten.",
+    "Teriyaki Sauce und Frühlingszwiebeln hinzufügen und alles gut vermischen.",
+    "Mit Röstzwiebeln und Sesam bestreuen und servieren."
+  ],
+  "notes": ""
+}

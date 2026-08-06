@@ -1,0 +1,32 @@
+{
+  "id": "bulgur-salat",
+  "title": "Türkischer Bulgur Salat",
+  "category": "mittag",
+  "cuisine": "türkisch",
+  "time": 45,
+  "servings": 4,
+  "image": "images/bulgur-salat.png",
+  "ingredients": [
+    { "amount": "300", "unit": "g", "name": "Bulgur" },
+    { "amount": "500", "unit": "ml", "name": "Wasser" },
+    { "amount": "1", "unit": "", "name": "weiße Zwiebel" },
+    { "amount": "1", "unit": "", "name": "rote Zwiebel" },
+    { "amount": "70", "unit": "g", "name": "Tomatenmark" },
+    { "amount": "20", "unit": "g", "name": "Paprikamark" },
+    { "amount": "", "unit": "", "name": "Olivenöl" },
+    { "amount": "2", "unit": "TL", "name": "Zitronensaft" },
+    { "amount": "1", "unit": "", "name": "große Fleischtomate" },
+    { "amount": "0,5", "unit": "", "name": "Salatgurke" },
+    { "amount": "1", "unit": "Bund", "name": "Petersilie" },
+    { "amount": "2", "unit": "TL", "name": "Granatapfelsirup" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Oivenöl erhitzen und die weiße Zwiebel darin glasig anbraten. Tomaten und Paprikamark zugeben und ca. 2 MInuten mit anschwitzen.",
+    "Das Wasser im Wasserkochen erhitzen und über den Bulgur gießen. Stehen lassen, bis der Bulgur das gesamte Wasser aufgesogen hat und bißfest ist.",
+    "Die Zwiebel-Öl MIschung, den Zitronensaft und den Granatapfelssirup zum Bulgur geben und alles gut vermischen.",
+    "Gurkenwürfel und Tomatenstücke zugeben, Petersilienblättchen grob hacken und ebenfalls unterheben. Ca. 30 Minuten durchziehen lassen. MIt Salz und Pfeffer abschmecken und servieren."
+  ],
+  "notes": "Wenn der Salat zu steif wird, etwas Milch hinzufügen."
+}

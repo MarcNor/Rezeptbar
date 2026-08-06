@@ -1,0 +1,28 @@
+{
+  "id": "rahmfladen",
+  "title": "Rahmfladen",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 100,
+  "servings": 2,
+  "image": "images/rahmfladen.png",
+  "ingredients": [
+    { "amount": "150", "unit": "g", "name": "Weizenmehl" },
+    { "amount": "70", "unit": "g", "name": "Roggenmehl" },
+    { "amount": "1,5", "unit": "TL", "name": "Salz" },
+    { "amount": "150", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "amount": "1", "unit": "Pck.", "name": "Hefe" },
+    { "amount": "4", "unit": "EL", "name": "Creme Fraiche" },
+    { "amount": "", "unit": "", "name": "Speckwürfel" },
+    { "amount": "2", "unit": "", "name": "Frühlingszwiebeln" },
+    { "amount": "2", "unit": "", "name": "Kartoffeln" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Kartoffeln am Vortag kochen und abkühlen lassen. Am nächsten Tag in dünne Scheiben schneiden.",
+    "Mehlsorten, Salz und Hefe in einer Schüssel mischen. Lauwarmes Wasser hinzufügen und zu einem glatten Teig verkneten. Den Teig abgedeckt an einem warmen Ort ca. 60 Minuten gehen lassen.",
+    "Anschließend formt man den Teig zu Fladen und legt diese auf ein eingefettetes Blech. Diese bestreicht man mit Crème fraîche. Anschließend Kartoffeln darauf verteilen, Speckwürfel und Lauchzwiebeln drauf verteilen. Mit Pfeffer würzen.",
+    "Die Fladen werden im heißen Backofen bei ca. 200 °C Ober-Unterhitze 25 - 30 Minuten gebacken."
+  ],
+  "notes": ""
+}

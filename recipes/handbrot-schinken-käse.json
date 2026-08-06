@@ -1,0 +1,39 @@
+{
+  "id": "handbrot-schinken-käse",
+  "title": "Handbrot mit Schinken und Käse",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 80,
+  "servings": 4,
+  "image": "images/handbrot-schinken-käse.png",
+  "ingredients": [
+    { "component": "Teig", "amount": "500", "unit": "g", "name": "Mehl" },
+    { "component": "Teig", "amount": "1", "unit": "Pck.", "name": "Hefe" },
+    { "component": "Teig", "amount": "1", "unit": "EL", "name": "Zucker" },
+    { "component": "Teig", "amount": "250", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "component": "Teig", "amount": "1", "unit": "TL", "name": "Salz" },
+    { "component": "Teig", "amount": "1", "unit": "EL", "name": "Öl" },
+
+    { "component": "Füllung", "amount": "250", "unit": "g", "name": "Schinken" },
+    { "component": "Füllung", "amount": "250", "unit": "g", "name": "geriebener Gouda" },
+
+    { "component": "Dip", "amount": "200", "unit": "g", "name": "Schmand" },
+    { "component": "Dip", "amount": "0,5", "unit": "", "name": "Zitrone" },
+    { "component": "Dip", "amount": "2", "unit": "", "name": "Frühlingszwiebeln" },
+    { "component": "Dip", "amount": "", "unit": "", "name": "Schnittlauch" },
+    { "component": "Dip", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Dip", "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    { "component": "Teig", "text": "Als erstes Mehl in eine große Schüssel sieben. Hefe mit Zucker in lauwarmem Wasser auflösen."},
+    { "component": "Teig", "text": "Salz zum Mehl geben und anschließend die aufgelöste Hefe und Öl darüber gießen. Alles zu einem glatten Teig verkneten und für 30 Minuten mit einem feuchten Küchentuch oder Frischhaltefolie abgedeckt gehen lassen."},
+
+    { "component": "Zusammensetzen", "text": "Danach den Teig nochmals kneten und zu einem großen Rechteck ausrollen. In der Mitte einen langen Streifen mit etwas Speck und Gouda belegen und mit Pfeffer würzen."},
+    { "component": "Zusammensetzen", "text": "Eine Längsseite einschlagen und diese in der Mitte mit dem restlichen Speck, Gouda und Pfeffer belegen."},
+    { "component": "Zusammensetzen", "text": "Danach die andere Längsseite darüberlegen und die Enden umklappen. Das Handbrot mit der Naht nach unten auf ein mit Backpapier ausgelegtes Backblech legen."},
+    { "component": "Zusammensetzen", "text": "Die Teigrolle dreimal mit der Messerkante leicht eindrücken, sodass vier Brote entstehen. Noch einmal10 Minuten abgedeckt gehen lassen. Währenddessen den Backofen auf 180 °C Ober-/Unterhitze vorheizen."},
+
+    { "component": "Dip", "text": "Währenddessen für das Schmand-Topping zuerst Schmand mit Zitronensaft verrühren und mit Salz und Pfeffer abschmecken. Frühlingszwiebeln in Ringe schneiden. Schnittlauch fein hacken und unter den Schmand rühren."}
+  ],
+  "notes": ""
+}

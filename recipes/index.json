@@ -4,7 +4,7 @@
     "title": "Bao Buns mit Jackfruit und Coleslaw",
     "category": "mittag",
     "cuisine": "asianisch",
-    "time": 200,
+    "time": 180,
     "servings": 6,
     "image": "images/bao-buns-jackfruit-coleslaw.png"
   },
@@ -36,13 +36,22 @@
     "image": "images/mie_nudel_suppe.png"
   },
   {
-    "id": "pancakes",
-    "title": "Fluffige Pancakes",
-    "category": "fruehstueck",
-    "cuisine": "amerikanisch",
-    "time": 20,
-    "servings": 2,
-    "image": null
+    "id": "couscous-bratlinge",
+    "title": "Couscous-Bratlinge",
+    "category": "mittag",
+    "cuisine": "mediterran",
+    "time": 35,
+    "servings": 6,
+    "image": "images/couscous-bratlinge.png"
+  },
+  {
+    "id": "focaccia-kartoffel-dinkel",
+    "title": "Focaccia aus Kartoffel-Dinkelteig",
+    "category": "mittag",
+    "cuisine": "schweizerisch",
+    "time": 180,
+    "servings": 4,
+    "image": "images/focaccia-kartoffel-dinkel.png"
   },
   {
     "id": "gebratene-nudeln-mit-ei-und-gemuese",
@@ -81,6 +90,15 @@
     "image": "images/gyoza.png"
   },
   {
+    "id": "handbrot-schinken-käse",
+    "title": "Handbrot mit Schinken und Käse",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 80,
+    "servings": 4,
+    "image": "images/handbrot-schinken-käse.png"
+  },
+  {
     "id": "kartoffelsalat-caesar-art",
     "title": "Kartoffelsalat nach Caesar-Art",
     "category": "mittag",
@@ -90,13 +108,67 @@
     "image": "images/cesar_salat.png"
   },
   {
-    "id": "mango-lassi",
-    "title": "Mango Lassi",
-    "category": "getraenke",
-    "cuisine": "indisch",
-    "time": 5,
+    "id": "lasagne",
+    "title": "Lasagne",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 150,
+    "servings": 4,
+    "image": "images/lasagne.png"
+  },
+  {
+    "id": "neapolitanische_pizza",
+    "title": "Neapolitanische Pizza",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 720,
+    "servings": 1,
+    "image": "images/pizza.png"
+  },
+  {
+    "id": "paella-hähnchen",
+    "title": "Paella mit Hähnchen",
+    "category": "mittag",
+    "cuisine": "spanisch",
+    "time": 50,
+    "servings": 4,
+    "image": "images/paella-hähnchen.png"
+  },
+  {
+    "id": "pilzrisotto",
+    "title": "Pilzrisoot",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 40,
     "servings": 2,
-    "image": null
+    "image": "images/pilzrisotto.png"
+  },
+  {
+    "id": "rahmfladen",
+    "title": "Rahmfladen",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 100,
+    "servings": 2,
+    "image": "images/rahmfladen.png"
+  },
+  {
+    "id": "ravioli-spinat-ricotta",
+    "title": "Ravioli mit Spinat-Ricotta-Füllung",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 90,
+    "servings": 2,
+    "image": "images/ravioli-spinat-ricotta.png"
+  },
+  {
+    "id": "einfache_pizza",
+    "title": "Schnelle Pizza",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 90,
+    "servings": 1,
+    "image": "images/pizza.png"
   },
   {
     "id": "schoko-brownie-cookies",
@@ -108,11 +180,20 @@
     "image": "images/schoko-brownie-cookies.png"
   },
   {
+    "id": "schweizer-rösti",
+    "title": "Schweizer Rösti",
+    "category": "mittag",
+    "cuisine": "schweizerisch",
+    "time": 30,
+    "servings": 2,
+    "image": "images/schweizer-rösti.png"
+  },
+  {
     "id": "sigara-boerek",
     "title": "Sigara Börek aus dem Ofen",
     "category": "mittag",
     "cuisine": "türkisch",
-    "time": 40,
+    "time": 100,
     "servings": 12,
     "image": "images/börek.png"
   },
@@ -135,6 +216,15 @@
     "image": "images/spaghetti-mit-zitronenhähnchen.png"
   },
   {
+    "id": "spaghetti-salat",
+    "title": "Spaghetti Salat mit Thunfisch",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 45,
+    "servings": 1,
+    "image": "images/spaghetti-salat.png"
+  },
+  {
     "id": "teriyaki-sauce-selbstgemacht",
     "title": "Teriyaki Sauce selber machen",
     "category": "sonstiges",
@@ -151,5 +241,23 @@
     "time": 5,
     "servings": null,
     "image": "images/tomatenbutter.png"
+  },
+  {
+    "id": "bulgur-salat",
+    "title": "Türkischer Bulgur Salat",
+    "category": "mittag",
+    "cuisine": "türkisch",
+    "time": 45,
+    "servings": 4,
+    "image": "images/bulgur-salat.png"
+  },
+  {
+    "id": "udon-mit-teriyaki",
+    "title": "Udon Nudeln mit Teriyaki Sauce",
+    "category": "mittag",
+    "cuisine": "asiatisch",
+    "time": 20,
+    "servings": 2,
+    "image": "images/udon-mit-teriyaki.png"
   }
 ]

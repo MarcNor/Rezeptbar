@@ -1,0 +1,29 @@
+{
+  "id": "pilzrisotto",
+  "title": "Pilzrisoot",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 40,
+  "servings": 2,
+  "image": "images/pilzrisotto.png",
+  "ingredients": [
+    { "amount": "100", "unit": "g", "name": "Risottoreis" },
+    { "amount": "400", "unit": "ml", "name": "Gemüsebrühe" },
+    { "amount": "2", "unit": "EL", "name": "Öl" },
+    { "amount": "100", "unit": "ml", "name": "Weißwein" },
+    { "amount": "50", "unit": "g", "name": "Parmesan" },
+    { "amount": "6", "unit": "", "name": "Champignons" },
+    { "amount": "2", "unit": "", "name": "Frühlingszwiebeln" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "1", "unit": "EL", "name": "Butter" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Frühlingszwiebeln in feine Ringe schneiden. Knoblauch fein hacken. Champignons halbieren und in Scheiben schneiden.",
+    "Nun Öl in einen Topf geben. Champignons hinzugeben und kurz anbraten. Knoblauch hinzufügen und kurz mit anschwitzen.",
+    "Risotto Reis hinzufügen und kurz dünsten, bis der Reis glasig ist. Mit Weißwein ablöschen. Brühe hinzufügen, so dass der Reis bedeckt ist und mit offenem Deckel köcheln lassen - dabei umrühren.",
+    "Sobald die Flüssigkeit aufgenommen wurde, immer wieder neue hinzugießen und solange wiederholen, bis der Risotto Reis gar ist. Butter, 2/3 des Parmesans und Frühlingszwiebeln unterrühren und mit Salz und Pfeffer abschmecken.",
+    "Beim Servieren mit restlichem Parmesan, etwas frisch gemahlenem Pfeffer und evtl. Kräutern (Petersilie) bestreuen."
+  ],
+  "notes": ""
+}

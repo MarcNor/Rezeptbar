@@ -1,0 +1,25 @@
+{
+  "id": "couscous-bratlinge",
+  "title": "Couscous-Bratlinge",
+  "category": "mittag",
+  "cuisine": "mediterran",
+  "time": 35,
+  "servings": 6,
+  "image": "images/couscous-bratlinge.png",
+  "ingredients": [
+    { "amount": "1", "unit": "Tasse", "name": "Couscous" },
+    { "amount": "1", "unit": "Tasse", "name": "Gemüsebrühe" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "2", "unit": "", "name": "Eier" },
+    { "amount": "", "unit": "", "name": "Kräuter" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Käse" },
+    { "amount": "", "unit": "", "name": "Öl" }
+  ],
+  "steps": [
+    "Zwiebel und Knoblauch mit etwas Öl in einem Topf glasig anschwitzen. Den Topf mit den Zwiebeln vom Herd nehmen.",
+    "Couscous, heiße Gemüsebrühe, Eier, Petersilie, Pfeffer zu den Zwiebeln geben und alles ordentlich mischen. Die Masse 5 Min. quellen lassen.",
+    "Nun Bratlinge daraus formen und in der Pfanne von beiden Seiten anbraten."
+  ],
+  "notes": "Eine Tasse mit 200 - 250 ml Inhalt als Maß verwenden."
+}
