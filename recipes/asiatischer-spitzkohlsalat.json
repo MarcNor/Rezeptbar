@@ -1,0 +1,30 @@
+{
+  "id": "asiatischer-spitzkohlsalat",
+  "title": "Asiatischer Spitzkohlsalat",
+  "category": "mittag",
+  "cuisine": "asiatisch",
+  "time": 25,
+  "servings": 6,
+  "image": "images/asiatischer-spitzkohlsalat.png",
+  "ingredients": [
+    { "component": "Salat", "amount": "700", "unit": "g", "name": "Spitzkohl" },
+    { "component": "Salat", "amount": "2", "unit": "", "name": "Frühlingszwiebeln" },
+    { "component": "Salat", "amount": "2", "unit": "", "name": "Karotten" },
+    { "component": "Salat", "amount": "1", "unit": "EL", "name": "Öl" },
+
+    { "component": "Dressing", "amount": "2", "unit": "EL", "name": "Sesamöl" },
+    { "component": "Dressing", "amount": "2", "unit": "EL", "name": "Sojasauce" },
+    { "component": "Dressing", "amount": "1", "unit": "EL", "name": "Zitronensaft" },
+    { "component": "Dressing", "amount": "1", "unit": "TL", "name": "Honig" },
+    { "component": "Dressing", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Dressing", "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Spitzkohl waschen, längs vierteln und den Strunk entfernen. In feine Streifen schneiden. Öl in einer Pfanne erhitzen, Spitzkohl dazugeben und 5 Minuten dünsten. Herausnehmen und in eine große Schüssel umfüllen.",
+    "Karotten waschen, evtl. schälen und grob raspeln. Lauchzwiebeln waschen und in feine Ringe schneiden.",
+    "Für das Dressing alle Zutaten verrühren.",
+    "Eisbergsalat in Streifen schneiden.",
+    "Karotten und Lauchzwiebel zum Spitzkohl geben. Das Dressing darübergeben und alles gut vermengen. Den Spitzkohl-Salat entweder sofort servieren oder 30 Minuten durchziehen lassen."
+  ],
+  "notes": ""
+}

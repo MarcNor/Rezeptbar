@@ -1,0 +1,59 @@
+{
+  "id": "schawarma-austernseitlinge-grillgemüse",
+  "title": "Vegane Schawarma aus Austernseitlingen mit Grillgemüse",
+  "category": "mittag",
+  "cuisine": "orientalisch",
+  "time": 200,
+  "servings": 4,
+  "image": "images/schawarma-austernseitlinge-grillgemüse.png",
+  "ingredients": [
+    { "amount": "400", "unit": "g", "name": "Austernseitlinge" },
+
+    { "component": "Marinade", "amount": "50", "unit": "ml", "name": "Zitronensaft" },
+    { "component": "Marinade", "amount": "80", "unit": "ml", "name": "Joghurt" },
+    { "component": "Marinade", "amount": "1", "unit": "TL", "name": "Sesamöl" },
+    { "component": "Marinade", "amount": "1", "unit": "EL", "name": "Sojasauce" },
+    { "component": "Marinade", "amount": "2", "unit": "", "name": "Knoblauchzehen" },
+    { "component": "Marinade", "amount": "1", "unit": "TL", "name": "Paprikapulver" },
+    { "component": "Marinade", "amount": "0,5", "unit": "TL", "name": "Salz" },
+    { "component": "Marinade", "amount": "0,5", "unit": "TL", "name": "Rauchsalz" },
+    { "component": "Marinade", "amount": "0,25", "unit": "TL", "name": "Kurkuma" },
+    { "component": "Marinade", "amount": "0,5", "unit": "TL", "name": "Pfeffer" },
+    { "component": "Marinade", "amount": "0,25", "unit": "TL", "name": "Zimt" },
+    { "component": "Marinade", "amount": "0,25", "unit": "TL", "name": "Kardamom" },
+
+    { "component": "Joghurt-Tahini-Sauce", "amount": "2", "unit": "EL", "name": "Tahin" },
+    { "component": "Joghurt-Tahini-Sauce", "amount": "80", "unit": "ml", "name": "Joghurt" },
+    { "component": "Joghurt-Tahini-Sauce", "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "component": "Joghurt-Tahini-Sauce", "amount": "1", "unit": "EL", "name": "Zitronensaft" },
+    { "component": "Joghurt-Tahini-Sauce", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Joghurt-Tahini-Sauce", "amount": "", "unit": "", "name": "Pfeffer" },
+    { "component": "Joghurt-Tahini-Sauce", "amount": "1", "unit": "EL", "name": "Olivenöl" },
+    { "component": "Joghurt-Tahini-Sauce", "amount": "1", "unit": "EL", "name": "Petersilie" },
+
+    { "component": "Grillgemüse", "amount": "2", "unit": "", "name": "rote Zwiebeln" },
+    { "component": "Grillgemüse", "amount": "1", "unit": "", "name": "rote Paprika" },
+    { "component": "Grillgemüse", "amount": "0,5", "unit": "", "name": "Zuchini" },
+    { "component": "Grillgemüse", "amount": "4", "unit": "EL", "name": "Olivenöl" },
+
+    { "component": "Außerdem", "amount": "1", "unit": "", "name": "Tomate" },
+    { "component": "Außerdem", "amount": "0,25", "unit": "", "name": "Salat" },
+    { "component": "Außerdem", "amount": "4", "unit": "", "name": "Wraps" }
+  ],
+  "steps": [
+    "Die Austernpilze in längliche Streifen zupfen. Diese sollten ca. 0,5 – 1,5 cm breit sein.",
+    "Alle Zutaten für die Marinade verrühren und die gezupften Austernpilze 2 Stunden darin marinieren.",
+    "Alle Zutaten für die Tahini-Soße verrühren, mit Salz und Pfeffer abschmecken und kalt stellen.",
+    "Den Ofen auf 220° vorheizen.",
+    "Zwiebeln vierteln, Paprika in mundgerechte Stücke und Zucchini in Scheiben schneiden.",
+    "Die Zwiebeln, Zucchini und Paprika auf einem Backblech mit Backpapier verteilen und mit dem Olivenöl beträufeln.",
+    "Die Paprika und Zwiebeln für ca. 15-20 Minuten auf mittlerer Schiene backen bis sie weich sind und bräunliche Stellen bekommen.",
+    "Aus dem Ofen nehmen und beiseite stellen.",
+    "Den Ofen auf 200° herunter kühlen lassen.",
+    "Die Austernpilze in einer Auflaufform für ca. 40-50 Minuten backen. Nach 20 Minuten wenden, evtl. später noch ein Mal wenden. Die Austernseitlinge sollen dabei leicht Kross und gebräunt werden und die Marinade sollte vollständig verdampft sein.",
+    "Tomaten klein schneiden und den Salat in Streifen schneiden.",
+    "Die Tahini-Soße auf auf den vier Lavash-Broten verteilen, dann die heißen pulled Austernpilze darauf geben.",
+    "Nun das Grillgemüse, Salat und Tomatenstücke auf darüber verteilen und geben und die Fladen einrollen."
+  ],
+  "notes": ""
+}

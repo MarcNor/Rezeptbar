@@ -1,5 +1,14 @@
 [
   {
+    "id": "asiatischer-spitzkohlsalat",
+    "title": "Asiatischer Spitzkohlsalat",
+    "category": "mittag",
+    "cuisine": "asiatisch",
+    "time": 25,
+    "servings": 6,
+    "image": "images/asiatischer-spitzkohlsalat.png"
+  },
+  {
     "id": "bao-buns-jackfruit-coleslaw",
     "title": "Bao Buns mit Jackfruit und Coleslaw",
     "category": "mittag",
@@ -439,6 +448,15 @@
     "time": 40,
     "servings": 2,
     "image": "images/köttbullar-dillsoße.png"
+  },
+  {
+    "id": "schawarma-austernseitlinge-grillgemüse",
+    "title": "Vegane Schawarma aus Austernseitlingen mit Grillgemüse",
+    "category": "mittag",
+    "cuisine": "orientalisch",
+    "time": 200,
+    "servings": 4,
+    "image": "images/schawarma-austernseitlinge-grillgemüse.png"
   },
   {
     "id": "wan-tan-hähnchen",
