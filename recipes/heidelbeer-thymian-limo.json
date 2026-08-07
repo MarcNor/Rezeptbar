@@ -1,0 +1,23 @@
+{
+  "id": "heidelbeer-thymian-limo",
+  "title": "Heidelbeer-Tyhmian Limonade",
+  "category": "getraenke",
+  "time": 30,
+  "servings": 20,
+  "image": "images/heidelbeer-thymian-limo.png",
+  "ingredients": [
+    { "amount": "100", "unit": "g", "name": "Heidelbeeren" },
+    { "amount": "10", "unit": "Zweige", "name": "Thymian" },
+    { "amount": "200", "unit": "g", "name": "Zucker" },
+    { "amount": "300", "unit": "ml", "name": "Wasser (für Sirup)" },
+    { "amount": "1,5", "unit": "TL", "name": "Zitronensäure" },
+    { "amount": "5", "unit": "ml", "name": "Wasser (zum Aufgießen)"}
+  ],
+  "steps": [
+    "Die Heidelbeeren, Thymian, Zucker und Wasser in einem Topf verrühren. Das Ganze zum Kochen bringen. Einmal aufkochen lassen. Dann die Hitze etwas reduzieren und 15 Minuten köcheln lassen.",
+    "Den Topf von der Herdplatte nehmen und die Zitronensäure unterrühren.",
+    "Dann den Sirup durch ein Sieb abgießen. Den noch heissen Sirup in eine saubere Flasche füllen, verschließen und abkühlen lassen.",
+    "Den Sirup mit Wasser im Verhältnis 1:15 aufgießen und nach Belieben mit Eiswürfeln servieren. Wer mag, kann die Limonade noch mit frischen Heidelbeeren und Thymianzweigen garnieren."
+  ],
+  "notes": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id": "taco-salat",
+  "title": "Taco Salat mit Hackfleisch",
+  "category": "mittag",
+  "cuisine": "amerikanisch",
+  "time": 25,
+  "servings": 6,
+  "image": "images/taco-salat.png",
+  "ingredients": [
+    { "amount": "500", "unit": "g", "name": "gemischtes Hackfleisch" },
+    { "amount": "500", "unit": "g", "name": "Salsa" },
+    { "amount": "3", "unit": "", "name": "Tomaten" },
+    { "amount": "1", "unit": "Tüte", "name": "Tortilla-Chips" },
+    { "amount": "1", "unit": "", "name": "Eisbergsalat" },
+    { "amount": "1", "unit": "Dose", "name": "Mais" },
+    { "amount": "1", "unit": "Dose", "name": "Kidneybohnen" },
+    { "amount": "200", "unit": "g", "name": "Schmand" },
+    { "amount": "150", "unit": "g", "name": "Gouda" },
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Öl in einer Pfanne erhitzen und darin Hackfleisch krümelig anbraten, mit Salz und Pfeffer würzen. Beiseitestellen und abkühlen lassen.",
+    "Den Eisbergsalat in beliebig große Würfel schneiden, waschen, trocknen und als erste Schicht in eine große Glasschüssel mit hohem Rand geben.",
+    "Das abgekühlte Hackfleisch gibst du als zweite Schicht auf den Eisbergsalat und darüber verteilst du die Salsasauce.",
+    "Mais in einem Sieb gut abtropfen lassen und als weitere Schicht aufs Hackfleisch geben. Die Kidney-Bohnen in einem Sieb abwaschen, gut abtropfen lassen und als nächste Schicht über den Mais geben.",
+    "Die Tomaten waschen, entkernen und in Würfel schneiden und über den Kidneybohnen verteilen.",
+    "Als vorletzte Schicht verteilst du Schmand, reibst Gouda fein und streust ihn als letzte Schicht darüber. Du kannst den Salat nun in den Kühlschrank geben, auch gerne über Nacht, oder direkt servieren.",
+    "Vor dem Servieren verteilst du die Tortilla-Chips als Topping auf dem Salat."
+  ],
+  "notes": ""
+}

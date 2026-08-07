@@ -27,6 +27,15 @@
     "image": "images/burger-knusperhähnchen-coleslaw.png"
   },
   {
+    "id": "burrito",
+    "title": "Burrito mit Reis und Hackfleisch",
+    "category": "mittag",
+    "cuisine": "mexikanisch",
+    "time": 25,
+    "servings": 2,
+    "image": "images/burrito.png"
+  },
+  {
     "id": "mie-nudel-suppe",
     "title": "Chinesische Mie-Nudel-Suppe",
     "category": "mittag",
@@ -43,6 +52,15 @@
     "time": 35,
     "servings": 6,
     "image": "images/couscous-bratlinge.png"
+  },
+  {
+    "id": "veganes-gyros",
+    "title": "Einfache Seitan-Gyrospfanne",
+    "category": "mittag",
+    "cuisine": "griechisch",
+    "time": 30,
+    "servings": 2,
+    "image": "images/veganes-gyros.png"
   },
   {
     "id": "erbseneintopf",
@@ -135,6 +153,33 @@
     "image": "images/handbrot-schinken-käse.png"
   },
   {
+    "id": "heidelbeer-thymian-limo",
+    "title": "Heidelbeer-Tyhmian Limonade",
+    "category": "getraenke",
+    "cuisine": "",
+    "time": 30,
+    "servings": 20,
+    "image": "images/heidelbeer-thymian-limo.png"
+  },
+  {
+    "id": "himbeer-rosmarin-limo",
+    "title": "Himbeer-Limonade mit Rosmarin und Limette",
+    "category": "getraenke",
+    "cuisine": "",
+    "time": 30,
+    "servings": 6,
+    "image": "images/himbeer-rosmarin-limo.png"
+  },
+  {
+    "id": "kartoffelgratin",
+    "title": "Kartoffelgratin",
+    "category": "mittag",
+    "cuisine": "französisch",
+    "time": 60,
+    "servings": 4,
+    "image": "images/kartoffelgratin.png"
+  },
+  {
     "id": "kartoffelsalat-caesar-art",
     "title": "Kartoffelsalat nach Caesar-Art",
     "category": "mittag",
@@ -151,6 +196,15 @@
     "time": 150,
     "servings": 16,
     "image": "images/hühnersuppe.png"
+  },
+  {
+    "id": "knusperstangen",
+    "title": "Knusperstangen",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 6,
+    "image": "images/knusperstangen.png"
   },
   {
     "id": "lasagne",
@@ -171,6 +225,15 @@
     "image": "images/mango-hähnchen-curry.png"
   },
   {
+    "id": "minz-zitronen-limo",
+    "title": "Minz-Zitronen Limonade",
+    "category": "getraenke",
+    "cuisine": "",
+    "time": 30,
+    "servings": 6,
+    "image": "images/minz-zitronen-limo.png"
+  },
+  {
     "id": "neapolitanische_pizza",
     "title": "Neapolitanische Pizza",
     "category": "mittag",
@@ -187,6 +250,24 @@
     "time": 50,
     "servings": 4,
     "image": "images/paella-hähnchen.png"
+  },
+  {
+    "id": "eistee-pfirsisch",
+    "title": "Pfirsisch Eistee",
+    "category": "getraenke",
+    "cuisine": "",
+    "time": 45,
+    "servings": 4,
+    "image": "images/eistee-pfirsisch.png"
+  },
+  {
+    "id": "pide-spinat",
+    "title": "Pide mit Spinat und Feta",
+    "category": "mittag",
+    "cuisine": "türkisch",
+    "time": 120,
+    "servings": 2,
+    "image": "images/pide-spinat.png"
   },
   {
     "id": "pilzrisotto",
@@ -214,6 +295,15 @@
     "time": 90,
     "servings": 2,
     "image": "images/ravioli-spinat-ricotta.png"
+  },
+  {
+    "id": "eistee-rhabarber",
+    "title": "Rhabarber Eistee",
+    "category": "getraenke",
+    "cuisine": "",
+    "time": 150,
+    "servings": 4,
+    "image": "images/eistee-rhabarber.png"
   },
   {
     "id": "einfache_pizza",
@@ -248,8 +338,17 @@
     "category": "mittag",
     "cuisine": "türkisch",
     "time": 100,
-    "servings": 12,
+    "servings": 8,
     "image": "images/börek.png"
+  },
+  {
+    "id": "spaghetti-bolognese",
+    "title": "Spaghetti Bolognese",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 100,
+    "servings": 4,
+    "image": "images/spaghetti-bolognese.png"
   },
   {
     "id": "spaghetti-carbonara",
@@ -262,7 +361,7 @@
   },
   {
     "id": "spaghetti-mit-zitronenhähnchen",
-    "title": "Spaghetti mit Zitronenhähnchen\n",
+    "title": "Spaghetti mit Zitronenhähnchen",
     "category": "mittag",
     "cuisine": "italienisch",
     "time": 50,
@@ -286,6 +385,15 @@
     "time": 25,
     "servings": 5,
     "image": "images/süßkartoffel-kichererbsen-curry.png"
+  },
+  {
+    "id": "taco-salat",
+    "title": "Taco Salat mit Hackfleisch",
+    "category": "mittag",
+    "cuisine": "amerikanisch",
+    "time": 25,
+    "servings": 6,
+    "image": "images/taco-salat.png"
   },
   {
     "id": "teriyaki-sauce-selbstgemacht",

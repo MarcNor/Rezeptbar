@@ -1,0 +1,28 @@
+{
+  "id": "veganes-gyros",
+  "title": "Einfache Seitan-Gyrospfanne",
+  "category": "mittag",
+  "cuisine": "griechisch",
+  "time": 30,
+  "servings": 2,
+  "image": "images/veganes-gyros.png",
+  "ingredients": [
+    { "amount": "275", "unit": "g", "name": "Seitan" },
+    { "amount": "2", "unit": "EL", "name": "Olivenöl" },
+    { "amount": "0,5", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "0,75", "unit": "TL", "name": "Paprikapulver" },
+    { "amount": "0,75", "unit": "TL", "name": "Oregano" },
+    { "amount": "0,75", "unit": "TL", "name": "Thymian" },
+    { "amount": "0,3", "unit": "TL", "name": "Majoran" },
+    { "amount": "0,75", "unit": "TL", "name": "Kreuzkümmel" },
+    { "amount": "0,5", "unit": "TL", "name": "Salz" },
+    { "amount": "0,3", "unit": "TL", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Eine Hälfte der Zwiebel in feine Streifen schneiden, die andere Hälfte reiben und zusammen mit geriebenem Knoblauch, den Gewürzen und Olivenöl für die Marinade verrühren.",
+    "Zwiebelstreifen und Seitanstreifen in die Marinade geben und mindestens 30 Minuten, besser verschlossen über Nacht im Kühlschrank ziehen lassen.",
+    "Restliches Öl in eine heiße Pfanne geben, mariniertes veganes Gyros kurz unter häufigem Rühren bei hoher Hitze scharf anbraten, Hitze auf mittlere Stufe reduzieren und weitere 7-8 Minuten fertig braten."
+  ],
+  "notes": ""
+}

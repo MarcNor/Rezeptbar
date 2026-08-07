@@ -1,0 +1,33 @@
+{
+  "id": "burrito",
+  "title": "Burrito mit Reis und Hackfleisch",
+  "category": "mittag",
+  "cuisine": "mexikanisch",
+  "time": 25,
+  "servings": 2,
+  "image": "images/burrito.png",
+  "ingredients": [
+    { "amount": "4", "unit": "", "name": "Burrito-Fladen" },
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "1", "unit": "Beutel", "name": "Reis" },
+    { "amount": "200", "unit": "g", "name": "Hackfleisch" },
+    { "amount": "100", "unit": "g", "name": "Käse" },
+    { "amount": "1", "unit": "", "name": "Eisbergsalat" },
+    { "amount": "1", "unit": "Dose", "name": "Mais" },
+    { "amount": "1", "unit": "Dose", "name": "Kidneybohnen" },
+    { "amount": "100", "unit": "g", "name": "Salsa" },
+    { "amount": "50", "unit": "g", "name": "Creme Fraiche" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "0,5", "unit": "Pck.", "name": "Burrito-Gweürzmischung" }
+  ],
+  "steps": [
+    "Reis nach Packungsanleitung kochen.",
+    "Hackfleisch in Öl anbraten, mit Salz, Pfeffer und Burrito-Gewürzmischung würzen.",
+    "Mais und Kidneybohnen abtropfen lassen. Zum Hackfleisch geben und kurz mitbraten.",
+    "Eisbergsalat in Streifen schneiden.",
+    "Burrito-Fladen kurz von beiden Seiten in einer Pfanne erwärmen.",
+    "Burrito-Fladen mit Reis, Hackfleisch-Mais-Bohnen-Mischung, Käse, Eisbergsalat, Salsa und Creme Fraiche füllen und zusammenrollen."
+  ],
+  "notes": ""
+}

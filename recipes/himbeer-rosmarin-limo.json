@@ -1,0 +1,24 @@
+{
+  "id": "himbeer-rosmarin-limo",
+  "title": "Himbeer-Limonade mit Rosmarin und Limette",
+  "category": "getraenke",
+  "time": 30,
+  "servings": 6,
+  "image": "images/himbeer-rosmarin-limo.png",
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "Himbeeren" },
+    { "amount": "150", "unit": "ml", "name": "Wasser (für Himbeer-Sirup)" },
+    { "amount": "50", "unit": "g", "name": "Zucker" },
+    { "amount": "3", "unit": "Zweige", "name": "Rosmarin" },
+    { "amount": "1", "unit": "", "name": "Limette" },
+    { "amount": "1600", "unit": "ml", "name": "Wasser, kalt (zum Aufgießen)" }
+  ],
+  "steps": [
+    "Presse zuerst den Saft der Limette aus und wasche den frischen Rosmarin kurz unter fließendem Wasser ab.",
+    "Gib das Wasser für den Sirup, die Himbeeren, den Zucker, den Limettensaft und die Rosmarinzweige in einen Topf, verrühre alle Zutaten gründlich und bringe sie auf der höchsten Stufe zum Kochen.",
+    "Sobald die Flüssigkeit kocht, kannst du die Temperatur auf die niedrigste Stufe reduzieren und den Sirup für die Himbeer-Rosmarin-Limonade etwa 10 Minuten (ohne Deckel) köcheln lassen.",
+    "Gieße den fertigen Himbeer-Rosmarin-Sirup für die Limonade durch ein Sieb, um die Kerne der Himbeeren und die Rosmarinzweige aufzufangen. Drücke das aufgefangene Fruchtfleisch gründlich mit einem Löffel aus und entsorge es. Lass den Sirup vollständig auskühlen.",
+    "Für die selbstgemachte Himbeer-Limonade musst du nun nur noch den Sirup zusammen mit dem kalten Wasser in eine große Karaffe füllen, sie mit frischen Himbeeren, Rosmarinzweigen und Limettenscheiben garnieren und nach Belieben Eiswürfel hinzugeben. Alternativ kannst du natürlich auch jedes Glas einzeln anrichten."
+  ],
+  "notes": ""
+}

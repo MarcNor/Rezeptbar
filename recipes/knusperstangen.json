@@ -1,0 +1,50 @@
+{
+  "id": "knusperstangen",
+  "title": "Knusperstangen",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 180,
+  "servings": 6,
+  "image": "images/knusperstangen.png",
+  "ingredients": [
+    { "component": "Plunderteig", "amount": "100", "unit": "g", "name": "Butter, kalt" },
+    { "component": "Plunderteig", "amount": "250", "unit": "g", "name": "Mehl" },
+    { "component": "Plunderteig", "amount": "1", "unit": "Pck.", "name": "Trockenhefe" },
+    { "component": "Plunderteig", "amount": "125", "unit": "g", "name": "Milch" },
+    { "component": "Plunderteig", "amount": "20", "unit": "g", "name": "Zucker" },
+    { "component": "Plunderteig", "amount": "40", "unit": "g", "name": "Butter, weich" },
+    { "component": "Plunderteig", "amount": "1", "unit": "Prise", "name": "Salz" },
+
+    { "component": "Tomatenpesto", "amount": "20", "unit": "g", "name": "Pinienkerne" },
+    { "component": "Tomatenpesto", "amount": "60", "unit": "g", "name": "getrocknete Tomaten" },
+    { "component": "Tomatenpesto", "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "component": "Tomatenpesto", "amount": "20", "unit": "g", "name": "Parmesan (gerieben)" },
+    { "component": "Tomatenpesto", "amount": "etwas", "unit": "", "name": "Salz" },
+    { "component": "Tomatenpesto", "amount": "etwas", "unit": "", "name": "Pfeffer" },
+    { "component": "Tomatenpesto", "amount": "etwas", "unit": "", "name": "Basilikum" },
+    { "component": "Tomatenpesto", "amount": "etwas", "unit": "", "name": "Oregano" },
+    { "component": "Tomatenpesto", "amount": "6", "unit": "g", "name": "brauner Zucker" },
+    { "component": "Tomatenpesto", "amount": "20", "unit": "g", "name": "Öl der getrockneten Tomaten" },
+
+    { "component": "Deko", "amount": "etwas", "unit": "", "name": "Milch" },
+    { "component": "Deko", "amount": "1", "unit": "", "name": "Eigelb" },
+    { "component": "Deko", "amount": "etwas", "unit": "", "name": "Fleur de Sel" },
+    { "component": "Deko", "amount": "", "unit": "", "name": "weißer Sesam" },
+    { "component": "Deko", "amount": "", "unit": "", "name": "Blaumohn" }
+
+  ],
+  "steps": [
+    "Für die Ziehbutter die Butter in Backpapier einschlagen und mit einem Nudelholz in eine rechteckige Form ausrollen. Die Butterplatte in den Kühlschrank legen.",
+    "Milch leicht erwärmen. Mehl, Zucker, Salz, weiche Butter und Hefe in eine Schüssel geben. Die Milch hinzufügen und alles zu einem glatten Teig verkneten. Den Teig anschließend für 20 Minuten im Gefrierfach entspannen lassen.",
+    "Den gekühlten Teig auf einer bemehlten Arbeitsfläche zu einem Rechteck ausrollen, das ca. doppelt so groß ist wie die Butterplatte. Die Butterplatte auf den Teig legen und die Seiten des Teigs über die Butter schlagen, sodass die Butter vollständig eingeschlossen ist.",
+    "Nun bekommt der Teig eine erste einfache Touren: Dafür den Teig zu einem länglichen Rechteck ausrollen. Den Teig auf 1/3 der Fläche ineinander falten, sodass drei Teigschichten übereinander liegen. Vor dem Falten das Mehl jeweils mit einem Pinsel von der Oberfläche entfernen. Dann in Folie gewickelt ca. 15 Minuten im Gefrierfach kaltstellen.",
+    "Für die zweite Toru den Teig um 90° drehen und erneut zu einem Rechteck ausrollen. Wieder auf 1/3 der Fläche falten und in Folie gewickelt ca. 15 Minuten im Gefrierfach kaltstellen.",
+    "Für das Pesto die Pinienkerne kurz in einer Pfanne ohne Fett anrösten. Die getrockneten Tomaten und den Knoblauch fein hacken. Alle Zutaten in einen Multizerkleinerer geben und zu einer groben, tösen Masse mixen.",
+    "Plunderteig auf einer bemehlten Arbeitsfläche auf 40x20 cm ausrollen. Den ausgerollten Teig in der Mitte zerschneiden, sodass zwei Vierecke á 20x20 cm entstehen.",
+    "Eine der beiden Hälften mit dem Tomatenpesto bestreichen. Die andere Hälfte darauf legen und leicht andrücken. Den Teig in 6 gleichmäßige Streifen á 3 cm Breite schneiden.",
+    "Für die Ei-Streiche Milch und Eigelb verquirlen und die Teigstreifen wie folgt dekorieren: Zuerst eine Seite mit der Ei-Streiche bepinseln, mit dem Fleur de Sel bestreuen und anschließend in Mohn tunken. Die andere Seite mit der Ei-Streiche bepinseln, mit dem Fleur de Sel bestreuen und anschließend in Sesam tunken.",
+    "Die Knusperstangen gleichmäßig aufzwirbeln und auf ein mit Backpapier belegtes Blech legen.",
+    "Den Ofen auf 180°C Umluft vorheizen. Einen Eiswürfel mit in den Backofen legen und die Knusperstangen für ca. 15 Minuten goldbraun backen."
+  ],
+  "notes": ""
+}

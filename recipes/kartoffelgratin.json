@@ -1,0 +1,28 @@
+{
+  "id": "kartoffelgratin",
+  "title": "Kartoffelgratin",
+  "category": "mittag",
+  "cuisine": "französisch",
+  "time": 60,
+  "servings": 4,
+  "image": "images/kartoffelgratin.png",
+  "ingredients": [
+    { "amount": "800", "unit": "g", "name": "vorwiegend festkochende Kartoffeln" },
+    { "amount": "200", "unit": "ml", "name": "Kochsahne" },
+    { "amount": "100", "unit": "g", "name": "Kräuterfrischkäse" },
+    { "amount": "100", "unit": "g", "name": "geriebener Käse" },
+    { "amount": "20", "unit": "g", "name": "Butter" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Muskatnuss" }
+  ],
+  "steps": [
+    "Den Backofen für das Kartoffelgratin rechtzeitig auf 180 Grad Umluft (200 °C Ober- / Unterhitze) vorheizen.",
+    "Die Kartoffeln abwaschen, schälen, gegebenenfalls nochmals abwaschen und mit einem scharfen Messer oder Hobel in ca. 2-3 mm dicke Scheiben schneiden.",
+    "Eine Auflaufform mit Butter einfetten und die Kartoffelscheiben dachziegelartig arrangieren.",
+    "Nun verrührst du in einer Schüssel mit einem Schneebesen Kochsahne, Kräuterfrischkäse, Salz, weißen oder schwarzen Pfeffer und frisch geriebene Muskatnuss.",
+    "Die Sahne-Frischkäse-Masse gießt du nun gleichmäßig über die Kartoffelscheiben in der Auflaufform und verteilst die Butter in Flöckchen darüber. Den Käse reibst du frisch mit einer Reibe und verteilst ihn ebenfalls gleichmäßig auf den Kartoffeln.",
+    "Im vorgeheizten Backofen, auf der mittleren Schiene, ca. 45 Minuten backen. Wenn dir der Käse gegen Ende der Backzeit zu braun wird, das Kartoffelgratin am besten mit Alufolie abdecken. Das fertige Gratin direkt in der Form servieren."
+  ],
+  "notes": ""
+}

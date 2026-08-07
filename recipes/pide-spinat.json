@@ -1,0 +1,38 @@
+{
+  "id": "pide-spinat",
+  "title": "Pide mit Spinat und Feta",
+  "category": "mittag",
+  "cuisine": "türkisch",
+  "time": 120,
+  "servings": 2,
+  "image": "images/pide-spinat.png",
+  "ingredients": [
+    { "component": "Teig", "amount": "250", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Teig", "amount": "150", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "component": "Teig", "amount": "0,5", "unit": "Pck.", "name": "Trockenhefe" },
+    { "component": "Teig", "amount": "0,5", "unit": "TL", "name": "Honig" },
+    { "component": "Teig", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Teig", "amount": "0,5", "unit": "EL", "name": "Olivenöl" },
+
+    { "component": "Füllung", "amount": "250", "unit": "g", "name": "Spinat" },
+    { "component": "Füllung", "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "component": "Füllung", "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "component": "Füllung", "amount": "0,5", "unit": "EL", "name": "Öl" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Pfeffer" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Füllung", "amount": "", "unit": "", "name": "Muskatnuss" },
+    { "component": "Füllung", "amount": "60", "unit": "g", "name": "Feta" },
+
+    { "component": "Deko", "amount": "1", "unit": "", "name": "Eigelb" },
+    { "component": "Deko", "amount": "1", "unit": "TL", "name": "Milch" },
+    { "component": "Deko", "amount": "1", "unit": "EL", "name": "Sesamsamen" }
+  ],
+  "steps": [
+    "Die Hefe zusammen mit dem Honig im Wasser auflösen und etwa 10 Minuten stehen lassen. In der Zwischenzeit Mehl und Salz in einer Rührschüssel mischen, den Hefe-Sud sowie das Öl dazugeben und zu einem glatten Teig verkneten, ggfs. noch etwas Wasser dazugeben, sollte der Teig zu fest sein. An einem warmen Ort zugedeckt etwa 1 Stunde gehen lassen.",
+    "In der Zwischenzeit Spinat waschen, putzen, trockenschleudern und grob schneiden. Zwiebeln abziehen und fein würfeln, Knoblauch abziehen und hacken. Öl in einer beschichteten Pfanne erhitzen und Zwiebeln sowie Knoblauch darin glasig dünsten, Spinat dazugeben und zusammenfallen lassen. Mit Pfeffer, Chiliflocken und etwas Salz abschmecken.",
+    "Nach der Gehzeit den Teig in 4 Teile teilen, zu Kugeln formen und auf einer bemehlten Arbeitsfläche zu ovalen Schiffchen ausrollen, etwa 40 x 20 cm. Die ausgerollten Teigfladen auf ein mit Backpapier ausgelegtes Backblech legen und nochmals 15 Minuten gehen lassen. Backofen auf 200 Grad Celsius (Ober- /Unterhitze) vorheizen.",
+    "Die Spinat-Mischung auf dem Teig verteilen, dabei an den Seiten einen Rand von etwa 2-3 cm lassen. Feta auf den Spinat bröseln. Die Seiten einklappen und die Enden dabei gut festdrücken.",
+    "Das Eigelb mit der Milch verquirlen und die Seitenränder damit bepinseln, die Sesamsamen darauf verteilen. Pide etwa 15-20 Minuten auf mittlerer Schiene backen."
+  ],
+  "notes": ""
+}

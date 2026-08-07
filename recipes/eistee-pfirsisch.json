@@ -1,0 +1,23 @@
+{
+  "id": "eistee-pfirsisch",
+  "title": "Pfirsisch Eistee",
+  "category": "getraenke",
+  "time": 45,
+  "servings": 4,
+  "image": "images/eistee-pfirsisch.png",
+  "ingredients": [
+    { "amount": "5", "unit": "", "name": "Pfirsisch" },
+    { "amount": "250", "unit": "ml", "name": "Wasser (für Pfirsisch-Sirup)" },
+    { "amount": "4", "unit": "Beutel", "name": "Schwarztee" },
+    { "amount": "500", "unit": "ml", "name": "Wasser (für Tee)" },
+    { "amount": "4", "unit": "EL", "name": "Zucker" },
+    { "amount": "1", "unit": "EL", "name": "Zitronensaft" },
+    { "amount": "500", "unit": "ml", "name": "Wasser, kalt (zum Aufgießen)" }
+  ],
+  "steps": [
+    "Pfirsiche waschen, entsteinen und in Spalten schneiden. Spalten mit Zucker und Wasser in einem Topf aufkochen, auf mittlerer Hitze ca. 10 Min. weiterköcheln lassen. Dann durch ein Sieb in eine Schüssel gießen, abkühlen lassen.",
+    "Währenddessen Wasser aufkochen und den Schwarzen Tee mit kochendem Wasser und Zitronensaft aufgießen. Ca. 3-4 Min. ziehen lassen (Je nachdem wie stark das Bitter-Aroma herauskommen soll). Beutel herausnehmen, Tee abkühlen lassen.",
+    "In eine große Kanne (mind. 1,5L Fassungsvermögen) abgekühlten Tee sowie den abgekühlten Pfirsich-Sirup hineingießen und mit kaltem Wasser aufgießen. Eistee kalt servieren."
+  ],
+  "notes": ""
+}

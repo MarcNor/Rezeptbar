@@ -1,0 +1,23 @@
+{
+  "id": "eistee-rhabarber",
+  "title": "Rhabarber Eistee",
+  "category": "getraenke",
+  "time": 150,
+  "servings": 4,
+  "image": "images/eistee-rhabarber.png",
+  "ingredients": [
+    { "amount": "300", "unit": "g", "name": "Rhabarber" },
+    { "amount": "500", "unit": "ml", "name": "Wasser (für Rhabarber-Sirup)" },
+    { "amount": "4", "unit": "Scheiben", "name": "Ingwer" },
+    { "amount": "50", "unit": "g", "name": "Zucker" },
+    { "amount": "2", "unit": "Beutel", "name": "Grüner Tee" },
+    { "amount": "700", "unit": "ml", "name": "Wasser (für Tee)" },
+    { "amount": "", "unit": "", "name": "Zitronenmelisse" }
+  ],
+  "steps": [
+    "Für den Eistee Wasser aufkochen und die Teebeutel darin 3-4 Min. ziehen lassen. Abkühlen lassen.",
+    "Rhabarber waschen grob schälen und in feine Stücke schneiden. Mit Wasser, Ingwerscheiben und Zucker aufkochen und ca. 10 Minuten köcheln lassen bis der Rhabarber weich gekocht ist. Durch ein feines Sieb streichen und die Flüssigkeit auffangen.",
+    "Rhabarabersaft und Eistee mischen. Nach Belieben mit etwas Zucker süßen. Komplett auskühlen lassen und vor dem Verzehr zwei Stunden in den Kühlschrank stellen. Nach Belieben mit Eiswürfeln, Zitronenmelisse und /oder Zitronenscheiben servieren."
+  ],
+  "notes": ""
+}

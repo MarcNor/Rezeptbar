@@ -4,7 +4,7 @@
   "category": "mittag",
   "cuisine": "türkisch",
   "time": 100,
-  "servings": 12,
+  "servings": 8,
   "image": "images/börek.png",
   "ingredients": [
     { "component": "Yufkateig", "amount": "200", "unit": "g", "name": "Weizenmehl (Typ 405)" },

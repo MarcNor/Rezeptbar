@@ -1,0 +1,43 @@
+{
+  "id": "spaghetti-bolognese",
+  "title": "Spaghetti Bolognese",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 100,
+  "servings": 4,
+  "image": "images/spaghetti-bolognese.png",
+  "ingredients": [
+    { "component": "Spaghetti", "amount": "250", "unit": "g", "name": "Mehl" },
+    { "component": "Spaghetti", "amount": "2", "unit": "", "name": "Ei" },
+    { "component": "Spaghetti", "amount": "1", "unit": "TL", "name": "Salz" },
+    { "component": "Spaghetti", "amount": "4", "unit": "EL", "name": "Olivenöl" },
+    { "component": "Spaghetti", "amount": "3", "unit": "EL", "name": "Wasser" },
+
+    { "component": "Bolognesesauce", "amount": "500", "unit": "g", "name": "Hackfleisch" },
+    { "component": "Bolognesesauce", "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "component": "Bolognesesauce", "amount": "1,5", "unit": "", "name": "Knoblauchzehen" },
+    { "component": "Bolognesesauce", "amount": "1", "unit": "Stange", "name": "Staudensellerie" },
+    { "component": "Bolognesesauce", "amount": "1", "unit": "", "name": "Möhre" },
+    { "component": "Bolognesesauce", "amount": "0,5", "unit": "Bund", "name": "glatte Petersilie" },
+    { "component": "Bolognesesauce", "amount": "", "unit": "", "name": "Olivenöl" },
+    { "component": "Bolognesesauce", "amount": "0,5", "unit": "EL", "name": "Tomatenmark" },
+    { "component": "Bolognesesauce", "amount": "125", "unit": "ml", "name": "Rotwein" },
+    { "component": "Bolognesesauce", "amount": "1", "unit": "EL", "name": "Oregano" },
+    { "component": "Bolognesesauce", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Bolognesesauce", "amount": "", "unit": "", "name": "Pfeffer" },
+    { "component": "Bolognesesauce", "amount": "400", "unit": "g", "name": "stückige Tomaten" },
+    { "component": "Bolognesesauce", "amount": "400", "unit": "g", "name": "passierte Tomaten" }
+  ],
+  "steps": [
+    { "component": "Bolognesesauce", "text": "Zunächst bereitest du alles vor: Karotten und Sellerie fein hacken oder würfeln. Zwiebeln und Knoblauch schälen und im Multizerkleinerer fein hacken. Anschließend noch die Petersilie hacken."},
+    { "component": "Bolognesesauce", "text": "Hackfleisch in etwas Olivenöl krümelig braten. Wenn das Hackfleisch etwas am Boden ansetzt, keine Sorge. Die Röststoffe die dabei entstehen sind sehr wichtig für den Geschmack der Bolognese Soße."},
+    { "component": "Bolognesesauce", "text": "Zwiebeln und Knoblauch hinzugeben und mitrösten. Wenn alles eine schöne Farbe bekommen hat, gibst du das Tomatenmark hinzu."},
+    { "component": "Bolognesesauce", "text": "Alles immer wieder verrühren und wenn du magst mit dem Rotwein ablöschen. Alternativ verwendest du einfach etwas Brühe zum Ablöschen."},
+    { "component": "Bolognesesauce", "text": "Sellerie und Karotten in den Topf geben und kurz mitköcheln. Der Rotwein wird dabei verkochen."},
+    { "component": "Bolognesesauce", "text": "Mit Tomaten auffüllen und mindestens 1 Stunde auf dem Herd köcheln lassen. Mit Salz, Pfeffer, Petersilie und Oregano kräftig würzen und abschmecken."},
+
+    { "component": "Spaghetti", "text": "Das Mehl durch einen Sieb in eine Schüssel sieben und anschließend mit Salz mischen. Die Eier, das Wasser und Olivenöl hinzugeben und alles so lange kneten, bis ein glatter und geschmeidiger Teig entsteht. Den fertigen Teig in Klarsichtfolie wickeln und ca. 30 Minuten kühl aufbewahren, damit er ruhen kann."},
+    { "component": "Spaghetti", "text": "Den Teig auf der Arbeitsfläche nochmals durchkneten und anschließend dünn ausrollen. Mit der Nudelmaschine die Spaghetti herstellen."},
+    { "component": "Spaghetti", "text": "Spaghetti in reichlich Salzwasser ca. 3 Minuten kochen."}
+  ]
+}

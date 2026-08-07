@@ -1,0 +1,21 @@
+{
+  "id": "minz-zitronen-limo",
+  "title": "Minz-Zitronen Limonade",
+  "category": "getraenke",
+  "time": 30,
+  "servings": 6,
+  "image": "images/minz-zitronen-limo.png",
+  "ingredients": [
+    { "amount": "20", "unit": "g", "name": "Minze" },
+    { "amount": "250", "unit": "g", "name": "Zucker" },
+    { "amount": "250", "unit": "ml", "name": "Wasser (für Sirup)" },
+    { "amount": "1", "unit": "", "name": "Zitronen" },
+    { "amount": "1,5", "unit": "ml", "name": "Wasser (zum Aufgießen)"}
+  ],
+  "steps": [
+    "Minze verlesen, waschen, trocken schütteln und mit den Stielen mittelfein hacken. Wasser aufkochen, Zucker zufügen und erhitzen, bis die Flüssigkeit klar wird. Zitronensaft zufügen, Sirup 2 bis 3 Minuten einköcheln lassen, Minze zufügen und eine weitere Minute sprudelnd kochen lassen. Topf vom Herd nehmen und zugedeckt abkühlen lassen, dann 24 Stunden im Kühlschrank durchziehen lassen.",
+    "Sirup durch ein feines Sieb in einen Topf gießen, nochmals aufkochen und eine Minute unter Rühren köcheln lassen. Heißen Sirup sofort in saubere, heiß ausgespülte Flaschen füllen. Verschließen und abkühlen lassen. Flaschen nach dem Öffnen im Kühlschrank aufbewahren und Sirup zügig verbrauchen. Ungeöffnet ist der Sirup an einem kühlen, dunklen Ort mindestens 4 Wochen haltbar.",
+    "Sirup mit Wasser im Verhältnis 1:6 mischen, in Gläser füllen und nach Belieben mit Eiswürfeln servieren. Es kann sprudelndes Mineralwasser oder stilles Wasser verwendet werden. Nach Belieben mit Zitronenscheiben und Minzblättern garnieren."
+  ],
+  "notes": ""
+}
