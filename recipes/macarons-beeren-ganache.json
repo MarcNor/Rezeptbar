@@ -1,0 +1,38 @@
+{
+  "id": "macarons-beeren-ganache",
+  "title": "Macarons mit Beeren Ganache",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "servings": 12,
+  "image": "images/macarons-beeren-ganache.png",
+  "ingredients": [
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Eiweiß" },
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Zucker" },
+    { "component": "Macarons", "amount": "90", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Macarons", "amount": "60", "unit": "g", "name": "Puderzucker" },
+    { "component": "Macarons", "amount": "1", "unit": "TL", "name": "schwarze Puderfarbe" },
+
+    { "component": "Beeren-Ganache", "amount": "40", "unit": "g", "name": "weiche Butter" },
+    { "component": "Beeren-Ganache", "amount": "50", "unit": "g", "name": "weiße Kuvertüre" },
+    { "component": "Beeren-Ganache", "amount": "8", "unit": "g", "name": "gefriergetrocknete Beeren" }
+  ],
+  "steps": [
+    { "component": "Macarons", "text": "Die Mandeln und Puderzucker in einen Zerkleinerer geben, fein mahlen und danach durch ein Sieb streichen. Die Mischung sollte keine größeren Mandelstückchen enthalten."},
+    { "component": "Macarons", "text": "Das Eiweiß und den Zucker über einem Wasserbad langsam auf 65°C erhitzen und dabei ständig mit einem Schneebesen rühren."},
+    { "component": "Macarons", "text": "Sobald die Temperatur erreicht ist und sich der Zucker aufgelöst hat, die Masse 8 Minuten auf langsam schlagen."},
+    { "component": "Macarons", "text": "Danach die Lebensmittelfarbe hinzufügen und weitere zwei Minuten vollständig steif schlagen."},
+    { "component": "Macarons", "text": "Jetzt die gesiebte Mandel-Puderzucker-Mischung in drei Portionen unter den Eischnee heben. Vorsichtig umrühren. Die Masse sollte dickflüssig sein und trotzdem glatt verlaufen."},
+    { "component": "Macarons", "text": "Die Macaron-Masse in einen Spritzbeutel mit Lochtülle füllen. Dann in einer Größe von ca. 2 Zentimetern und mit genügend Abstand auf die Silikonmatte spritzen."},
+    { "component": "Macarons", "text": "Das Backblech mit dem aufgespritzten Macaron-Teig drei Mal auf die Arbeitsfläche klopfen und ca. 30 Minuten an der Luft antrocknen lassen."},
+    { "component": "Macarons", "text": "In der Zwischenzeit den Backofen auf 160°C vorheizen."},
+    { "component": "Macarons", "text": "Die Macarons ca. 12-14 Minuten backen und anschließend gut auskühlen lassen."},
+
+    { "component": "Beeren-Ganache", "text": "Die weiße Kuvertüre klein hacken, über einem Wasserbad schmelzen und etwas abkühlen lassen."},
+    { "component": "Beeren-Ganache", "text": "Die weiche Butter schaumig aufschlagen, die geschmolzene Schokolade hinzufügen und kurz alles zusammen aufschlagen."},
+    { "component": "Beeren-Ganache", "text": "Danach die gefriergetrockneten Beeren grob hacken und unter die Creme heben."},
+    { "component": "Beeren-Ganache", "text": "Die Ganache in einen Spritzbeutel füllen und leicht abkühlen lassen."},
+
+    { "component": "Zusammensetzen", "text": "Sobald die Macarons-Hälften ausgekühlt sind und die Ganache etwas angezogen ist, die Ganache auf die einzelnen Hälften dressieren und eine weitere Hälfte oben drauf setzen."}
+  ]
+}

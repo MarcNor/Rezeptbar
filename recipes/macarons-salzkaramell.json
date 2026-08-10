@@ -1,0 +1,49 @@
+{
+  "id": "macarons-salzkaramell",
+  "title": "Macarons mit gesalzenem Karamell",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "servings": 12,
+  "image": "images/macarons-salzkaramell.png",
+  "ingredients": [
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Eiweiß" },
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Zucker" },
+    { "component": "Macarons", "amount": "90", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Macarons", "amount": "60", "unit": "g", "name": "Puderzucker" },
+    { "component": "Macarons", "amount": "1", "unit": "TL", "name": "blaue Lebensmittelfarbe" },
+
+    { "component": "Karamell", "amount": "60", "unit": "g", "name": "Zucker" },
+    { "component": "Karamell", "amount": "25", "unit": "g", "name": "weiche Butter" },
+    { "component": "Karamell", "amount": "35", "unit": "ml", "name": "Sahne" },
+    { "component": "Karamell", "amount": "0,25", "unit": "TL", "name": "grobes Meersalz" },
+
+    { "component": "Karamell-Buttercreme", "amount": "100", "unit": "g", "name": "Butter" },
+    { "component": "Karamell-Buttercreme", "amount": "62", "unit": "g", "name": "Puderzucker" },
+    { "component": "Karamell-Buttercreme", "amount": "35", "unit": "g", "name": "Karamell" }
+  ],
+  "steps": [
+    { "component": "Macarons", "text": "Die Mandeln und Puderzucker in einen Zerkleinerer geben, fein mahlen und danach durch ein Sieb streichen. Die Mischung sollte keine größeren Mandelstückchen enthalten."},
+    { "component": "Macarons", "text": "Das Eiweiß und den Zucker über einem Wasserbad langsam auf 65°C erhitzen und dabei ständig mit einem Schneebesen rühren."},
+    { "component": "Macarons", "text": "Sobald die Temperatur erreicht ist und sich der Zucker aufgelöst hat, die Masse 8 Minuten auf langsam schlagen."},
+    { "component": "Macarons", "text": "Danach die Lebensmittelfarbe hinzufügen und weitere zwei Minuten vollständig steif schlagen."},
+    { "component": "Macarons", "text": "Jetzt die gesiebte Mandel-Puderzucker-Mischung in drei Portionen unter den Eischnee heben. Vorsichtig umrühren. Die Masse sollte dickflüssig sein und trotzdem glatt verlaufen."},
+    { "component": "Macarons", "text": "Die Macaron-Masse in einen Spritzbeutel mit Lochtülle füllen. Dann in einer Größe von ca. 2 Zentimetern und mit genügend Abstand auf die Silikonmatte spritzen."},
+    { "component": "Macarons", "text": "Das Backblech mit dem aufgespritzten Macaron-Teig drei Mal auf die Arbeitsfläche klopfen und ca. 30 Minuten an der Luft antrocknen lassen."},
+    { "component": "Macarons", "text": "In der Zwischenzeit den Backofen auf 160°C vorheizen."},
+    { "component": "Macarons", "text": "Die Macarons ca. 12-14 Minuten backen und anschließend gut auskühlen lassen."},
+
+    { "component": "Karamell", "text": "Den Zucker bei mittlerer Hitze unter ständigem Rühren in einem Topf schmelzen."},
+    { "component": "Karamell", "text": "Wenn sich der Zucker bernsteinfarben verflüssigt hat, Butter hinzufügen und kräftig rühren, bis eine glatte Masse entsteht."},
+    { "component": "Karamell", "text": "Die Schlagsahne hinzugeben und erneut rühren."},
+    { "component": "Karamell", "text": "Den Topf von der Platte nehmen und zwei Teelöffel Salz unterrühren. Beiseitestellen, bis das Karamell vollständig abgekühlt ist."},
+
+    { "component": "Karamell-Buttercreme", "text": "Die Butter und den Puderzucker aufschlagen, bis eine glatte und luftige Buttercreme entsteht."},
+    { "component": "Karamell-Buttercreme", "text": "Langsam das gesalzenes Karamell hinzugeben und verrühren."},
+    { "component": "Karamell-Buttercreme", "text": "Die Buttercreme in einen Spritzbeutel mit kleiner runder Tülle geben."},
+
+    { "component": "Zusammensetzen", "text": "Buttercreme kreisförmig auf der Hälfte der Macaron-Hälften verteilen, in der Mitte etwas Platz lassen."},
+    { "component": "Zusammensetzen", "text": "Die kleine Lücke in der Mitte mit Karamell füllen und etwas flockiges Salz darauf streuen."},
+    { "component": "Zusammensetzen", "text": "Eine andere Macaron-Hälfte als Deckel auf die Füllung legen."}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pains-au-chocolat",
+  "title": "Petits pains au chocolat",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "servings": 8,
+  "image": "images/pains-au-chocolat.png",
+  "ingredients": [
+    { "component": "Blätterteig", "amount": "250", "unit": "g", "name": "Mehl" },
+    { "component": "Blätterteig", "amount": "150", "unit": "ml", "name": "Wasser" },
+    { "component": "Blätterteig", "amount": "1", "unit": "Pck.", "name": "Trockenhefe" },
+    { "component": "Blätterteig", "amount": "30", "unit": "g", "name": "Zucker" },
+    { "component": "Blätterteig", "amount": "1", "unit": "TL", "name": "Salz" },
+    { "component": "Blätterteig", "amount": "150", "unit": "g", "name": "Butter" },
+
+    { "component": "Außerdem", "amount": "100", "unit": "g", "name": "Schokolade" },
+    { "component": "Außerdem", "amount": "1", "unit": "", "name": "Eigelb" },
+    { "component": "Außerdem", "amount": "2", "unit": "EL", "name": "Milch" }
+  ],
+  "steps": [
+    { "component": "Blätterteig", "text": "Mehl, Wasser, Hefe und Zucker zu einem glatten Teig verrühren."},
+    { "component": "Blätterteig", "text": "Teig 2 Stunden lang in Folie eingeschlagen im Kühlschrank ruhen lassen."},
+    { "component": "Blätterteig", "text": "Butter in einem Stück Backpapier in ein Rechteck ausrollen und ebenfalls in den Kühlschrank legen."},
+    { "component": "Blätterteig", "text": "Den Teig auf einer bemehlten Arbeitsfläche ausrollen."},
+    { "component": "Blätterteig", "text": "Die Butter diagonal zum Teig in die Mitte legen und von allen Seiten einschlagen."},
+    { "component": "Blätterteig", "text": "Den Teig ausrollen und eine einfache Tour falten (Von beiden Seiten aus zu je 1/3 in die Mitte einschlagen). Teig wieder kühl lagern."},
+    { "component": "Blätterteig", "text": "Eine einfache Tour noch 2 Mal wiederholen und zwischendurch wieder kalt stellen."},
+
+    { "component": "Zusammensetzen", "text": "Ein letztes Mal den Teig ausrollen und kleine Rechtecke von 8 auf 12 cm schneiden."},
+    { "component": "Zusammensetzen", "text": "Auf jedem Rechteck eine Linie Schokolade auf  2/3 platzieren und zusammen rollen."},
+    { "component": "Zusammensetzen", "text": "Diese kleine Rolle in einem warmen Ort  2 Stunden aufgehen lassen bis der Teig doppelt so groß wird. "},
+    { "component": "Zusammensetzen", "text": "Die großen Rollen mit Eigelb und Milch bepinseln und in den vorgeheizten Backofen bei 210°C für 20 Minuten backen."}
+  ]
+}

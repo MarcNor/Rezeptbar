@@ -279,6 +279,24 @@
     "image": "images/limetten-aioli.png"
   },
   {
+    "id": "macarons-beeren-ganache",
+    "title": "Macarons mit Beeren Ganache",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 12,
+    "image": "images/macarons-beeren-ganache.png"
+  },
+  {
+    "id": "macarons-salzkaramell",
+    "title": "Macarons mit gesalzenem Karamell",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 12,
+    "image": "images/macarons-salzkaramell.png"
+  },
+  {
     "id": "mango-hähnchen-curry",
     "title": "Mango-Curry mit Hähnchen",
     "category": "mittag",
@@ -349,6 +367,15 @@
     "time": 25,
     "servings": 2,
     "image": "images/pasta-champignons.png"
+  },
+  {
+    "id": "pains-au-chocolat",
+    "title": "Petits pains au chocolat",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 8,
+    "image": "images/pains-au-chocolat.png"
   },
   {
     "id": "eistee-pfirsisch",
@@ -441,6 +468,15 @@
     "image": "images/schoko-brownie-cookies.png"
   },
   {
+    "id": "eclair-schoko",
+    "title": "Schoko-Eclair",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 90,
+    "servings": 10,
+    "image": "images/eclair-schoko.png"
+  },
+  {
     "id": "schweizer-rösti",
     "title": "Schweizer Rösti",
     "category": "mittag",
@@ -520,6 +556,15 @@
     "time": 25,
     "servings": 6,
     "image": "images/taco-salat.png"
+  },
+  {
+    "id": "tartelettes-au-chocolate",
+    "title": "Tartelettes au Chocolat",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 6,
+    "image": "images/tartelettes-au-chocolate.png"
   },
   {
     "id": "teriyaki-sauce-selbstgemacht",

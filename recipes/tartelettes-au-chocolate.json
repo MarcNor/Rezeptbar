@@ -1,0 +1,56 @@
+{
+  "id": "tartelettes-au-chocolate",
+  "title": "Tartelettes au Chocolat",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "servings": 6,
+  "image": "images/tartelettes-au-chocolate.png",
+  "ingredients": [
+    { "component": "Pâte sucrée au chocolat", "amount": "270", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Pâte sucrée au chocolat", "amount": "7", "unit": "g", "name": "Kakaopulver" },
+    { "component": "Pâte sucrée au chocolat", "amount": "30", "unit": "g", "name": "Schokolade (70%)" },
+    { "component": "Pâte sucrée au chocolat", "amount": "155", "unit": "g", "name": "Butter" },
+    { "component": "Pâte sucrée au chocolat", "amount": "60", "unit": "g", "name": "Ei " },
+    { "component": "Pâte sucrée au chocolat", "amount": "110", "unit": "g", "name": "Puderzucker" },
+    { "component": "Pâte sucrée au chocolat", "amount": "30", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Pâte sucrée au chocolat", "amount": "1", "unit": "g", "name": "Salz" },
+    { "component": "Pâte sucrée au chocolat", "amount": "0,25", "unit": "", "name": "Vanilleschote" },
+
+    { "component": "Moelleux au chocolat", "amount": "25", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Moelleux au chocolat", "amount": "75", "unit": "g", "name": "Schokolade (70%)" },
+    { "component": "Moelleux au chocolat", "amount": "65", "unit": "g", "name": "Zucker" },
+    { "component": "Moelleux au chocolat", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Moelleux au chocolat", "amount": "3", "unit": "g", "name": "Vanillepaste" },
+    { "component": "Moelleux au chocolat", "amount": "55", "unit": "g", "name": "weiche Butter" },
+    { "component": "Moelleux au chocolat", "amount": "30", "unit": "g", "name": "Sahne" },
+    { "component": "Moelleux au chocolat", "amount": "50", "unit": "g", "name": "Ei" },
+
+    { "component": "Ganache au chocolat", "amount": "110", "unit": "g", "name": "Sahne" },
+    { "component": "Ganache au chocolat", "amount": "10", "unit": "g", "name": "Invertzucker oder cremiger Honig" },
+    { "component": "Ganache au chocolat", "amount": "100", "unit": "g", "name": "Schokolade (64%)" }
+  ],
+  "steps": [
+    { "component": "Pâte sucrée au chocolat", "text": "Die Schokolade schmelzen und bereithalten."},
+    { "component": "Pâte sucrée au chocolat", "text": "Danach Butter, Puderzucker, gemahlene Mandeln, Salz und Vanille in einer Rührschüssel mit dem Flachrührer verrühren."},
+    { "component": "Pâte sucrée au chocolat", "text": "Das Ei und die geschmolzene Schokolade zugeben und alles verrühren, bis sich eine Emulsion gebildet hat."},
+    { "component": "Pâte sucrée au chocolat", "text": "Zuletzt das durchgesiebte Weizenmehl mit dem Kakaopulver einrühren."},
+    { "component": "Pâte sucrée au chocolat", "text": "Den Teig zu einer fingerdicken Platte formen und in Frischhaltefolie verpackt für mindestens 3 Stunden oder über Nacht in den Kühlschrank geben."},
+
+    { "component": "Moelleux au chocolat", "text": "Die Schokolade schmelzen und bereithalten."},
+    { "component": "Moelleux au chocolat", "text": "Ei, Zucker, Vanillepaste, Sahne und Salz mit dem Schlagbesen in der Küchenmaschine verrühren."},
+    { "component": "Moelleux au chocolat", "text": "Danach die geschmolzene Schokolade und die weiche Butter zugeben und zuletzt das gesiebte Mehl unterheben."},
+
+    { "component": "Backen", "text": "Den Pâte sucrée au chocolat aus dem Kühlschrank nehmen und ca. 2 – 3 mm dünn auf einer leicht bemehlten Arbeitsfläche oder zwischen Silikonmatten bzw. Frischhaltefolie rechteckig ausrollen."},
+    { "component": "Backen", "text": "Tartelette-Ringe (8 cm) mit dem Teig auslegen. Zwischen den Arbeitsschritten im Kühlschrank oder dem Gefrierschrank kühlen. Eventuell überstehende Ränder abschneiden."},
+    { "component": "Backen", "text": "Mit einer Gabel den Teigboden leicht einstechen und eventuell mit Blindbackmaterial füllen."},
+    { "component": "Backen", "text": "Die Tartelettes im auf 170°C vorgeheizten Ofen ca. 12 Minuten blindbacken."},
+    { "component": "Backen", "text": "Danach das Blindbackmaterial entfernen und ca. 30 – 35 g Moelleux au Chocolat in jedes Tartelette füllen. Die Tartelettes für weitere 8 Minuten backen. Aus dem Ofen nehmen und auskühlen lassen."},
+
+    { "component": "Ganache au chocolat", "text": "Die Sahne mit dem Invertzucker (oder Honig) in einem Topf zum Kochen bringen."},
+    { "component": "Ganache au chocolat", "text": "Die Schokolade hacken / zerkleinern und in eine Schüssel geben."},
+    { "component": "Ganache au chocolat", "text": "Die heiße Sahne in 2 Portionen über die Schokolade geben und mit einem Schneebesen leicht emulgieren ohne Luft einzuarbeiten."},
+
+    { "component": "Zusammensetzen", "text": "Wenn die Ganache au chocolat auf 29 °C abgekühlt ist, die Tartelettes bis zum Rand mit ihr füllen und für 15 Minuten in den Kühlschrank geben."}
+  ]
+}

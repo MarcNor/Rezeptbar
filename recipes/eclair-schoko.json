@@ -1,0 +1,48 @@
+{
+  "id": "eclair-schoko",
+  "title": "Schoko-Eclair",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 90,
+  "servings": 10,
+  "image": "images/eclair-schoko.png",
+  "ingredients": [
+    { "component": "Brandteig", "amount": "100", "unit": "ml", "name": "Wasser" },
+    { "component": "Brandteig", "amount": "100", "unit": "ml", "name": "Milch" },
+    { "component": "Brandteig", "amount": "90", "unit": "g", "name": "Butter" },
+    { "component": "Brandteig", "amount": "2", "unit": "EL", "name": "Zucker" },
+    { "component": "Brandteig", "amount": "1", "unit": "TL", "name": "Vanilleextrakt" },
+    { "component": "Brandteig", "amount": "120", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Brandteig", "amount": "3", "unit": "", "name": "Eier" },
+
+    { "component": "Crème Pâtissière", "amount": "250", "unit": "ml", "name": "Milch" },
+    { "component": "Crème Pâtissière", "amount": "100", "unit": "g", "name": "Schokolade (70%)" },
+    { "component": "Crème Pâtissière", "amount": "50", "unit": "g", "name": "Zucker" },
+    { "component": "Crème Pâtissière", "amount": "4", "unit": "", "name": "Eigelb (Größe M)" },
+    { "component": "Crème Pâtissière", "amount": "40", "unit": "g", "name": "Mehl" },
+
+    { "component": "Schokoladenglasur", "amount": "100", "unit": "g", "name": "Puderzucker" },
+    { "component": "Schokoladenglasur", "amount": "20", "unit": "g", "name": "Wasser" },
+    { "component": "Schokoladenglasur", "amount": "2", "unit": "TL", "name": "Zartbitterkakao" }
+  ],
+  "steps": [
+    { "component": "Brandteig", "text": "Milch und Wasser in ein Kasserole zum Kochen bringen."},
+    { "component": "Brandteig", "text": "Die Butter, die Prise Salz und den Zucker dazugeben und schmelzen lassen. Achtung, es sollte nicht mehr Kochen."},
+    { "component": "Brandteig", "text": "Das Mehl auf einmal eingeben und mit einem Holzlöffel zusammen rühren, bis es eine dicke Kugel formt. Der Teig soll glatt sein und zusammen kleben."},
+    { "component": "Brandteig", "text": "Den Teig mit der Küchenmaschine rühren, bis er etwas abgekühlt ist."},
+    { "component": "Brandteig", "text": "In dem Teig ein Ei nach dem anderen unterrühren. Wenn die Eier alle eingegeben sind, noch 3 bis 5 Minuten auf höchste Stufe schlagen."},
+    { "component": "Brandteig", "text": "Den Teig in einen Spritzbeutel gießen und die Éclairs formen ohne eine Spitze zu hinterlassen."},
+    { "component": "Brandteig", "text": "Dann mit dem Eigelb ( mit 1 EL Milch zusammen gemischt) die Éclairs bepinseln."},
+    { "component": "Brandteig", "text": "Bei 180 °C Umluft für 40-45 Minuten backen. Anschließend die Éclairs noch 20 Minuten (mit leicht geöffnete Tür) trocknen."},
+
+    { "component": "Crème Pâtissière", "text": "Die Milch erhitzen und die Schokolade damit schmelzen lassen."},
+    { "component": "Crème Pâtissière", "text": "Die Eigelbe mit dem Zucker zusammen schlagen, bis es weiß wird. Dazu noch Mehl unterrühren."},
+    { "component": "Crème Pâtissière", "text": "Wenn die Schokolade geschmolzen ist, die Kasserolle vom Herd weg nehmen und es in die Eiermasse unterrühren."},
+    { "component": "Crème Pâtissière", "text": "Dann wieder alles in den Kochtopf geben und bei mittlere Hitze rühren, bis es dickflüssig wird."},
+    { "component": "Crème Pâtissière", "text": "In eine Schüssel gießen , mit Frischhaltefolie überdecken und in den Kühlschrank abkühlen lassen."},
+
+    { "component": "Schokoladenglasur", "text": "Alle Zutaten zusammen mischen, bis sich eine homogene Masse bildet."},
+
+    { "component": "Zusammensetzen", "text": "Die Creme in einen Spritzbeutel tun und in die Éclairs damit füllen. Dann jedes Eclair in die Schokoladenglasur kurz eintauchen."}
+  ]
+}
