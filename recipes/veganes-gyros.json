@@ -3,26 +3,40 @@
   "title": "Einfache Seitan-Gyrospfanne",
   "category": "mittag",
   "cuisine": "griechisch",
-  "time": 30,
+  "time": 90,
   "servings": 2,
   "image": "images/veganes-gyros.png",
   "ingredients": [
-    { "amount": "275", "unit": "g", "name": "Seitan" },
-    { "amount": "2", "unit": "EL", "name": "Olivenöl" },
-    { "amount": "0,5", "unit": "", "name": "Zwiebel" },
-    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
-    { "amount": "0,75", "unit": "TL", "name": "Paprikapulver" },
-    { "amount": "0,75", "unit": "TL", "name": "Oregano" },
-    { "amount": "0,75", "unit": "TL", "name": "Thymian" },
-    { "amount": "0,3", "unit": "TL", "name": "Majoran" },
-    { "amount": "0,75", "unit": "TL", "name": "Kreuzkümmel" },
-    { "amount": "0,5", "unit": "TL", "name": "Salz" },
-    { "amount": "0,3", "unit": "TL", "name": "Pfeffer" }
+    { "component": "Seitan", "amount": "215", "unit": "g", "name": "Seitanfix" },
+    { "component": "Seitan", "amount": "1,5", "unit": "EL", "name": "Kichererbsenmehl" },
+    { "component": "Seitan", "amount": "1,5", "unit": "EL", "name": "Hefeflocken" },
+    { "component": "Seitan", "amount": "0,5", "unit": "EL", "name": "Salz" },
+    { "component": "Seitan", "amount": "0,5", "unit": "TL", "name": "weißer Pfeffer" },
+    { "component": "Seitan", "amount": "0,5", "unit": "TL", "name": "Zwiebelpulver" },
+    { "component": "Seitan", "amount": "1,5", "unit": "EL", "name": "Tafelessig" },
+    { "component": "Seitan", "amount": "250", "unit": "ml", "name": "Wasser" },
+
+    { "component": "Marinade", "amount": "2", "unit": "EL", "name": "Olivenöl" },
+    { "component": "Marinade", "amount": "0,5", "unit": "", "name": "Zwiebel" },
+    { "component": "Marinade", "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "component": "Marinade", "amount": "0,75", "unit": "TL", "name": "Paprikapulver" },
+    { "component": "Marinade", "amount": "0,75", "unit": "TL", "name": "Oregano" },
+    { "component": "Marinade", "amount": "0,75", "unit": "TL", "name": "Thymian" },
+    { "component": "Marinade", "amount": "0,3", "unit": "TL", "name": "Majoran" },
+    { "component": "Marinade", "amount": "0,75", "unit": "TL", "name": "Kreuzkümmel" },
+    { "component": "Marinade", "amount": "0,5", "unit": "TL", "name": "Salz" },
+    { "component": "Marinade", "amount": "0,3", "unit": "TL", "name": "Pfeffer" }
   ],
   "steps": [
-    "Eine Hälfte der Zwiebel in feine Streifen schneiden, die andere Hälfte reiben und zusammen mit geriebenem Knoblauch, den Gewürzen und Olivenöl für die Marinade verrühren.",
-    "Zwiebelstreifen und Seitanstreifen in die Marinade geben und mindestens 30 Minuten, besser verschlossen über Nacht im Kühlschrank ziehen lassen.",
-    "Restliches Öl in eine heiße Pfanne geben, mariniertes veganes Gyros kurz unter häufigem Rühren bei hoher Hitze scharf anbraten, Hitze auf mittlere Stufe reduzieren und weitere 7-8 Minuten fertig braten."
+    { "component": "Seitan", "text": "Trockene Zutaten miteinander vermengen. Essig in Wasser einrühren und unter die Glutenmischung heben."},
+    { "component": "Seitan", "text": "10 Minuten gut miteinander verkneten, anschließend 10-30 Minuten ruhen lassen. Teig halbieren und die Teiglinge leicht flach drücken. Von allen Seiten straff nach innen falten, umdrehen und rund formen. Dabei darauf achten, dass die Oberfläche schön gespannt und gleichmäßig geformt ist."},
+    { "component": "Seitan", "text": "Mit Schluss nach unten in den Dämpfaufsatz geben und bei mittlerer Hitze mit Deckel 45 Minuten garen."},
+    { "component": "Seitan", "text": "Anschließend vollständig auskühlen lassen. Für die beste Konsistenz über Nacht in den Kühlschrank legen."},
+
+    { "component": "Marinade", "text": "Eine Hälfte der Zwiebel in feine Streifen schneiden, die andere Hälfte reiben und zusammen mit geriebenem Knoblauch, den Gewürzen und Olivenöl für die Marinade verrühren."},
+
+    { "component": "Zubereitung", "text": "Zwiebelstreifen und Seitanstreifen in die Marinade geben und mindestens 30 Minuten, besser verschlossen über Nacht im Kühlschrank ziehen lassen."},
+    { "component": "Zubereitung", "text": "Restliches Öl in eine heiße Pfanne geben, mariniertes veganes Gyros kurz unter häufigem Rühren bei hoher Hitze scharf anbraten, Hitze auf mittlere Stufe reduzieren und weitere 7-8 Minuten fertig braten."}
   ],
   "notes": ""
 }

@@ -63,11 +63,29 @@
     "image": "images/couscous-bratlinge.png"
   },
   {
+    "id": "schupfnudel-spinat",
+    "title": "Cremige Schupfnudeln mit Spinat",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 15,
+    "servings": 2,
+    "image": "images/schupfnudel-spinat.png"
+  },
+  {
+    "id": "humus-ras-el-hanout",
+    "title": "Cremiger Ras-el-Hanout Humus",
+    "category": "aufstriche",
+    "cuisine": "orientalisch",
+    "time": 15,
+    "servings": null,
+    "image": "images/humus-ras-el-hanout.png"
+  },
+  {
     "id": "veganes-gyros",
     "title": "Einfache Seitan-Gyrospfanne",
     "category": "mittag",
     "cuisine": "griechisch",
-    "time": 30,
+    "time": 90,
     "servings": 2,
     "image": "images/veganes-gyros.png"
   },
@@ -97,6 +115,15 @@
     "time": 90,
     "servings": 2,
     "image": "images/pilz-shawarma.png"
+  },
+  {
+    "id": "rotes-pesto-frischkäse",
+    "title": "Frischkäse mit rotem Pesto",
+    "category": "aufstriche",
+    "cuisine": "orientalisch",
+    "time": 15,
+    "servings": null,
+    "image": "images/rotes-pesto-frischkäse.png"
   },
   {
     "id": "gebratene-nudeln-mit-ei-und-gemuese",
@@ -180,6 +207,15 @@
     "image": "images/himbeer-rosmarin-limo.png"
   },
   {
+    "id": "jerusalem-teller",
+    "title": "Jerusalem Teller mit Hähnchen",
+    "category": "mittag",
+    "cuisine": "israelisch",
+    "time": 25,
+    "servings": 4,
+    "image": "images/jerusalem-teller.png"
+  },
+  {
     "id": "kartoffelgratin",
     "title": "Kartoffelgratin",
     "category": "mittag",
@@ -216,6 +252,15 @@
     "image": "images/knusperstangen.png"
   },
   {
+    "id": "lammlachs-kräuterkruste",
+    "title": "Lammlachs mit Kräuterkruste",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 55,
+    "servings": 2,
+    "image": "images/lammlachs-kräuterkruste.png"
+  },
+  {
     "id": "lasagne",
     "title": "Lasagne",
     "category": "mittag",
@@ -223,6 +268,15 @@
     "time": 150,
     "servings": 4,
     "image": "images/lasagne.png"
+  },
+  {
+    "id": "limetten-aioli",
+    "title": "Limetten-Knoblauch Aioli",
+    "category": "aufstriche",
+    "cuisine": "mediteran",
+    "time": 15,
+    "servings": null,
+    "image": "images/limetten-aioli.png"
   },
   {
     "id": "mango-hähnchen-curry",
@@ -234,6 +288,24 @@
     "image": "images/mango-hähnchen-curry.png"
   },
   {
+    "id": "maracuja-cheescake-tartelettes",
+    "title": "Maracuja-Cheesecake-Tartelettes",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 10,
+    "image": "images/maracuja-cheescake-tartelettes.png"
+  },
+  {
+    "id": "mini-cheesecake",
+    "title": "Mini-Kirsch-Cheescakes",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 25,
+    "servings": 20,
+    "image": "images/mini-cheesecake.png"
+  },
+  {
     "id": "minz-zitronen-limo",
     "title": "Minz-Zitronen Limonade",
     "category": "getraenke",
@@ -241,6 +313,15 @@
     "time": 30,
     "servings": 6,
     "image": "images/minz-zitronen-limo.png"
+  },
+  {
+    "id": "muhammara-dip",
+    "title": "Muhammara Dip",
+    "category": "aufstriche",
+    "cuisine": "orientalisch",
+    "time": 20,
+    "servings": 6,
+    "image": "images/muhammara-dip.png"
   },
   {
     "id": "neapolitanische_pizza",
@@ -259,6 +340,15 @@
     "time": 50,
     "servings": 4,
     "image": "images/paella-hähnchen.png"
+  },
+  {
+    "id": "pasta-champignons",
+    "title": "Pasta mit Champignon-Sahne-Soße",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 25,
+    "servings": 2,
+    "image": "images/pasta-champignons.png"
   },
   {
     "id": "eistee-pfirsisch",
@@ -280,12 +370,21 @@
   },
   {
     "id": "pilzrisotto",
-    "title": "Pilzrisoot",
+    "title": "Pilzrisotto",
     "category": "mittag",
     "cuisine": "italienisch",
     "time": 40,
     "servings": 2,
     "image": "images/pilzrisotto.png"
+  },
+  {
+    "id": "quesadillas",
+    "title": "Quesadillas",
+    "category": "mittag",
+    "cuisine": "mexikanisch",
+    "time": 20,
+    "servings": 6,
+    "image": "images/quesadillas.png"
   },
   {
     "id": "rahmfladen",
@@ -313,6 +412,15 @@
     "time": 150,
     "servings": 4,
     "image": "images/eistee-rhabarber.png"
+  },
+  {
+    "id": "schinken-zwiebel-baguette",
+    "title": "Schinken-Zwiebel-Baguette",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 2,
+    "image": "images/schinken-zwiebel-baguette.png"
   },
   {
     "id": "einfache_pizza",
@@ -387,6 +495,15 @@
     "image": "images/spaghetti-salat.png"
   },
   {
+    "id": "spätzle-pilz-pfanne",
+    "title": "Spätzle-Pilz-Pfanne",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 25,
+    "servings": 2,
+    "image": "images/spätzle-pilz-pfanne.png"
+  },
+  {
     "id": "süßkartoffel-kichererbsen-curry",
     "title": "Süßkartoffel Curry mit Kichererbsen",
     "category": "mittag",
@@ -414,9 +531,18 @@
     "image": "images/teriyaki_sauce.png"
   },
   {
+    "id": "tomaten-kräuter-baguette",
+    "title": "Tomaten-Kräuter-Baguette",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 2,
+    "image": "images/tomaten-kräuter-baguette.png"
+  },
+  {
     "id": "tomatenbutter",
     "title": "Tomaten-Kräuterbutter",
-    "category": "sonstiges",
+    "category": "aufstriche",
     "cuisine": "italienisch",
     "time": 5,
     "servings": null,
@@ -457,6 +583,15 @@
     "time": 200,
     "servings": 4,
     "image": "images/schawarma-austernseitlinge-grillgemüse.png"
+  },
+  {
+    "id": "virgin-mojito",
+    "title": "Virgin Mojito",
+    "category": "getraenke",
+    "cuisine": "",
+    "time": 5,
+    "servings": 2,
+    "image": "images/virgin-mojito.png"
   },
   {
     "id": "wan-tan-hähnchen",

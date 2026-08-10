@@ -1,0 +1,32 @@
+{
+  "id": "muhammara-dip",
+  "title": "Muhammara Dip",
+  "category": "aufstriche",
+  "cuisine": "orientalisch",
+  "time": 20,
+  "servings": 6,
+  "image": "images/muhammara-dip.png",
+  "ingredients": [
+    { "amount": "4", "unit": "", "name": "rote Paprika" },
+    { "amount": "2", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "5", "unit": "Zweige", "name": "Thymian" },
+    { "amount": "1", "unit": "", "name": "Orange (Saft davon)" },
+    { "amount": "2", "unit": "", "name": "dünne Scheiben Baguette vom Vortag" },
+    { "amount": "100", "unit": "g", "name": "Walnüsse" },
+    { "amount": "5", "unit": "EL", "name": "Öl" },
+    { "amount": "0,5", "unit": "TL", "name": "geräuschertes Paprikapulver" },
+    { "amount": "0,5", "unit": "TL", "name": "Pul Biber" },
+    { "amount": "0,5", "unit": "TL", "name": "Kreuzkümmel" },
+    { "amount": "1", "unit": "TL", "name": "Granatapfelsirup" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Die Paprikaschoten längs halbieren, entkernen und in ca. 2 cm große Stücke schneiden. Knoblauch schälen und würfeln, Thymian waschen, trocken schütteln, Blättchen abzupfen und grob hacken. Die Orange halbieren und den Saft auspressen.",
+    "Öl in einer Pfanne erhitzen und die Paprikastücke bei großer Hitze anbraten. Dunkelbraune Flecken oder Ränder sind willkommen, dann gut die Hälfte Knoblauch zugeben und weitere 2-3 Minuten bei mittlerer Hitze weiterbraten, salzen und pfeffern.",
+    "Mit 3 EL Orangensaft ablöschen und bei kleiner Hitze 20-25 Minuten offen weiterbraten, bis die Paprikastücke richtig weich sind. Während des Bratens den übrigen Orangensaft nach und nach angießen, damit nichts anbrennen, trotzdem sollte am Ende fast die komplette Flüssigkeit eingekocht sein. Gegen Ende den Thymian unterrühren.",
+    "Das Brot in Würfel schneiden. Übriges Öl in einem beschichteten Pfännchen erhitzen, das Brot mit übrigem Knoblauch goldbraun rösten und abkühlen lassen.",
+    "Paprika abkühlen lassen. Mit Walnüssen, Brotstücken Gewürzen und übrigem Olivenöl mit dem Pürierstab fein pürieren. Mit Granatapfelsirup, Salz und Pfeffer abschmecken."
+  ],
+  "notes": "Anstatt Wasser kann man auch gut das Einweichwasser der Kichererbsen verwenden."
+}

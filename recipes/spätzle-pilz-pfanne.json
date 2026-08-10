@@ -1,0 +1,32 @@
+{
+  "id": "spätzle-pilz-pfanne",
+  "title": "Spätzle-Pilz-Pfanne",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 25,
+  "servings": 2,
+  "image": "images/spätzle-pilz-pfanne.png",
+  "ingredients": [
+    { "amount": "400", "unit": "g", "name": "gekochte Spätzle" },
+    { "amount": "400", "unit": "g", "name": "Champignons" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "150", "unit": "ml", "name": "Rinder- oder Gemüsebrühe" },
+    { "amount": "100", "unit": "ml", "name": "Sahne" },
+    { "amount": "1", "unit": "EL", "name": "Sojasauce" },
+    { "amount": "2", "unit": "EL", "name": "Butter" },
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Petersilie" }
+  ],
+  "steps": [
+    "Erhitze das Öl in einer großen Pfanne auf hoher Stufe, bis es fast raucht. Gib die Pilze hinein und verteile sie gleichmäßig. Rühre sie für die ersten 3 Minuten absolut nicht an. Das verhindert, dass Zellwasser austritt. Erst wenn die Unterseite tiefbraun und geröstet ist, wenden und kurz weiterbraten.",
+    "Reduziere die Hitze auf mittlere Stufe. Gib die Butter und die Zwiebelwürfel hinzu. Brate alles an, bis die Zwiebeln goldgelb sind. Füge den Knoblauch für die letzte Minute hinzu.",
+    "Lösche die Mischung mit der Brühe und der Sojasauce ab. Lasse die Flüssigkeit bei hoher Hitze um die Hälfte einkochen, bis sie eine sirupartige Konsistenz annimmt. Dies sorgt für die dunkle, glänzende Optik der Sauce.",
+    "Rühre die Sahne unter und lasse die Sauce kurz köcheln, bis sie dickflüssig und cremig wird. Schmecke alles kräftig mit Salz und viel schwarzem Pfeffer ab.",
+    "Gib die Spätzle direkt in die Pfanne. Schwenke alles für 2-3 Minuten, bis die Spätzle die dunkle Sauce perfekt aufgesogen haben und glänzen.",
+    "Mit reichlich grob gehackter Petersilie bestreuen und sofort servieren."
+  ],
+  "notes": ""
+}

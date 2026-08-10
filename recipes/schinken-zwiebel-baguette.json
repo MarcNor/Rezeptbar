@@ -1,0 +1,28 @@
+{
+  "id": "schinken-zwiebel-baguette",
+  "title": "Schinken-Zwiebel-Baguette",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 150,
+  "servings": 2,
+  "image": "images/schinken-zwiebel-baguette.png",
+  "ingredients": [
+    { "amount": "500", "unit": "g", "name": "Weizenmehl" },
+    { "amount": "10", "unit": "g", "name": "Salz" },
+    { "amount": "1", "unit": "Pck.", "name": "Trockenhefe" },
+    { "amount": "340", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "amount": "250", "unit": "g", "name": "Schinkenwürfel" },
+    { "amount": "2", "unit": "", "name": "Zwiebeln" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Die Zwiebeln würfeln und zusammen mit dem Speck kurz anschwitzen.",
+    "In einer Schüssel das Mehl mit dem Salz zusammen rühren. Die Hefe in dem Wasser lösen und dann zu dem Mehl geben.",
+    "Die Zwiebel-Speck-Mischung zum Mehl hinzugeben und alles ordentlich verkneten.",
+    "Teig für 2 Stunden an einem warmen Ort zugedeckt gehen lassen.",
+    "Den Teig auf einer bemehlten Arbeitsfläche erneut durchkneten und Baguettes daraus formen. Auf ein Backblech legen und erneut für 20 Minuten gehen lassen.",
+    "In der Zwischenzeit den Backofen auf 240°C vorheizen.",
+    "Das Baguette für 20 Minuten backen. Auf dem Boden des Backofens ein Wasserbad für eine erhöhte Luftfeuchtigkeit platzieren."
+  ],
+  "notes": ""
+}

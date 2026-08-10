@@ -61,6 +61,7 @@
     mittag: "Mittag",
     backen: "Backen",
     getraenke: "Getränke",
+    aufstriche: "Aufstriche",
     sonstiges: "Sonstiges",
   };
 
@@ -68,6 +69,7 @@
     kochen: { label: "Kochen", categories: ["fruehstueck", "mittag", "sonstiges"] },
     backen: { label: "Backen", categories: ["backen"] },
     getraenke: { label: "Getränke", categories: ["getraenke"] },
+    aufstriche: { label: "Aufstriche", categories: ["aufstriche"] },
   };
   const DEFAULT_SECTION = "kochen";
 
@@ -83,6 +85,7 @@
     kochen: { search: "", category: "", cuisine: "", maxTime: "" },
     backen: { search: "", category: "", cuisine: "", maxTime: "" },
     getraenke: { search: "", category: "", cuisine: "", maxTime: "" },
+    aufstriche: { search: "", category: "", cuisine: "", maxTime: "" },
   };
   function categoryLabel(key) {
     return CATEGORY_LABELS[key] || key;
@@ -230,8 +233,12 @@
     `;
 
     document.getElementById("f-search").addEventListener("input", (e) => {
+      const cursorPos = e.target.selectionStart;
       st.search = e.target.value;
       renderOverview(section);
+      const input = document.getElementById("f-search");
+      input.focus();
+      input.setSelectionRange(cursorPos, cursorPos);
     });
     const categorySelect = document.getElementById("f-category");
     if (categorySelect) {
@@ -412,7 +419,7 @@
   async function router() {
     const hash = window.location.hash || "";
     const detailMatch = hash.match(/^#\/rezept\/(.+)$/);
-    const sectionMatch = hash.match(/^#\/(kochen|backen|getraenke)$/);
+    const sectionMatch = hash.match(/^#\/(kochen|backen|getraenke|aufstriche)$/);
 
     try {
       if (detailMatch) {

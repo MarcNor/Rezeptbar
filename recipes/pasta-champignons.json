@@ -1,0 +1,31 @@
+{
+  "id": "pasta-champignons",
+  "title": "Pasta mit Champignon-Sahne-Soße",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 25,
+  "servings": 2,
+  "image": "images/pasta-champignons.png",
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "Tagliatelle" },
+    { "amount": "250", "unit": "g", "name": "Champignons" },
+    { "amount": "0,5", "unit": "", "name": "Zwiebel" },
+    { "amount": "0,5", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "50", "unit": "ml", "name": "Sahne" },
+    { "amount": "100", "unit": "ml", "name": "Milch" },
+    { "amount": "0,25", "unit": "", "name": "Zitrone (Saft davon)" },
+    { "amount": "0,25", "unit": "TL", "name": "Thymian" },
+    { "amount": "0,25", "unit": "TL", "name": "Petersilie" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Die Nudeln in kochendem Salzwasser al dente garen.",
+    "Die Pilze putzen, mit Küchenpapier abreiben und in Scheiben schneiden. Die Schalotte und den Knoblauch abziehen und hacken.",
+    "In einer Pfanne das Öl erhitzen und die Schalotte mit dem Knoblauch glasig dünsten.",
+    "Die Pilze zugeben, mitbraten, bis die entstandene Pilzflüssigkeit verdampft ist und Sahne sowie Milch angießen. Alles salzen und pfeffern, mit Zitronensaft abschmecken, die Kräuter untermischen und die Soße 5 Minuten köcheln lassen.",
+    "Die Nudeln abgießen, abtropfen lassen und in Schälchen verteilen. Die Pilzesoße abschmecken und über die Nudeln geben. Sofort servieren."
+  ],
+  "notes": ""
+}

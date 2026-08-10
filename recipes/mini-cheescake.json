@@ -1,0 +1,35 @@
+{
+  "id": "mini-cheesecake",
+  "title": "Mini-Kirsch-Cheescakes",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 25,
+  "servings": 20,
+  "image": "images/mini-cheesecake.png",
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "Weizenkekse" },
+    { "amount": "100", "unit": "g", "name": "zerlassene Butter" },
+    { "amount": "1", "unit": "", "name": "Ei" },
+    { "amount": "50", "unit": "g", "name": "heller Rohrzucker" },
+    { "amount": "150", "unit": "g", "name": "Mascarpone" },
+    { "amount": "120", "unit": "g", "name": "Frischkäse" },
+    { "amount": "120", "unit": "g", "name": "Sahne" },
+    { "amount": "0,5", "unit": "Pck.", "name": "Zitronenabrieb" },
+    { "amount": "5", "unit": "", "name": "Kirschen" },
+    { "amount": "3", "unit": "handvoll", "name": "TK-Früchte" }
+  ],
+  "steps": [
+    "Die Kekse in einer Schüssel zerbröseln und mit einem Stößel zu kleinen Krümeln zerstampfen. Die Kekse können auch in einen Gefrierbeutel gefüllt und mit einem Nudelholz zerkleinert werden.",
+    "Die zerlassene Butter zu den Kekskrümeln geben und gut vermischen, bis ein klebriger Teig entsteht.",
+    "Jeweils einen großen Esslöffel der Mischung auf kleine Kuchenförmchen verteilen. Falls eure Kuchenform nicht aus Silikon ist, solltet ihr zunächst Frischhaltefolie in eure Förmchen geben, bevor der Teig darin verteilt wird.",
+    "Den Keksteig mit den Fingern festdrücken und einen Rand hochziehen. Danach für 2 Stunden in den Kühlschrank stellen, damit der Teig fest wird.",
+    "In einer Schüssel den Frischkäse, Mascarpone und die Sahne vermischen. Anschließend das Ei und die geriebene Zitronenschale hinzufügen und alles gut vermengen.",
+    "Zucker hinzugeben und mit einem Handrührgerät einige Minuten mixen. Die Mischung in einen Spritzbeutel mit einer mit Zimt bestreuten Kappe füllen und für mindestens zwei Stunden in den Kühlschrank geben.",
+    "Die Kirschen entstielen, entkernen und in Viertel zerteilen. Die aufgetauten roten Früchte mit dem Pürierstab mixen.",
+    "Vorsichtig den Keksteig aus den Kuchenförmchen nehmen.",
+    "Die Keksförmchen nun mit der Frischkäsemischung befüllen.",
+    "3/4 eines Teelöffels mit roten Früchten auf die Cheesecakes geben.",
+    "Jeweils eine viertel Kirsche auf jeden Mini-Cheesecake geben und servieren! Die Mini-Cheesecakes halten sich 24 Stunden im Kühlschrank."
+  ],
+  "notes": ""
+}

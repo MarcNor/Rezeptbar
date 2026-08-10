@@ -1,0 +1,22 @@
+{
+  "id": "virgin-mojito",
+  "title": "Virgin Mojito",
+  "category": "getraenke",
+  "time": 5,
+  "servings": 2,
+  "image": "images/virgin-mojito.png",
+  "ingredients": [
+    { "amount": "2", "unit": "", "name": "Bio-Limetten" },
+    { "amount": "2", "unit": "TL", "name": "brauner Zucker" },
+    { "amount": "8", "unit": "EL", "name": "Crushed Ice" },
+    { "amount": "200", "unit": "ml", "name": "Ginger Ale" },
+    { "amount": "100", "unit": "ml", "name": "Sprudelwasser" },
+    { "amount": "2", "unit": "Zweige", "name": "Minze" }
+  ],
+  "steps": [
+    "Die Limetten waschen, achteln, pro Glas ein Stück für die Deko beiseitelegen und den Rest auf die Gläser verteilen. Jeweils 1 TL braunen Zucker hinzugeben und mit einem Stößel zerdrücken. Minze hinzugeben.",
+    "Das Glas mit Crushed Ice auffüllen, dann Ginger Ale und Sprudelwasser hinzugeben.",
+    "Jedes Glas mit einem Achtel Limette und einem Minzzweig dekorieren."
+  ],
+  "notes": ""
+}

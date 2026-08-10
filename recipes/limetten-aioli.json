@@ -1,0 +1,24 @@
+{
+  "id": "limetten-aioli",
+  "title": "Limetten-Knoblauch Aioli",
+  "category": "aufstriche",
+  "cuisine": "mediteran",
+  "time": 15,
+  "image": "images/limetten-aioli.png",
+  "ingredients": [
+    { "amount": "2", "unit": "", "name": "Limetten" },
+    { "amount": "2", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "1", "unit": "Glas", "name": "Mayonnaise" },
+    { "amount": "1", "unit": "Becher", "name": "Saure Sahne" },
+    { "amount": "2", "unit": "EL", "name": "Olivenöl" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Zuerst die Mayonnaise mit saurer Sahne und Olivenöl glattrühren.",
+    "Anschließend die Limetten auspressen. Die Knoblauchzehen schälen und kleinschneiden oder ebenfalls auspressen.",
+    "Beide Zutaten zu der Mayonnaise geben und mit Salz und Pfeffer abschmecken."
+
+  ],
+  "notes": ""
+}

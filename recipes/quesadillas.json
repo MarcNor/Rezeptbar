@@ -1,0 +1,46 @@
+{
+  "id": "quesadillas",
+  "title": "Quesadillas",
+  "category": "mittag",
+  "cuisine": "mexikanisch",
+  "time": 20,
+  "servings": 6,
+  "image": "images/quesadillas.png",
+  "ingredients": [
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "200", "unit": "g", "name": "Tomaten (gewürfelt)" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "1", "unit": "", "name": "rote Paprika" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "2", "unit": "", "name": "Frühliungszwiebeln" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "1", "unit": "Dose", "name": "Mais" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "1", "unit": "Dose", "name": "schwarze Bohnen" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "1", "unit": "", "name": "Limette (Saft davon)" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "0,5", "unit": "Bund", "name": "Koriander" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "2", "unit": "TL", "name": "Kreuzkümmel" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Tomaten-Bohnen-Füllung", "amount": "", "unit": "", "name": "Pfeffer" },
+
+    { "component": "Guacamole", "amount": "2", "unit": "", "name": "Avodacos" },
+    { "component": "Guacamole", "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "component": "Guacamole", "amount": "0,5", "unit": "", "name": "Limette (Saft davon)" },
+    { "component": "Guacamole", "amount": "", "unit": "", "name": "Salz" },
+    { "component": "Guacamole", "amount": "", "unit": "", "name": "Pfeffer" },
+    { "component": "Guacamole", "amount": "", "unit": "", "name": "Zucker" },
+    { "component": "Guacamole", "amount": "", "unit": "", "name": "Kreuzkümmel" },
+
+    { "component": "Quesadillas", "amount": "6", "unit": "", "name": "runde Tortilla Wraps" },
+    { "component": "Quesadillas", "amount": "", "unit": "", "name": "Öl" },
+    { "component": "Quesadillas", "amount": "500", "unit": "g", "name": "geriebener Käse" },
+
+    { "component": "Zum Anrichten", "amount": "", "unit": "", "name": "Creme Fraiche" },
+    { "component": "Zum Anrichten", "amount": "", "unit": "", "name": "Koriande" }
+  ],
+  "steps": [
+    "Alle Zutaten für die Tomaten-Bohnen-Füllung klein schneiden und vorbereiten, in einer Schüssel vermengen und abschmecken",
+    "Alle Zutaten für die Guacamole in einer Schüssel  vermengen und abschmecken.",
+    "Käse reiben, am besten so fein wie möglich, so schmilzt er am besten.",
+    "Backofen vorheizen, um Quesadillas darin warm zu halten.",
+    "Eine Pfanne mit reichlich Öl bei mittlerer Wärme erhitzen, die Tortilla hineinlegen, den geriebenen Käse ganzflächig darauf verteilen, die Tomaten-Bohnenfüllung zur Hälfte darauf geben, die Tortilla mit einem Spatel hälftig umklappen und langsam goldbraun backen lassen, so dass der Käse schön schmilzt.",
+    "Die fertige Quesadilla im Backofen warm halten, in der Zeit die restlichen Quesadillas braten und zum Servieren in Drittel schneiden.",
+    "Mit Guacamole, Creme Fraiche und Koriander anrichten und warm genießen."
+  ],
+  "notes": ""
+}

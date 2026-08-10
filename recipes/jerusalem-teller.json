@@ -1,0 +1,36 @@
+{
+  "id": "jerusalem-teller",
+  "title": "Jerusalem Teller mit Hähnchen",
+  "category": "mittag",
+  "cuisine": "israelisch",
+  "time": 25,
+  "servings": 4,
+  "image": "images/jerusalem-teller.png",
+  "ingredients": [
+    { "amount": "400", "unit": "g", "name": "Hähnchenbrustfilet" },
+    { "amount": "1", "unit": "", "name": "grüne Paprika" },
+    { "amount": "1", "unit": "", "name": "rote Paprika" },
+    { "amount": "2", "unit": "", "name": "Zwiebeln" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "5", "unit": "EL", "name": "Öl" },
+    { "amount": "2", "unit": "EL", "name": "Kreuzkümmel" },
+    { "amount": "2", "unit": "EL", "name": "Curry" },
+    { "amount": "2", "unit": "EL", "name": "Paprika Edelsüß" },
+    { "amount": "1", "unit": "Prise", "name": "Zucker" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "3", "unit": "EL", "name": "Öl" },
+    { "amount": "2", "unit": "EL", "name": "Tahin" },
+    { "amount": "3", "unit": "EL", "name": "Wasser" },
+    { "amount": "250", "unit": "g", "name": "Humus" },
+    { "amount": "", "unit": "", "name": "Petersilie" },
+    { "amount": "4", "unit": "", "name": "Pitabrote" }
+  ],
+  "steps": [
+    "Sonnenblumen- oder Rapsöl in einer Pfanne auf hoher Stufe erhitzen. Hähnchenbrust in mundgerechte Stücke schneiden und in der Pfanne scharf anbraten. Anschließend mit je einem EL der Gewürze bestreuen, alles gut vermischen und noch 4 Minuten weiterbraten. Anschließend Hähnchen aus der Pfanne nehmen und Beiseite stellen. Pfanne nicht (!) auswaschen.",
+    "Paprika und Spitzpaprika waschen und entkernen. Paprika in mundgerechte Stücke, die Spitzpaprika in feine Streifen schneiden. Zwiebeln abziehen und in jeweils 8 Spalten schneiden. Knoblauch abziehen und pressen.",
+    "Restliches Sonnenblumen- bzw. Rapsöl in der Pfanne von eben stark erhitzen und Paprika, Spitzpaprika, sowie Zwiebeln zugeben. Alles scharf anbraten und anschließend mit restlichen Gewürzen bestreuen. Gut vermischen und Knoblauch zugeben. Alles noch einmal 3 Minuten braten. Anschließend Hähnchen zugeben und gut mit dem Gemüse vermengen. Alles mit Zucker, Salz, Pfeffer und Olivenöl abschmecken",
+    "Nun wird angerichtet: Tahin Paste mit Wasser verrühren. Jeweils 1/4 des Hummus als Kreis in eine Schüssel streichen, Pfannen-Mix in die Mitte setzen und mit etwas Olivenöl, sowie Tahina beträufeln. Abschließend mit gehackter, glatter Petersilie bestreuen und mit warmem Pita servieren."
+  ],
+  "notes": ""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "schupfnudel-spinat",
+  "title": "Cremige Schupfnudeln mit Spinat",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 15,
+  "servings": 2,
+  "image": "images/schupfnudel-spinat.png",
+  "ingredients": [
+    { "amount": "500", "unit": "g", "name": "Schupfnudeln" },
+    { "amount": "100", "unit": "g", "name": "Spinat" },
+    { "amount": "100", "unit": "g", "name": "Frischkäse" },
+    { "amount": "100", "unit": "g", "name": "Zwiebel" },
+    { "amount": "100", "unit": "ml", "name": "Milch" },
+    { "amount": "50", "unit": "ml", "name": "Cremefine" },
+    { "amount": "2", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Knoblauch und Zwiebeln klein hacken.",
+    "Öl in einer Pfanne erhitzen und die Zwiebeln zusammen mit dem Knoblauch kurz scharf anbraten.",
+    "Die Schupfnudeln hinzugeben und das Ganze etwa 5 Minuten lang goldgelb anbraten.",
+    "Danach die Hitze herunterstellen und Frischkäse, Milch und Cremefine hinzugeben.",
+    "Das Ganze ordentlich bei mittlerer Hitze verrühren bis eine cremige Soße entstanden ist.",
+    "Den Spinat hinzufügen und unterrühren.",
+    "Zum Schluss noch mit Salz und Pfeffer abschmecken und warm servieren."
+  ],
+  "notes": ""
+}

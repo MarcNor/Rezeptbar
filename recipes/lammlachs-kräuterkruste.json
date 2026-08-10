@@ -1,0 +1,29 @@
+{
+  "id": "lammlachs-kräuterkruste",
+  "title": "Lammlachs mit Kräuterkruste",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 55,
+  "servings": 2,
+  "image": "images/lammlachs-kräuterkruste.png",
+  "ingredients": [
+    { "amount": "120", "unit": "g", "name": "weiche Butter" },
+    { "amount": "1", "unit": "", "name": "Ei" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "5", "unit": "EL", "name": "TK-Kräuter-Mix" },
+    { "amount": "45", "unit": "g", "name": "Paniermehl" },
+    { "amount": "2", "unit": "ml", "name": "Lammlachse" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Butter schaumig aufschlagen, das Ei dazu geben und kurz unterrühren. Knoblauch schälen und zur Butter reiben oder pressen. Die Kräuter und das Paniermehl in die Schüssel geben und zu einer festen Masse rühren. Mit Salz und Pfeffer würzen und für 30 Minuten in den Kühlschrank stellen.",
+    "Den Lammlachs nun unter kaltem Wasser abwaschen, trocken tupfen und die Sehnen entfernen.",
+    "Den Ofen auf 180°C Umluft vorheizen.",
+    "Eine Pfanne mit etwas Öl erhitzen. Fleisch mit Salz und Pfeffer würzen und von allen Seiten ca. 2-3 Minuten goldbraun anbraten.",
+    "Anschließend den Lammlachs auf ein mit Backpapier belegtes Blech geben und die Kräuterkruste gleichmäßig darauf verteilen. Etwas andrücken.",
+    "Für 7-8 Minuten im Ofen garen. Bei einer Kerntemperatur von 62°C ist der Lammlachs mit Kräuterkruste medium gebraten. Bei 65°C ist das Fleisch durch.",
+    "Anschließend das Fleisch aus dem Ofen nehmen und für 1-2 Minuten in Alufolie wickeln und ruhen lassen. Erst danach kannst du das Fleisch gegen die Faserrichtung aufschneiden."
+  ],
+  "notes": ""
+}

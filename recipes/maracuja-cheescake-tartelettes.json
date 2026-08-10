@@ -1,0 +1,40 @@
+{
+  "id": "maracuja-cheescake-tartelettes",
+  "title": "Maracuja-Cheesecake-Tartelettes",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "servings": 10,
+  "image": "images/maracuja-cheescake-tartelettes.png",
+  "ingredients": [
+    { "component": "Mürbeteig", "amount": "80", "unit": "g", "name": "Butter" },
+    { "component": "Mürbeteig", "amount": "60", "unit": "g", "name": "Puderzucker" },
+    { "component": "Mürbeteig", "amount": "1", "unit": "", "name": "kleines Ei" },
+    { "component": "Mürbeteig", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Mürbeteig", "amount": "1", "unit": "Prise", "name": "gemahlene Vanille" },
+    { "component": "Mürbeteig", "amount": "0,5", "unit": "", "name": "Bio-Zitone (Abrieb)" },
+    { "component": "Mürbeteig", "amount": "20", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Mürbeteig", "amount": "160", "unit": "g", "name": "Weizenmehl" },
+
+    { "component": "Cheesecake-Füllung", "amount": "150", "unit": "g", "name": "Sahne" },
+    { "component": "Cheesecake-Füllung", "amount": "340", "unit": "g", "name": "Frischkäse" },
+    { "component": "Cheesecake-Füllung", "amount": "50", "unit": "g", "name": "Zucker" },
+    { "component": "Cheesecake-Füllung", "amount": "1", "unit": "EL", "name": "Puderzucker" },
+    { "component": "Cheesecake-Füllung", "amount": "30", "unit": "g", "name": "Saure Sahne" },
+    { "component": "Cheesecake-Füllung", "amount": "1", "unit": "TL", "name": "Zitronensaft" },
+    { "component": "Cheesecake-Füllung", "amount": "1", "unit": "Prise", "name": "gemahlene Vanille" },
+
+    { "component": "Maracuja-Spiegel", "amount": "4", "unit": "", "name": "frische Maracujas" },
+    { "component": "Maracuja-Spiegel", "amount": "200", "unit": "g", "name": "Maracujasaft" },
+    { "component": "Maracuja-Spiegel", "amount": "4", "unit": "Blatt", "name": "Gelantine" }
+  ],
+  "steps": [
+    "Für den Mürbeteig die Butter in kleine Stücke schneiden, zusammen mit den anderen Zutaten in eine Schüssel geben und dann alle Zutaten zügig mit den Händen zu einem glatten Teig verkneten." ,
+    "Tartelette-Förmchen einfetten. Den Teig auf einer gut bemehlten Oberfläche gleichmäßig dünn ausrollen und die Förmchen damit auskleiden. Dabei die Ränder etwas überstehen lassen und nicht gerade abschneiden, damit sie beim Backen nicht nach unten rutschen. Die Tartelette-Förmchen für 1 Stunde ins Gefrierfach stellen, damit der Teig wieder fest wird.",
+    "In der Zwischenzeit den Backofen auf 180°C Ober- und Unterhitze vorheizen." ,
+    "Die gekühlten Tarteletteböden mehrfach mit einer Gabel einstechen und im vorgeheizten Backofen auf der mittleren Schiene 15-18 Minuten goldbraun backen. Abkühlen lassen und vorsichtig aus der Form lösen.",
+    "Die abgekühlten Tarteletteböden vorsichtig in die Hand nehmen und die Ränder über einer feine Küchenreibe die überschüssigen Reste \"abschleifen\", sodass die Ränder schön gerade werden.",
+    "Für die Cheesecake-Füllung die Sahne steif schlagen und beiseite stellen. Alle übrigen Zutaten gut verrühren, bis keine Frischkäseklümpchen mehr vorhanden sind. Die Sahne vorsichtig unterheben. Die Füllung in die vorbereiteten Formen geben und glatt streichen, dabei nicht bis zum Rand füllen, sondern etwas Platz für den Maracuja-Spiegel übrig lassen. Die Tartelettes über Nacht im Kühlschrank fest werden lassen.",
+    "Am nächsten Tag für den Maracuja-Spiegel die Gelatineblätter einzeln in kaltes Wasser legen und 5 Minuten einweichen lassen. Die Hälfte des Maracujasaftes erwärmen und die ausgedrückte Gelatine darin auflösen. Den restlichen Maracujasaft und das Fruchtfleisch von 4 frischen Maracujas unterrühren. Die Flüssigkeit vorsichtig auf den gekühlten Tartelettes verteilen. Die Tartelettes erneut in den Kühlschrank stellen, bis der Spiegel fest geworden ist und anschließend servieren."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tomaten-kräuter-baguette",
+  "title": "Tomaten-Kräuter-Baguette",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 150,
+  "servings": 2,
+  "image": "images/tomaten-kräuter-baguette.png",
+  "ingredients": [
+    { "amount": "500", "unit": "g", "name": "Weizenmehl" },
+    { "amount": "10", "unit": "g", "name": "Salz" },
+    { "amount": "1", "unit": "Pck.", "name": "Trockenhefe" },
+    { "amount": "320", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "amount": "80", "unit": "g", "name": "getrocknete Tomaten" },
+    { "amount": "", "unit": "", "name": "Oregano" },
+    { "amount": "", "unit": "", "name": "Thymian" }
+  ],
+  "steps": [
+    "In einer Schüssel das Mehl mit dem Salz zusammen rühren. Die Hefe in dem Wasser lösen und dann zu dem Mehl geben.",
+    "Die Tomaten mit den frischen Kräutern fein hacken und ebenfalls in die Schüssel geben. Den Teig ordentlich kneten.",
+    "Teig für 2 Stunden an einem warmen Ort zugedeckt gehen lassen.",
+    "Den Teig auf einer bemehlten Arbeitsfläche erneut durchkneten und Baguettes daraus formen. Auf ein Backblech legen und erneut für 20 Minuten gehen lassen.",
+    "In der Zwischenzeit den Backofen auf 230°C vorheizen.",
+    "Das Baguette für 25-28 Minuten backen. Auf dem Boden des Backofens ein Wasserbad für eine erhöhte Luftfeuchtigkeit platzieren. "
+  ],
+  "notes": ""
+}

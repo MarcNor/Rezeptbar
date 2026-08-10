@@ -1,0 +1,25 @@
+{
+  "id": "rotes-pesto-frischkäse",
+  "title": "Frischkäse mit rotem Pesto",
+  "category": "aufstriche",
+  "cuisine": "orientalisch",
+  "time": 15,
+  "image": "images/rotes-pesto-frischkäse.png",
+  "ingredients": [
+    { "amount": "110", "unit": "g", "name": "getrocknete Tomaten" },
+    { "amount": "150", "unit": "g", "name": "Frischkäse" },
+    { "amount": "30", "unit": "g", "name": "Pinienkerne" },
+    { "amount": "15", "unit": "ml", "name": "Olivenöl" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "", "unit": "", "name": "grobes Meersalz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "20", "unit": "g", "name": "Parmesan" }
+  ],
+  "steps": [
+    "Die Pinienkerne in einer Pfanne ohne Öl anrösten, bis sie goldbraun sind. Anschließend abkühlen lassen.",
+    "Die getrockneten Tomaten in kleine Stücke schneiden.",
+    "Tomaten, Pinienkerne, Olivenöl, Knoblauch, Salz und Pfeffer in einen Mixer geben und zu einer glatten Masse pürieren.",
+    "Frischkäse und frisch geriebenen Parmesan unterheben. Mit Salz und Pfeffer abschmecken."
+  ],
+  "notes": ""
+}

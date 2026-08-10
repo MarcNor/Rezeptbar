@@ -1,0 +1,27 @@
+{
+  "id": "humus-ras-el-hanout",
+  "title": "Cremiger Ras-el-Hanout Humus",
+  "category": "aufstriche",
+  "cuisine": "orientalisch",
+  "time": 15,
+  "image": "images/humus-ras-el-hanout.png",
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "Kichererbsen" },
+    { "amount": "1", "unit": "EL", "name": "Tahin" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "0,5", "unit": "", "name": "Zitrone" },
+    { "amount": "1", "unit": "EL", "name": "Olivenöl" },
+    { "amount": "0,5", "unit": "TL", "name": "Ras-el-Hanout" },
+    { "amount": "0,25", "unit": "TL", "name": "Kreuzkümmel" },
+    { "amount": "0,25", "unit": "TL", "name": "Salz" },
+    { "amount": "0,125", "unit": "TL", "name": "Pfeffer" },
+    { "amount": "1,5", "unit": "EL", "name": "Wasser" }
+  ],
+  "steps": [
+    "Die abgetropften Kichererbsen in eine Küchenmaschine oder einen leistungsstarken Mixer geben und zerkleinern.",
+    "Tahini, gepressten Knoblauch, Zitronensaft, Olivenöl, Ras el Hanout, Kreuzkümmel, Salz und Pfeffer hinzufügen.",
+    "Alle Zutaten gut vermischen, bis eine gleichmäßige Masse entsteht.",
+    "Wasser in kleinen Mengen hinzufügen, bis die gewünschte Konsistenz erreicht ist. Je nach persönlicher Vorliebe kann man den Hummus cremig weich oder etwas fester zubereiten."
+  ],
+  "notes": "Anstatt Wasser kann man auch gut das Einweichwasser der Kichererbsen verwenden."
+}
