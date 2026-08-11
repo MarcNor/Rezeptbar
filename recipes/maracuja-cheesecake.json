@@ -1,0 +1,83 @@
+{
+  "id": "maracuja-cheesecake",
+  "title": "Maracuja Cheesecake",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 90,
+  "servings": 12,
+  "image": "images/maracuja-cheesecake.png",
+  "utensils": [
+    "Springform 20 cm ∅",
+    "Springform, Tortenring oder Silikonform 18 cm ∅ (für die Fruchtschicht)",
+    "Tortenrandfolie",
+    "Frischhaltefolie zum Auslegen der Form",
+    "Topf",
+    "Schüsseln",
+    "Handrührgerät",
+    "Feines Sieb",
+    "Spritzbeutel mit Sterntülle (10 mm)",
+    "Backpapier und Backblech (nur für den Shortbreadboden)"
+  ],
+  "ingredients": [
+    { "component": "Maracujafüllung und -sauce", "amount": "3", "unit": "", "name": "Maracujafrüchte" },
+    { "component": "Maracujafüllung und -sauce", "amount": "250", "unit": "g", "name": "Maracujasaft" },
+    { "component": "Maracujafüllung und -sauce", "amount": "30", "unit": "g", "name": "Zucker" },
+    { "component": "Maracujafüllung und -sauce", "amount": "3", "unit": "Blatt", "name": "Gelatine" },
+
+    { "component": "Keksboden", "amount": "200", "unit": "g", "name": "Butterkekse" },
+    { "component": "Keksboden", "amount": "80", "unit": "g", "name": "weiche Butter" },
+    { "component": "Keksboden", "amount": "40", "unit": "g", "name": "brauner Zucker" },
+
+    { "component": "Maracujacreme", "amount": "6", "unit": "Blatt", "name": "Gelatine" },
+    { "component": "Maracujacreme", "amount": "100", "unit": "ml", "name": "Maracujasaft" },
+    { "component": "Maracujacreme", "amount": "80", "unit": "g", "name": "Zucker" },
+    { "component": "Maracujacreme", "amount": "150", "unit": "ml", "name": "Buttermilch" },
+    { "component": "Maracujacreme", "amount": "100", "unit": "g", "name": "Sahne" },
+    { "component": "Maracujacreme", "amount": "200", "unit": "g", "name": "Frischkäse (Doppelrahmstufe)" },
+
+    { "component": "Garnitur", "amount": "100", "unit": "g", "name": "Sahne" },
+    { "component": "Garnitur", "amount": "1", "unit": "EL", "name": "Puderzucker" }
+  ],
+  "steps": [
+    { "component": "Maracujafüllung und -sauce", "text": "Die Füllung am besten bereits am Vortag zubereiten." },
+    { "component": "Maracujafüllung und -sauce", "text": "Die 18-cm-Form mit Folie auslegen. Bei einer Silikonform entfällt das." },
+    { "component": "Maracujafüllung und -sauce", "text": "Die Gelatine in kaltem Wasser einweichen." },
+    { "component": "Maracujafüllung und -sauce", "text": "Die Maracujafrüchte halbieren und das Fruchtfleisch herauslösen." },
+    { "component": "Maracujafüllung und -sauce", "text": "Maracujasaft, Fruchtfleisch und Zucker aufkochen." },
+    { "component": "Maracujafüllung und -sauce", "text": "Die Gelatine ausdrücken und in der heißen Sauce auflösen." },
+    { "component": "Maracujafüllung und -sauce", "text": "Etwa 5 EL der Sauce für den späteren Fruchtspiegel abfüllen und kalt stellen." },
+    { "component": "Maracujafüllung und -sauce", "text": "Die restliche Sauce durch ein feines Sieb in die vorbereitete Form gießen, damit keine Kerne in der inneren Fruchtschicht landen – im Fruchtspiegel dürfen sie bleiben." },
+    { "component": "Maracujafüllung und -sauce", "text": "Die Fruchtschicht über Nacht einfrieren." },
+
+    { "component": "Keksboden", "text": "Die Butterkekse fein zerkrümeln." },
+    { "component": "Keksboden", "text": "Die sehr weiche Butter und den braunen Zucker zugeben und alles verrühren." },
+    { "component": "Keksboden", "text": "Die 18-cm-Springform fetten und die Masse einfüllen." },
+    { "component": "Keksboden", "text": "Die Masse mit einem Löffel gleichmäßig festdrücken." },
+    { "component": "Keksboden", "text": "Den Boden 30 Minuten kalt stellen." },
+
+    { "component": "Maracujacreme", "text": "Die Gelatine in eiskaltem Wasser einweichen." },
+    { "component": "Maracujacreme", "text": "Maracujasaft und Zucker aufkochen." },
+    { "component": "Maracujacreme", "text": "Die eingeweichte Gelatine darin auflösen." },
+    { "component": "Maracujacreme", "text": "Die Buttermilch zugeben." },
+    { "component": "Maracujacreme", "text": "Die Sahne cremig schlagen." },
+    { "component": "Maracujacreme", "text": "Den Frischkäse glattrühren." },
+    { "component": "Maracujacreme", "text": "Die Maracujamasse unter den Frischkäse rühren." },
+    { "component": "Maracujacreme", "text": "Die geschlagene Sahne unterziehen." },
+
+    { "component": "Aufbau", "text": "Den Keksboden auf den Boden der 20-cm-Springform legen." },
+    { "component": "Aufbau", "text": "Den Rand der Form mit Tortenrandfolie auskleiden." },
+    { "component": "Aufbau", "text": "Ein Drittel der Maracujacreme einfüllen." },
+    { "component": "Aufbau", "text": "Die gefrorene Fruchtschicht mittig darauf platzieren." },
+    { "component": "Aufbau", "text": "Die restliche Maracujacreme darüber gießen." },
+    { "component": "Aufbau", "text": "Die Torte mindestens 4 Stunden kalt stellen." },
+
+    { "component": "Garnitur", "text": "Die Sahne mit dem Puderzucker steif schlagen." },
+    { "component": "Garnitur", "text": "Die Sahne in einen Spritzbeutel mit Sterntülle füllen." },
+    { "component": "Garnitur", "text": "Die Torte aus der Springform lösen und auf eine Platte setzen." },
+    { "component": "Garnitur", "text": "Einen Sahnekranz auf den Rand spritzen – die Tupfen eng aneinandersetzen, damit später kein Fruchtsaft durchsickert." },
+    { "component": "Garnitur", "text": "Die zurückgestellte Maracujasauce leicht erwärmen." },
+    { "component": "Garnitur", "text": "Die Sauce als Spiegel in der Mitte der Torte verteilen." },
+    { "component": "Garnitur", "text": "Die Torte vor dem Anschnitt noch mindestens 30 Minuten kalt stellen." }
+  ],
+  "notes": ""
+}

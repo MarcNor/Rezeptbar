@@ -1,0 +1,106 @@
+{
+  "id": "mango-berry-torte",
+  "title": "Mango Berry Torte",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 180,
+  "servings": 10,
+  "image": "images/mango-berry-torte.png",
+  "utensils": [
+    "Silikonfrom Universo (18 cm)",
+    "Silikonform Tortaflex (16 cm)",
+    "Silikonmatte"
+  ],
+  "ingredients": [
+    { "component": "Mango Madeleinebiskuit", "amount": "100", "unit": "g", "name": "Ei" },
+    { "component": "Mango Madeleinebiskuit", "amount": "60", "unit": "g", "name": "Zucker" },
+    { "component": "Mango Madeleinebiskuit", "amount": "10", "unit": "g", "name": "Invertzucker oder Honig" },
+    { "component": "Mango Madeleinebiskuit", "amount": "100", "unit": "g", "name": "Mehl" },
+    { "component": "Mango Madeleinebiskuit", "amount": "2", "unit": "g", "name": "Backpulver" },
+    { "component": "Mango Madeleinebiskuit", "amount": "1", "unit": "Prise", "name": "gemahlene Vanille" },
+    { "component": "Mango Madeleinebiskuit", "amount": "34", "unit": "g", "name": "geschmolzene Butter" },
+    { "component": "Mango Madeleinebiskuit", "amount": "100", "unit": "g", "name": "Mangofruchtfleisch" },
+    { "component": "Mango Madeleinebiskuit", "amount": "30", "unit": "g", "name": "Himbeergelee" },
+
+    { "component": "Mango-Limetten Mousse", "amount": "110", "unit": "g", "name": "Mangopüree" },
+    { "component": "Mango-Limetten Mousse", "amount": "15", "unit": "g", "name": "Limettensaft" },
+    { "component": "Mango-Limetten Mousse", "amount": "0,5", "unit": "", "name": "Bio-Limette (Abrieb)" },
+    { "component": "Mango-Limetten Mousse", "amount": "20", "unit": "g", "name": "Zucker" },
+    { "component": "Mango-Limetten Mousse", "amount": "2", "unit": "Blatt", "name": "Gelantine" },
+    { "component": "Mango-Limetten Mousse", "amount": "120", "unit": "g", "name": "Schlagsahne" },
+
+    { "component": "Shortbread", "amount": "82", "unit": "g", "name": "weiche Butter" },
+    { "component": "Shortbread", "amount": "30", "unit": "g", "name": "Puderzucker" },
+    { "component": "Shortbread", "amount": "75", "unit": "g", "name": "Mehl (Typ 550)" },
+    { "component": "Shortbread", "amount": "15", "unit": "g", "name": "Stärke" },
+    { "component": "Shortbread", "amount": "1", "unit": "Prise", "name": "Salz" },
+
+    { "component": "Beerenmousse", "amount": "130", "unit": "g", "name": "Beerenpüree" },
+    { "component": "Beerenmousse", "amount": "20", "unit": "g", "name": "brauner Zucker" },
+    { "component": "Beerenmousse", "amount": "40", "unit": "g", "name": "stichfester Joghurt 10%" },
+    { "component": "Beerenmousse", "amount": "10", "unit": "g", "name": "Zitronensaft" },
+    { "component": "Beerenmousse", "amount": "3", "unit": "Blatt", "name": "Gelantine" },
+    { "component": "Beerenmousse", "amount": "140", "unit": "g", "name": "Schlagsahne" },
+
+    { "component": "Mirror Glaze", "amount": "2", "unit": "Blatt", "name": "Gelantine" },
+    { "component": "Mirror Glaze", "amount": "40", "unit": "g", "name": "Milch" },
+    { "component": "Mirror Glaze", "amount": "72", "unit": "g", "name": "Sahne" },
+    { "component": "Mirror Glaze", "amount": "96", "unit": "g", "name": "Zucker" },
+    { "component": "Mirror Glaze", "amount": "26", "unit": "g", "name": "Glucosesirup" },
+    { "component": "Mirror Glaze", "amount": "7", "unit": "g", "name": "Maisstärke" },
+    { "component": "Mirror Glaze", "amount": "", "unit": "", "name": "rote Lebensmittelfarbe" },
+    { "component": "Mirror Glaze", "amount": "", "unit": "", "name": "schwarze Lebensmittelfarbe" },
+
+    { "component": "Deko", "amount": "", "unit": "", "name": "gelbes Velvet-Spray" },
+    { "component": "Deko", "amount": "", "unit": "", "name": "rote Früchte" }
+
+  ],
+  "steps": [
+    { "component": "Mango Madeleinebiskuit", "text": "Mango schälen und in kleine Würfel schneiden." },
+    { "component": "Mango Madeleinebiskuit", "text": "Den Backofen auf 180 Grad Ober-/Unterhitze aufheizen." },
+    { "component": "Mango Madeleinebiskuit", "text": "Ei, Zucker und Invertzucker/ Honig zusammen hellschaumig aufschlagen." },
+    { "component": "Mango Madeleinebiskuit", "text": "Mehl, Backpulver und Vanille darüber sieben und unterheben." },
+    { "component": "Mango Madeleinebiskuit", "text": "Die geschmolzene Butter mit etwas Teig angleichen und ebenfalls unterziehen. Den Teig in einen Spritzbeutel füllen." },
+    { "component": "Mango Madeleinebiskuit", "text": "Die Mangowürfelchen gleichmäßig auf der Silikonmatte verteilen und den Teig gleichmäßig darüber verteilen. Mit einer Palette vorsichtig glattstreichen." },
+    { "component": "Mango Madeleinebiskuit", "text": "Im Backofen ca. 12–15 Minuten backen." },
+    { "component": "Mango Madeleinebiskuit", "text": "Ein Stück Backpapier auf die Arbeitsfläche legen und die Silikonmatte umgekehrt darauflegen. Den Biskuit so abkühlen lassen." },
+    { "component": "Mango Madeleinebiskuit", "text": "Danach die Silikonmatte abziehen und zwei Kreise mit 16 cm Durchmesser ausstechen/-schneiden und diese mit dem Himbeergelee bestreichen." },
+    { "component": "Mango Madeleinebiskuit", "text": "Eine der Biskuitscheiben (während die Mango-Limetten Mousse zubereitet wird) in den Gefrierschrank legen." },
+
+    { "component": "Mango-Limetten Mousse", "text": "Die Gelatine in eiskaltem Wasser einweichen." },
+    { "component": "Mango-Limetten Mousse", "text": "Das Mangopüree mit dem Limettensaft und -abrieb, sowie dem Zucker erhitzen." },
+    { "component": "Mango-Limetten Mousse", "text": "Die gut ausgedrückte Gelatine in der Fruchtmasse auflösen und diese auf 30 Grad abkühlen lassen." },
+    { "component": "Mango-Limetten Mousse", "text": "Dann die Sahne halbsteif schlagen und unterziehen." },
+
+    { "component": "Aufbau der Einlage", "text": "Eine mit Himbeergelee bestrichene Scheibe Mango Madeleinebiskuit in die Tortaflexform legen." },
+    { "component": "Aufbau der Einlage", "text": "Nun die Mango-Limetten Mousse einfüllen." },
+    { "component": "Aufbau der Einlage", "text": "Die angefrorene zweite Scheibe Biskuit mit der Geleeschicht nach unten auf die Mousse legen. Die Tortaflexform nun einige Stunden einfrieren, bis die Einlage gefroren ist." },
+
+    { "component": "Shortbread", "text": "Alle Zutaten miteinander zu einem Teig verkneten. Dabei nicht zu lange kneten." },
+    { "component": "Shortbread", "text": "Den Teig zwischen zwei Lagen Backpapier gleichmäßig 3–4 mm dick ausrollen und für mindestens 15 Minuten auf einer Platte liegend in den Kühlschrank legen." },
+    { "component": "Shortbread", "text": "Den Backofen auf 180 Grad Ober-/Unterhitze aufheizen." },
+    { "component": "Shortbread", "text": "Die obere Lage Backpapier abziehen und das Shortbread ca. 15 Minuten backen." },
+    { "component": "Shortbread", "text": "Noch heiß einen Kreis mit 17 cm Durchmesser ausstechen/–schneiden. Komplett abkühlen lassen und bis zur Verwendung einfrieren. Dann zerbricht er später nicht beim Auflegen." },
+
+    { "component": "Beerenmousse", "text": "Die Gelatine in eiskaltem Wasser einweichen." },
+    { "component": "Beerenmousse", "text": "Das Beerenpüree mit dem Zucker erhitzen und die gut ausgedrückte Gelatine darin auflösen." },
+    { "component": "Beerenmousse", "text": "Den Joghurt mit dem Zitronensaft glattrühren und die Fruchtzubereitung hinzugeben." },
+    { "component": "Beerenmousse", "text": "Auf 30 Grad abkühlen lassen." },
+    { "component": "Beerenmousse", "text": "Dann die Sahne halbsteif schlagen und unter die Fruchtmasse ziehen." },
+
+    { "component": "Aufbau", "text": "Die Beerenmousse bis auf eine kleine Menge in die „Universo“-Silikonform füllen. Die Mousse am Rand der Form etwas hochstreichen." },
+    { "component": "Aufbau", "text": "Nun die gefrorene Einlage ausformen und in die Beerenmousse drücken." },
+    { "component": "Aufbau", "text": "Mit einer dünnen Schicht Mousse bedecken und dann mit dem gefrorenen Shortbreadboden abschließen. Die Torte mit Frischhaltefolie bedeckt über Nacht einfrieren." },
+
+    { "component": "Mirror Glaze", "text": "Die Gelatine einweichen."},
+    { "component": "Mirror Glaze", "text": "Milch und Sahne mit dem Glucosesirup in einen Topf geben. Den Zucker mit der Maisstärke vermischen und ebenfalls unterrühren. Lebensmittelfarbe einrühren."},
+    { "component": "Mirror Glaze", "text": "Die Glasur unter Rühren zum Kochen bringen. Einmal aufwallen lassen, vom Herd nehmen und in ein hohes Gefäß gießen."},
+    { "component": "Mirror Glaze", "text": "Die gut ausgedrückte Gelatine in der Glasur auflösen und mit dem Stabmixer1 durchpürieren, ohne Luftblasen zu erzeugen. Die Oberfläche der Glasur mit Folie bedecken und über Nacht in den Kühlschrank stellen."},
+
+    { "component": "Fertigstellen", "text": "Die Mirror glaze im Wasserbad oder der Mikrowelle bei 45 Grad erwärmen, bis sie wieder flüssig ist. Die Gießtemperatur liegt dann bei ca. 30–32 Grad. Sie sollte wie Sahne fließen."},
+    { "component": "Fertigstellen", "text": "Die gefrorene Torte ausformen und zunächst zur Hälfte mit gelbem Velvetspray besprühen."},
+    { "component": "Fertigstellen", "text": "Die Torte anschließend etwas erhöht auf eine Schale stellen und die andere Hälfte mit der roten Mirror glaze übergießen. Tropfen am unteren Rand vorsichtig mit einer Palette abstreifen."},
+    { "component": "Fertigstellen", "text": "Die Torte auf einen Teller oder einen Tortenkarton stellen, mit Früchten nach Wunsch garnieren und auftauen lassen."}
+  ],
+  "notes": ""
+}

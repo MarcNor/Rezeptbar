@@ -1,0 +1,78 @@
+{
+  "id": "dreierlei-mousse-torte",
+  "title": "Dreierlei Mousse au Chocolat-Torte mit Passionsfrucht",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 150,
+  "servings": 12,
+  "image": "images/dreierlei-mousse-torte.png",
+  "ingredients": [
+    { "component": "Biskuit", "amount": "100", "unit": "g", "name": "weiße Schokolade" },
+    { "component": "Biskuit", "amount": "75", "unit": "g", "name": "Butter (zimmerwarm)" },
+    { "component": "Biskuit", "amount": "3", "unit": "", "name": "Eier" },
+    { "component": "Biskuit", "amount": "50", "unit": "g", "name": "Zucker" },
+    { "component": "Biskuit", "amount": "75", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Biskuit", "amount": "50", "unit": "g", "name": "gemahlene Mandeln" },
+
+    { "component": "Zartbitter-Mousse", "amount": "200", "unit": "g", "name": "Sahne" },
+    { "component": "Zartbitter-Mousse", "amount": "100", "unit": "g", "name": "Zartbitter-Schokolade" },
+    { "component": "Zartbitter-Mousse", "amount": "1", "unit": "Blatt", "name": "Gelantine" },
+    { "component": "Zartbitter-Mousse", "amount": "1", "unit": "", "name": "Ei" },
+
+    { "component": "Vollmilch-Mousse", "amount": "200", "unit": "g", "name": "Sahne" },
+    { "component": "Vollmilch-Mousse", "amount": "100", "unit": "g", "name": "Vollmilch-Schokolade" },
+    { "component": "Vollmilch-Mousse", "amount": "2", "unit": "Blatt", "name": "Gelantine" },
+    { "component": "Vollmilch-Mousse", "amount": "1", "unit": "", "name": "Eigelb (Größe M)" },
+
+    { "component": "Weiße Mousse", "amount": "250", "unit": "g", "name": "Sahne" },
+    { "component": "Weiße Mousse", "amount": "150", "unit": "g", "name": "weiße Schokolade" },
+    { "component": "Weiße Mousse", "amount": "3", "unit": "Blatt", "name": "Gelantine" },
+    { "component": "Weiße Mousse", "amount": "2", "unit": "", "name": "Eigelb (Größe M)" },
+
+    { "component": "Schokoladenglasur", "amount": "100", "unit": "g", "name": "Puderzucker" },
+    { "component": "Schokoladenglasur", "amount": "20", "unit": "g", "name": "Wasser" },
+    { "component": "Schokoladenglasur", "amount": "2", "unit": "TL", "name": "Zartbitterkakao" },
+
+    { "component": "Passionsfrucht-Spiegel", "amount": "150", "unit": "g", "name": "ungesüßter Passionsfruchtsaft" },
+    { "component": "Passionsfrucht-Spiegel", "amount": "2", "unit": "", "name": "Passionsfrüchte" },
+    { "component": "Passionsfrucht-Spiegel", "amount": "2", "unit": "Blatt", "name": "Gelantine" }
+  ],
+  "steps": [
+    { "component": "Biskuit", "text": "Den Backofen auf 180°C Ober- und Unterhitze vorheizen."},
+    { "component": "Biskuit", "text": "Die weiße Schokolade über dem warmen Wasserbad schmelzen."},
+    { "component": "Biskuit", "text": "Die Butter schaumig schlagen."},
+    { "component": "Biskuit", "text": "Die Eier trennen."},
+    { "component": "Biskuit", "text": "Dann die Eigelbe und die flüssige Schokolade unter die Butter rühren. "},
+    { "component": "Biskuit", "text": "Die Eiweiße mit dem Zucker steif schlagen und mit dem Mehl und den Mandeln unter die Schokomasse heben."},
+    { "component": "Biskuit", "text": "Teig in eine gefettete Springform mit 24cm Ø geben und glatt streichen. Im vorgeheizten Ofen auf der mittleren Schiene ca. 12 Minunten goldbraun backen. "},
+    { "component": "Biskuit", "text": "Auskühlen lassen und in einen Tortenring mit 24cm Ø mit Tortenrandfolie legen."},
+
+    { "component": "Zartbitter-Mousse", "text": "Die Sahne steif schlagen."},
+    { "component": "Zartbitter-Mousse", "text": "Die Zartbitter-Schokolade über dem warmen Wasserbad schmelzen."},
+    { "component": "Zartbitter-Mousse", "text": "Die Gelatine in kaltem Wasser einweichen."},
+    { "component": "Zartbitter-Mousse", "text": "Das Ei mit 2 EL Wasser über dem heißen Wasserbad schaumig schlagen, dann die Gelatine darin auflösen."},
+    { "component": "Zartbitter-Mousse", "text": "Die flüssige Schokolade unterrühren."},
+    { "component": "Zartbitter-Mousse", "text": "In einer seperaten kalten Schüssel vorsichtig die Sahne unter die  Ei-Schoko-Masse heben."},
+    { "component": "Zartbitter-Mousse", "text": "Die Mousse in den Tortenring auf den gebackenen Boden gießen und ca. 40 Minuten ins Tiefkühlfach stellen."},
+
+    { "component": "Vollmilch-Mousse", "text": "Die Sahne steif schlagen."},
+    { "component": "Vollmilch-Mousse", "text": "Die Vollmilch-Schokolade über dem warmen Wasserbad schmelzen."},
+    { "component": "Vollmilch-Mousse", "text": "Die Gelatine in kaltem Wasser einweichen."},
+    { "component": "Vollmilch-Mousse", "text": "Das Ei mit 2 EL Wasser über dem heißen Wasserbad schaumig schlagen, dann die Gelatine darin auflösen."},
+    { "component": "Vollmilch-Mousse", "text": "Die flüssige Schokolade unterrühren."},
+    { "component": "Vollmilch-Mousse", "text": "In einer seperaten kalten Schüssel vorsichtig die Sahne unter die  Ei-Schoko-Masse heben."},
+    { "component": "Vollmilch-Mousse", "text": "Die Mousse in den Tortenring auf die Zartbitter-Mousse gießen und ca. 30 Minuten ins Tiefkühlfach stellen."},
+
+    { "component": "Weiße Mousse", "text": "Die Sahne steif schlagen."},
+    { "component": "Weiße Mousse", "text": "Die weiße Schokolade über dem warmen Wasserbad schmelzen."},
+    { "component": "Weiße Mousse", "text": "Die Gelatine in kaltem Wasser einweichen."},
+    { "component": "Weiße Mousse", "text": "Das Eigelb mit 2 EL Wasser über dem heißen Wasserbad schaumig schlagen, dann die Gelatine darin auflösen."},
+    { "component": "Weiße Mousse", "text": "Die flüssige Schokolade unterrühren."},
+    { "component": "Weiße Mousse", "text": "In einer seperaten kalten Schüssel vorsichtig die Sahne unter die  Ei-Schoko-Masse heben."},
+    { "component": "Weiße Mousse", "text": "Die Mousse in den Tortenring auf die Vollmilch-Mousse gießen und ca. 30 Minuten ins Tiefkühlfach stellen."},
+
+    { "component": "Passionsfrucht-Spiegel", "text": "Die Früchte halbieren, auskratzen und mit dem Saft erwärmen."},
+    { "component": "Passionsfrucht-Spiegel", "text": "Die restliche Gelatine einweichen und im warmen Saft auflösen."},
+    { "component": "Passionsfrucht-Spiegel", "text": "Leicht abkühlen lassen und auf der weißen Mousse verteilen. Die Torte für mindestens 2 Stunden kalt stellen."}
+  ]
+}

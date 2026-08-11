@@ -90,6 +90,15 @@
     "image": "images/humus-ras-el-hanout.png"
   },
   {
+    "id": "dreierlei-mousse-torte",
+    "title": "Dreierlei Mousse au Chocolat-Torte mit Passionsfrucht",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 12,
+    "image": "images/dreierlei-mousse-torte.png"
+  },
+  {
     "id": "veganes-gyros",
     "title": "Einfache Seitan-Gyrospfanne",
     "category": "mittag",
@@ -324,6 +333,15 @@
     "image": "images/macarons-salzkaramell.png"
   },
   {
+    "id": "mango-berry-torte",
+    "title": "Mango Berry Torte",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/mango-berry-torte.png"
+  },
+  {
     "id": "mango-hähnchen-curry",
     "title": "Mango-Curry mit Hähnchen",
     "category": "mittag",
@@ -331,6 +349,15 @@
     "time": 30,
     "servings": 4,
     "image": "images/mango-hähnchen-curry.png"
+  },
+  {
+    "id": "maracuja-cheesecake",
+    "title": "Maracuja Cheesecake",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 90,
+    "servings": 12,
+    "image": "images/maracuja-cheesecake.png"
   },
   {
     "id": "maracuja-cheescake-tartelettes",
