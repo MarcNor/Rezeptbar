@@ -1,0 +1,34 @@
+{
+  "id": "erdnuss-gemüse-reis",
+  "title": "Erdnuss-Gemüse-Reis mit Tofu",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 30,
+  "servings": 4,
+  "image": "images/erdnuss-gemüse-reis.png",
+  "ingredients": [
+    { "amount": "1", "unit": "Beutel", "name": "Basmati-Reis" },
+    { "amount": "2", "unit": "", "name": "Zwieblen" },
+    { "amount": "2", "unit": "", "name": "Knoblauchzehen" },
+    { "amount": "1", "unit": "", "name": "Zucchini" },
+    { "amount": "1", "unit": "", "name": "rote Paprika" },
+    { "amount": "2", "unit": "", "name": "Möhren" },
+    { "amount": "4", "unit": "EL", "name": "Öl" },
+    { "amount": "150", "unit": "g", "name": "TK-Erbsen" },
+    { "amount": "2", "unit": "TL", "name": "Gemüsebrühe" },
+    { "amount": "300", "unit": "ml", "name": "Wasser" },
+    { "amount": "50", "unit": "g", "name": "Erdnussbutter" },
+    { "amount": "75", "unit": "g", "name": "Erdnusskerne" },
+    { "amount": "400", "unit": "g", "name": "Tofu" },
+    { "amount": "2", "unit": "TL", "name": "Limettensaft" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Reis in kochendem Salzwasser nach Packungsanweisung zubereiten. Zwiebeln und Knoblauch schälen, hacken. Gemüse putzen bzw. schälen, waschen, längs vierteln und klein schneiden.",
+    "1/4 des Öl erhitzen. Zwiebeln, Knoblauch, Gemüse und gefrorene Erbsen darin andünsten. Mit Wasser ablöschen. Brühe und Erdnussbutter einrühren. Aufkochen und zugedeckt ca. 5 Minuten köcheln.",
+    "Nüsse hacken. Tofu würfeln (ca. 3x3 cm) und in eine große Schüssel geben. 3/4 des Öls und Nüsse zufügen. Alles mischen. Pfanne erhitzen. Tofu darin bei mittlerer Hitze unter Wenden ca. 5 Minuten braten.",
+    "Reis unter das Gemüse rühren. Mit Limettensaft, Salz und Pfeffer abschmecken."
+  ],
+  "notes": ""
+}

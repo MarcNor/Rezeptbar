@@ -108,6 +108,15 @@
     "image": "images/erbseneintopf.png"
   },
   {
+    "id": "erdnuss-gemüse-reis",
+    "title": "Erdnuss-Gemüse-Reis mit Tofu",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 30,
+    "servings": 4,
+    "image": "images/erdnuss-gemüse-reis.png"
+  },
+  {
     "id": "focaccia-kartoffel-dinkel",
     "title": "Focaccia aus Kartoffel-Dinkelteig",
     "category": "mittag",
