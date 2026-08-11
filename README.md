@@ -92,3 +92,12 @@ Dann [http://localhost:8080](http://localhost:8080) öffnen.
 2. In den Repo-Einstellungen unter **Pages** als Quelle **GitHub Actions** auswählen.
 3. Nach dem nächsten Push auf `main` läuft der Workflow automatisch und
    veröffentlicht die Seite unter `https://<user>.github.io/<repo>/`.
+
+## Als App installieren (PWA)
+
+Die Seite ist eine installierbare Progressive Web App (`manifest.json` + `sw.js`).
+Auf Android in Chrome die Seite öffnen, Menü (⋮) → **App installieren** bzw.
+**Zum Startbildschirm hinzufügen** wählen. Die App bekommt ein eigenes Icon und
+öffnet danach ohne Adressleiste/Browser-Chrome, lädt aber weiterhin live von
+GitHub Pages. Ein einfacher Service Worker (`sw.js`, network-first mit
+Cache-Fallback) sorgt zusätzlich für etwas Offline-Toleranz.
