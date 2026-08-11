@@ -1,0 +1,34 @@
+{
+  "id": "mexikanische-gemüsesuppe",
+  "title": "Mexikanische Gemüsesuppe",
+  "category": "mittag",
+  "cuisine": "mexikanisch",
+  "time": 45,
+  "servings": 4,
+  "image": "images/mexikanische-gemüsesuppe.png",
+  "ingredients": [
+    { "amount": "2", "unit": "EL", "name": "Öl" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "2", "unit": "TL", "name": "Chilipulver" },
+    { "amount": "1", "unit": "", "name": "Möhre" },
+    { "amount": "2", "unit": "", "name": "Kartoffeln" },
+    { "amount": "350", "unit": "g", "name": "Tomaten (gewürfelt)" },
+    { "amount": "1", "unit": "l", "name": "Gemüsebrühe" },
+    { "amount": "1", "unit": "Dose", "name": "Kidneybohnen" },
+    { "amount": "100", "unit": "g", "name": "Erbsen" },
+    { "amount": "1", "unit": "Dose", "name": "Mais" },
+    { "amount": "50", "unit": "g", "name": "Schmand" },
+    { "amount": "", "unit": "", "name": "Salsa" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Karotten und Möhren schälen und würfeln.",
+    "Das Öl in einem großen Topf erhitzen. Zwiebeln darin weich braten, dann das Chilipulver zugeben und unterrühren.",
+    "Karotte, Kartoffeln und Tomaten zufügen und 2 Minuten unter gelegentlichem Rühren mitbraten.",
+    "Brühe zugießen, den Topf abdecken und die Suppe bei mittlerer Hitze 20 Minuten kochen, bis das Gemüse weich ist.",
+    "Dann den Mais, die Erbsen und die Kidneybohnen dazugeben und alles weitere 5 - 10 Minuten kochen. Schließlich mit Salz und Pfeffer abschmecken.",
+    "Zum Verfeinern noch etwas Schmand oder Crème fraîche hinzufügen und für die besondere Schärfe nach Belieben Salsa hineingeben."
+  ],
+  "notes": ""
+}

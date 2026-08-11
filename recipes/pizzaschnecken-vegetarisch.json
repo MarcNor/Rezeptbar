@@ -1,0 +1,25 @@
+{
+  "id": "pizzaschnecken-vegetarisch",
+  "title": "Vegetarische Pizzaschnecken",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 25,
+  "servings": 1,
+  "image": "images/pizzaschnecken-vegetarisch.png",
+  "ingredients": [
+    { "amount": "1", "unit": "Pck.", "name": "Blätterteig" },
+    { "amount": "100", "unit": "g", "name": "Feta" },
+    { "amount": "3", "unit": "", "name": "Frühlingszwiebeln" },
+    { "amount": "1", "unit": "", "name": "rote Paprika" },
+    { "amount": "50", "unit": "g", "name": "Kräuterfrischkäse" },
+    { "amount": "1", "unit": "TL", "name": "Pizzagewürz" },
+    { "amount": "1", "unit": "EL", "name": "Ajvar" },
+    { "amount": "etwas", "unit": "", "name": "Milch" }
+  ],
+  "steps": [
+    "Die Frühlingszwiebeln und die Paprikaschote sehr klein würfeln und in eine Schüssel geben. Den Feta-Käse zerbröseln und zum Gemüse geben. Frischkäse, Pizzagewürz und Ajvar hinzugeben. Mit etwas Milch alles zu einer dicken Creme verrühren.",
+    "Den Blätterteig auf Backpapier ausrollen und die Masse gleichmäßig darauf verteilen. Nun von beiden Seiten den Teig aufrollen. Anschließend den Teig in ca. 1 cm breite Streifen schneiden und auf ein mit Backpapier ausgelegtes Backblech legen.",
+    "Die Schnecken ca. 15 Minuten in den auf 200 °C Umluft aufgeheizten Backofen auf mittlere Schiene geben und goldbraun backen."
+  ],
+  "notes": ""
+}

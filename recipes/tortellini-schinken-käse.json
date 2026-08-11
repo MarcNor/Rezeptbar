@@ -1,0 +1,28 @@
+{
+  "id": "tortellini-schinken-käse",
+  "title": "Tortellini in Schinken-Käse-Sahne-Sauce",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 30,
+  "servings": 2,
+  "image": "images/tortellini-schinken-käse.png",
+  "ingredients": [
+    { "amount": "250", "unit": "g", "name": "Tortellini" },
+    { "amount": "100", "unit": "g", "name": "Schinken" },
+    { "amount": "1", "unit": "EL", "name": "Butter" },
+    { "amount": "300", "unit": "ml", "name": "Sahne" },
+    { "amount": "1", "unit": "", "name": "Eigelb" },
+    { "amount": "2", "unit": "EL", "name": "Parmesan" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Muskat" }
+  ],
+  "steps": [
+    "Die Tortellini nach Packungsanweisung kochen.",
+    "Den gekochten Schinken in einer tiefen Pfanne in Butter kurz anbraten, dann 2/3 der Sahne hineingeben und auf kleiner Stufe köcheln lassen.",
+    "Wenn die Tortellini gar sind, diese in die Pfanne zur Schinkensahne geben und weiter köcheln lassen.",
+    "In der Zwischenzeit in einer kleinen Schüssel Eigelb mit Parmesan, Muskatnuss, Salz, Pfeffer und den restlichen Sahne verrühren.",
+    "Dies in die Pfanne zu den Tortellini geben und so lange köcheln lassen, bis die Sauce dickflüssig wird. Die Tortellini sofort servieren."
+  ],
+  "notes": ""
+}

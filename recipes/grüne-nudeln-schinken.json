@@ -1,0 +1,33 @@
+{
+  "id": "grüne-nudeln-schinken",
+  "title": "Grüne Nudeln mit Schinken-Sahne-Soße",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 30,
+  "servings": 2,
+  "image": "images/grüne-nudeln-schinken.png",
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "grüne Nudeln" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "Scheibe", "name": "gek. Schinken (ungeräuchert)" },
+    { "amount": "1", "unit": "Glas", "name": "Pilze" },
+    { "amount": "1", "unit": "Becher", "name": "Sahne" },
+    { "amount": "1", "unit": "Becher", "name": "Creme Fraiche" },
+    { "amount": "1", "unit": "Pck.", "name": "Schmelzkäse" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Butter" },
+    { "amount": "", "unit": "", "name": "Soßenbinder" }
+  ],
+  "steps": [
+    "Nudeln nach Packungsanweisung in ausreichend Salzwasser garen.",
+    "Zwiebeln schälen, würfeln und in Butter kurz anschwitzen.",
+    "Pilze abtropfen. Schinken in Würfel schneiden. Beides zu den Zwiebeln geben.",
+    "Sahne dazugeben, sodass alles bedeckt ist und anschließend aufkochen. Ggf. mit Milch noch auffüllen.",
+    "Schmelzkäse einrühren und anschließend Creme Fraiche unterrühren.",
+    "Mit Soßenbinder bis zur gewünschten Konsistenz andicken.",
+    "Mit Salz und Pfeffer abschmecken.",
+    "Nudeln mit Soße servieren."
+  ],
+  "notes": ""
+}

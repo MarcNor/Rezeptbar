@@ -1,0 +1,30 @@
+{
+  "id": "seitan-nuggets",
+  "title": "Seitan Nuggets",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 70,
+  "servings": 4,
+  "image": "images/seitan-nuggets.png",
+  "ingredients": [
+    { "amount": "300", "unit": "g", "name": "Kichererbsen" },
+    { "amount": "100", "unit": "g", "name": "Seitan" },
+    { "amount": "30", "unit": "ml", "name": "Pflanzenöl" },
+    { "amount": "2", "unit": "EL", "name": "Hefeflocken" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "2", "unit": "EL", "name": "Cashew- oder weißes Mandelmus (optinal)" },
+    { "amount": "1", "unit": "", "name": "Ei" },
+    { "amount": "", "unit": "", "name": "Paniermehl" },
+    { "amount": "", "unit": "", "name": "Mehl" }
+  ],
+  "steps": [
+    "Seitanmehl mit Hefeflocken, Salz und Pfeffer vermischen.",
+    "Kichererbsen pürieren und zusammen mit Pflanzenöl zur Seitanmehlmischung geben. Alles kräftig kneten, bis ein zusammenhängender geschmeidiger Teigklumpen entsteht.",
+    "Den Teig in mehrere kleine Stücke teilen und Nuggets daraus formen.",
+    "Die Nuggets panieren.",
+    "Die panierten Nuggets in eine gefettete Auflaufform oder auf ein gefettetes Backblech legen und im vorgeheizten Backofen bei 200 °C Ober-/Unterhitze 30 bis 35 Minuten lang backen.",
+    "Nach der Hälfte der Zeit alle Nuggets einmal wenden und nach Belieben noch mit etwas Pflanzenöl bepinseln."
+  ],
+  "notes": "Die Nuggets können auch eingefroren werden. Vor dem Backen müssen diese nicht aufgetut werden. Sie benötigen dann jedoch ca. 10-15 Minuten länger im Backofen."
+}

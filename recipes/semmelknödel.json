@@ -1,0 +1,30 @@
+{
+  "id": "semmelknödel",
+  "title": "Semmelknödel",
+  "category": "mittag",
+  "cuisine": "mexikanisch",
+  "time": 50,
+  "servings": 8,
+  "image": "images/semmelknödel.png",
+  "ingredients": [
+    { "amount": "500", "unit": "g", "name": "Altes Weißbrot" },
+    { "amount": "500", "unit": "ml", "name": "Milch" },
+    { "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "amount": "1", "unit": "Prise", "name": "Pfeffer" },
+    { "amount": "1", "unit": "Prise", "name": "Muskat" },
+    { "amount": "0,5", "unit": "Bund", "name": "Petersilie" },
+    { "amount": "2", "unit": "", "name": "Eier" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "TL", "name": "Butter" },
+    { "amount": "3", "unit": "EL", "name": "Weizenmehl" }
+  ],
+  "steps": [
+    "Für köstliche Semmelknödel zuerst die Semmeln in sehr dünne Scheiben (5-10 mm) oder kleine Würfel schneiden. Die Milch erwärmen, über die Semmelstücke gießen und für ein paar Minuten ziehen lassen.",
+    "Anschließend Salz, Pfeffer, Muskat, die feingehackte Petersilie und die versprudelten Eier gut mit der eingeweichten Semmelmasse unterkneten - am besten mit feuchten Händen.",
+    "Die Zwiebel schälen, fein reiben oder schneiden und in einer Pfanne mit etwas Butter leicht andünsten (nicht braun werden lassen). Diese ebenfalls unter die Knödelmasse geben und alles gut durchkneten.",
+    "Nun mit feuchten Händen beliebig große Knödel formen: Dabei den Teig gut zusammendrücken und Kugeln formen, anschließend in Mehl wenden.",
+    "Die Semmelknödeln in einem großen Topf mit leicht kochendem Salzwasser 15-20 Minuten ziehen lassen (das Wasser sollte nicht mehr kochen), bis sie nach oben steigen.",
+    "Danach die Semmelknödel mit einem Schaumlöffel aus dem Wasser nehmen."
+  ],
+  "notes": "Alternativ können die Semmelknödel auch als große Rolle in Alufolie eingewickelt und gekocht werden."
+}

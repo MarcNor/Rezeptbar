@@ -2,7 +2,7 @@
   {
     "id": "asiatischer-spitzkohlsalat",
     "title": "Asiatischer Spitzkohlsalat",
-    "category": "mittag",
+    "category": "sonstiges",
     "cuisine": "asiatisch",
     "time": 25,
     "servings": 6,
@@ -25,6 +25,15 @@
     "time": 180,
     "servings": 10,
     "image": "images/blaubeer_torte.png"
+  },
+  {
+    "id": "brezenknödel",
+    "title": "Brezenknödel",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 60,
+    "servings": 8,
+    "image": "images/brezenknödel.png"
   },
   {
     "id": "burger-knusperhähnchen-coleslaw",
@@ -171,6 +180,15 @@
     "image": "images/gelbe-linsen-curry-suppe.png"
   },
   {
+    "id": "grüne-nudeln-schinken",
+    "title": "Grüne Nudeln mit Schinken-Sahne-Soße",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 30,
+    "servings": 2,
+    "image": "images/grüne-nudeln-schinken.png"
+  },
+  {
     "id": "gyoza-mit-selbstgemachtem-teig",
     "title": "Gyoza mit Spitzkohl und Hackfleisch",
     "category": "mittag",
@@ -227,7 +245,7 @@
   {
     "id": "kartoffelsalat-caesar-art",
     "title": "Kartoffelsalat nach Caesar-Art",
-    "category": "mittag",
+    "category": "sonstiges",
     "cuisine": "deutsch",
     "time": 50,
     "servings": 4,
@@ -315,6 +333,24 @@
     "image": "images/maracuja-cheescake-tartelettes.png"
   },
   {
+    "id": "maultaschen-spinat-auflauf",
+    "title": "Maultaschen-Spinat-Auflauf",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 40,
+    "servings": 2,
+    "image": "images/maultaschen-spinat-auflauf.png"
+  },
+  {
+    "id": "mexikanische-gemüsesuppe",
+    "title": "Mexikanische Gemüsesuppe",
+    "category": "mittag",
+    "cuisine": "mexikanisch",
+    "time": 45,
+    "servings": 4,
+    "image": "images/mexikanische-gemüsesuppe.png"
+  },
+  {
     "id": "mini-cheesecake",
     "title": "Mini-Kirsch-Cheescakes",
     "category": "backen",
@@ -349,6 +385,15 @@
     "time": 720,
     "servings": 1,
     "image": "images/pizza.png"
+  },
+  {
+    "id": "nudelsalat",
+    "title": "Nudelsalat",
+    "category": "sonstiges",
+    "cuisine": "deutsch",
+    "time": 30,
+    "servings": 4,
+    "image": "images/nudelsalat.png"
   },
   {
     "id": "paella-hähnchen",
@@ -432,6 +477,15 @@
     "image": "images/ravioli-spinat-ricotta.png"
   },
   {
+    "id": "reis-hackfleisch-salat",
+    "title": "Reis-Hackfleisch-Salat",
+    "category": "sonstiges",
+    "cuisine": "deutsch",
+    "time": 30,
+    "servings": 4,
+    "image": "images/reis-hackfleisch-salat.png"
+  },
+  {
     "id": "eistee-rhabarber",
     "title": "Rhabarber Eistee",
     "category": "getraenke",
@@ -486,6 +540,24 @@
     "image": "images/schweizer-rösti.png"
   },
   {
+    "id": "seitan-nuggets",
+    "title": "Seitan Nuggets",
+    "category": "mittag",
+    "cuisine": "deutsch",
+    "time": 70,
+    "servings": 4,
+    "image": "images/seitan-nuggets.png"
+  },
+  {
+    "id": "semmelknödel",
+    "title": "Semmelknödel",
+    "category": "mittag",
+    "cuisine": "mexikanisch",
+    "time": 50,
+    "servings": 8,
+    "image": "images/semmelknödel.png"
+  },
+  {
     "id": "sigara-boerek",
     "title": "Sigara Börek aus dem Ofen",
     "category": "mittag",
@@ -513,6 +585,15 @@
     "image": "images/spaghetti-carbonara.png"
   },
   {
+    "id": "spaghetti-parmesan-sahne",
+    "title": "Spaghetti mit Parmesan - Sahnesauce",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 30,
+    "servings": 2,
+    "image": "images/spaghetti-parmesan-sahne.png"
+  },
+  {
     "id": "spaghetti-mit-zitronenhähnchen",
     "title": "Spaghetti mit Zitronenhähnchen",
     "category": "mittag",
@@ -524,7 +605,7 @@
   {
     "id": "spaghetti-salat",
     "title": "Spaghetti Salat mit Thunfisch",
-    "category": "mittag",
+    "category": "sonstiges",
     "cuisine": "italienisch",
     "time": 45,
     "servings": 1,
@@ -551,7 +632,7 @@
   {
     "id": "taco-salat",
     "title": "Taco Salat mit Hackfleisch",
-    "category": "mittag",
+    "category": "sonstiges",
     "cuisine": "amerikanisch",
     "time": 25,
     "servings": 6,
@@ -594,9 +675,18 @@
     "image": "images/tomatenbutter.png"
   },
   {
+    "id": "tortellini-schinken-käse",
+    "title": "Tortellini in Schinken-Käse-Sahne-Sauce",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 30,
+    "servings": 2,
+    "image": "images/tortellini-schinken-käse.png"
+  },
+  {
     "id": "bulgur-salat",
     "title": "Türkischer Bulgur Salat",
-    "category": "mittag",
+    "category": "sonstiges",
     "cuisine": "türkisch",
     "time": 45,
     "servings": 4,
@@ -628,6 +718,24 @@
     "time": 200,
     "servings": 4,
     "image": "images/schawarma-austernseitlinge-grillgemüse.png"
+  },
+  {
+    "id": "pizzaschnecken-vegetarisch",
+    "title": "Vegetarische Pizzaschnecken",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 25,
+    "servings": 1,
+    "image": "images/pizzaschnecken-vegetarisch.png"
+  },
+  {
+    "id": "jackfruit-gulasch",
+    "title": "Vegetarisches Jackfruit-Gulasch",
+    "category": "mittag",
+    "cuisine": "ungarisch",
+    "time": 120,
+    "servings": 4,
+    "image": "images/jackfruit-gulasch.png"
   },
   {
     "id": "virgin-mojito",

@@ -1,0 +1,31 @@
+{
+  "id": "nudelsalat",
+  "title": "Nudelsalat",
+  "category": "sonstiges",
+  "cuisine": "deutsch",
+  "time": 30,
+  "servings": 4,
+  "image": "images/nudelsalat.png",
+  "ingredients": [
+    { "amount": "250", "unit": "g", "name": "Nudeln" },
+    { "amount": "1", "unit": "Scheibe", "name": "gek. Schinken (ungeräuchert)" },
+    { "amount": "1", "unit": "kl. Dose", "name": "Erbsen" },
+    { "amount": "10", "unit": "", "name": "eingelegte Gurken" },
+    { "amount": "1", "unit": "kl. Glas", "name": "Miracel Wip" },
+    { "amount": "etwas", "unit": "", "name": "Milch" },
+    { "amount": "3", "unit": "", "name": "Eier" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "1", "unit": "EL", "name": "Senf" }
+  ],
+  "steps": [
+    "Eier ca. 12 Minuten kochen.",
+    "Nudeln nach Packungsanweisung in ausreichend Salzwasser kochen.",
+    "Schinken, Gurken und Eier klein schneiden. Erbsen abgießen.",
+    "Alle Zutaten in einer Schüssel mit den Nudeln mischen.",
+    "Miracel Wip, etwas Gurkenbrühe und Milch verrühren, mit Salz, Pfeffer und Senf würzen. Die Masse sollte nicht zu dünnflüssig sein.",
+    "Das Dressing über die Nudeln gießen und alles gut durchmischen.",
+    "Den Salat am besten mind. 1 Stunde durchziehen lassen. Ggf. nochmals nachwürzen."
+  ],
+  "notes": ""
+}

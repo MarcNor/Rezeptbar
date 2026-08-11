@@ -1,0 +1,26 @@
+{
+  "id": "brezenknödel",
+  "title": "Brezenknödel",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 60,
+  "servings": 8,
+  "image": "images/brezenknödel.png",
+  "ingredients": [
+    { "amount": "4", "unit": "", "name": "Laugenbrezeln" },
+    { "amount": "125", "unit": "ml", "name": "Milch" },
+    { "amount": "20", "unit": "g", "name": "Butter" },
+    { "amount": "0,5", "unit": "Bund", "name": "Petersilie" },
+    { "amount": "3", "unit": "", "name": "Eier" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Muskat" }
+  ],
+  "steps": [
+    "Brezeln in kleine Würfel schneiden. Milch erhitzen und über die Brezeln gießen. Ca. 30 Minuten ziehen lassen.",
+    "Zwiebeln schälen und fein würfeln. Butter erhitzen. Zwiebelwürfel darin andünsten, vom Herd nehmen.",
+    "Petersilie waschen, trocken schütteln und Blättchen abzupfen. Blättchen fein schneiden. Eier, Petersilie und Zwiebelwürfel mit Butter zur Brezelmasse geben, alles gut verkneten. Mit Salz, Pfeffer und Muskat abschmecken.",
+    "Knödel daraus formen. Reichlich Salzwasser aufkochen. Knödel hineingleiten lassen und bei schwacher Hitze 12–15 Minuten gar ziehen lassen."
+  ],
+  "notes": "Alternativ können die Brezenknödel auch als große Rolle in Alufolie eingewickelt und gekocht werden."
+}

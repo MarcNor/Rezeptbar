@@ -1,0 +1,26 @@
+{
+  "id": "spaghetti-parmesan-sahne",
+  "title": "Spaghetti mit Parmesan - Sahnesauce",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 30,
+  "servings": 2,
+  "image": "images/spaghetti-parmesan-sahne.png",
+  "ingredients": [
+    { "amount": "200", "unit": "g", "name": "Spaghetti" },
+    { "amount": "200", "unit": "ml", "name": "Sahne" },
+    { "amount": "70", "unit": "g", "name": "Parmesan" },
+    { "amount": "1", "unit": "EL", "name": "Petersilie" },
+    { "amount": "1", "unit": "Pck.", "name": "Schmelzkäse" },
+    { "amount": "1", "unit": "TL", "name": "Butter" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Spaghetti laut Packungsanleitung al dente kochen.",
+    "In der Zwischenzeit die Butter in einem Topf zergehen lassen, Parmesan und Obers einrühren, langsam erhitzen und den Schmelzkäse dazugeben - die Sauce etwas köcheln lassen damit sie etwas eindickt - mit Salz und Pfeffer nach Bedarf/Geschmack abschmecken.",
+    "Die Spaghetti abseihen, abschrecken und zur heißen Sauce geben, die Spaghetti so lange darin schwenken bis alle Nudeln mit Sauce bedeckt sind.",
+    "Die Spaghetti auf vorgewärmten Tellern mit Petersilie bestreut servieren."
+  ],
+  "notes": ""
+}

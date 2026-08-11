@@ -1,0 +1,32 @@
+{
+  "id": "maultaschen-spinat-auflauf",
+  "title": "Maultaschen-Spinat-Auflauf",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 40,
+  "servings": 2,
+  "image": "images/maultaschen-spinat-auflauf.png",
+  "ingredients": [
+    { "amount": "1", "unit": "Pck.", "name": "TK-Spinat" },
+    { "amount": "1", "unit": "Pck.", "name": "Maultaschen" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "3", "unit": "EL", "name": "Öl" },
+    { "amount": "1", "unit": "EL", "name": "Butter" },
+    { "amount": "150", "unit": "g", "name": "Käse" },
+    { "amount": "200", "unit": "ml", "name": "Schlagsahne" },
+    { "amount": "0,5", "unit": "TL", "name": "Oregano" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Muskat" }
+  ],
+  "steps": [
+    "Spinat nach Packungsanweisung auftauen lassen. Maultaschen in kochendem Salzwasser nach Packungsanweisung garen.",
+    "Spinat sehr gut ausdrücken und grob hacken. Zwiebel in feine Streifen schneiden, in einer Pfanne im heißen Öl andünsten. Spinat kurz mitdünsten. Mit Salz und Muskat würzen.",
+    "Den Ofen auf 220 Grad vorheizen Ober-/Unterhitze vorheizen.",
+    "Maultaschen gut abtropfen lassen, in ca. 3 cm breite Stücke schneiden.",
+    "Eine Auflaufform (ca. 24 cm Ø) mit Butter ausfetten, Maultaschen mit den Schnittflächen nach oben hineinsetzen. Spinat darum herum verteilen. Käse grob raspeln und darüberstreuen.",
+    "ahne mit Salz, Pfeffer, Muskat und Oregano würzen und halb steif schlagen. Über dem Käse verteilen.",
+    "Im heißen Ofen auf der mittleren Schiene 15 Min. backen. Dann sofort servieren."
+  ],
+  "notes": ""
+}

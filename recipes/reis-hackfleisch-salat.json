@@ -1,0 +1,29 @@
+{
+  "id": "reis-hackfleisch-salat",
+  "title": "Reis-Hackfleisch-Salat",
+  "category": "sonstiges",
+  "cuisine": "deutsch",
+  "time": 30,
+  "servings": 4,
+  "image": "images/reis-hackfleisch-salat.png",
+  "ingredients": [
+    { "amount": "250", "unit": "g", "name": "Hackfleisch" },
+    { "amount": "2", "unit": "", "name": "Paprika" },
+    { "amount": "10", "unit": "", "name": "eingelegte Gurken" },
+    { "amount": "1", "unit": "Flasche", "name": "Paprika-Sauce ungarische Art" },
+    { "amount": "1", "unit": "", "name": "Zwiebel" },
+    { "amount": "etwas", "unit": "", "name": "Miracel Wip" },
+    { "amount": "2", "unit": "Beutel", "name": "Reis" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" }
+  ],
+  "steps": [
+    "Zwiebeln würfeln und zusammen mit dem Hackfleisch anbraten.",
+    "Reis nach Packungsanweisung kochen.",
+    "Hackfleisch und Reis in einer Schüssel mischen.",
+    "Paprika und Gurken klein schneiden und zum Hackfleisch-Reis-Mix hinzugeben.",
+    "Sauce, Miracel Wip und Gurkenbrühe verrühren und in die Schüssel geben.",
+    "Alles zusammen gut verrühren und mind. 1 Stunde durchziehen lassen. Ggf. nochmals nachwürzen."
+  ],
+  "notes": ""
+}
