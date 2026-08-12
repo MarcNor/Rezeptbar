@@ -1,0 +1,72 @@
+{
+  "id": "apple-danish",
+  "title": "Apple Danish – Plunderstrudel mit karamellisierten Äpfeln",
+  "category": "backen",
+  "cuisine": "dänisch",
+  "time": 120,
+  "image": "images/apple-danish.png",
+  "servings": 8,
+  "utensils": [
+    "Handmixer oder Küchenmaschine mit Knethaken",
+    "Frischhaltefolie oder Gefrierbeutel",
+    "Große Pfanne",
+    "Rechteckige Form bzw. längliche Tarteform",
+    "Schere",
+    "Kuchengitter"
+  ],
+  "ingredients": [
+    { "component": "Plunderteig", "amount": "1", "unit": "Pck.", "name": "Trockenhefe" },
+    { "component": "Plunderteig", "amount": "80", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "component": "Plunderteig", "amount": "90", "unit": "ml", "name": "Sahne" },
+    { "component": "Plunderteig", "amount": "1", "unit": "", "name": "Ei" },
+    { "component": "Plunderteig", "amount": "180", "unit": "g", "name": "weiche Butter, gewürfelt" },
+    { "component": "Plunderteig", "amount": "360", "unit": "g", "name": "Mehl" },
+    { "component": "Plunderteig", "amount": "30", "unit": "g", "name": "brauner Zucker" },
+    { "component": "Plunderteig", "amount": "1", "unit": "", "name": "Zesten einer Zitrone" },
+    { "component": "Plunderteig", "amount": "0,5", "unit": "TL", "name": "Kardamom" },
+
+    { "component": "Apfelfüllung", "amount": "40", "unit": "g", "name": "gewürfelte Butter" },
+    { "component": "Apfelfüllung", "amount": "2", "unit": "", "name": "große säuerliche Äpfel" },
+    { "component": "Apfelfüllung", "amount": "50", "unit": "ml", "name": "Calvados" },
+    { "component": "Apfelfüllung", "amount": "80", "unit": "g", "name": "Puderzucker" },
+    { "component": "Apfelfüllung", "amount": "0,5", "unit": "", "name": "Zitrone, der Saft davon" },
+
+    { "component": "Glasur", "amount": "160", "unit": "g", "name": "Puderzucker" },
+    { "component": "Glasur", "amount": "0,5", "unit": "TL", "name": "Kardamom" },
+    { "component": "Glasur", "amount": "2", "unit": "TL", "name": "Milch" },
+    { "component": "Glasur", "amount": "2", "unit": "TL", "name": "Zitronensaft" }
+  ],
+  "steps": [
+    { "component": "Plunderteig", "text": "Die Trockenhefe mit 80 ml lauwarmem Wasser vermischen und ca. 5 Minuten stehen lassen, bis sich Schaum bildet." },
+    { "component": "Plunderteig", "text": "Sahne und Ei zugeben und mit Handmixer oder Küchenmaschine verrühren." },
+    { "component": "Plunderteig", "text": "Mehl, Butter, Zucker, Zitronenzesten und Kardamom in einer separaten Schüssel mit dem Knethaken vermischen, bis die Butterstücke erbsengroß sind." },
+    { "component": "Plunderteig", "text": "Das Hefe-Ei-Gemisch zugeben und durchkneten, bis ein homogener Teig entsteht." },
+    { "component": "Plunderteig", "text": "In Frischhaltefolie oder einen Gefrierbeutel packen und mindestens 4 Stunden, gerne über Nacht, in den Kühlschrank legen." },
+    { "component": "Plunderteig", "text": "Auf bemehlter Fläche zu einem Rechteck ausrollen und falten: oberes Drittel zur Mitte, unteres Drittel darüber, dann von links und rechts, bis ein Quadrat entsteht." },
+    { "component": "Plunderteig", "text": "In Frischhaltefolie packen und ca. 30 Minuten im Kühlschrank ruhen lassen." },
+    { "component": "Plunderteig", "text": "Die Prozedur noch zweimal mit jeweiliger Kühlpause wiederholen." },
+    { "component": "Plunderteig", "text": "Bis zur Weiterverarbeitung im Kühlschrank lagern, bis die Apfelfüllung fertig und abgekühlt ist." },
+
+    { "component": "Apfelfüllung", "text": "Die Butter in einer großen Pfanne schmelzen." },
+    { "component": "Apfelfüllung", "text": "Die gewürfelten Apfelstücke zugeben und ca. 2–3 Minuten köcheln lassen." },
+    { "component": "Apfelfüllung", "text": "Den Puderzucker darübersieben und verrühren." },
+    { "component": "Apfelfüllung", "text": "Unter gelegentlichem Rühren ca. 5–8 Minuten karamellisieren lassen." },
+    { "component": "Apfelfüllung", "text": "Calvados und Zitronensaft zugeben und umrühren." },
+    { "component": "Apfelfüllung", "text": "So lange köcheln lassen, bis die Flüssigkeit zu Karamell wird." },
+    { "component": "Apfelfüllung", "text": "Abkühlen lassen und überschüssige Flüssigkeit gegebenenfalls abschütten." },
+
+    { "component": "Zusammensetzen und Backen", "text": "Den Ofen auf 180 °C vorheizen." },
+    { "component": "Zusammensetzen und Backen", "text": "Den Teig zu einem Rechteck von ca. 25 × 30 cm ausrollen." },
+    { "component": "Zusammensetzen und Backen", "text": "In die gefettete und bemehlte rechteckige Form legen, die schmale Seite nach vorne, sodass der Teig rechts und links überhängt." },
+    { "component": "Zusammensetzen und Backen", "text": "Die Apfelfüllung auf dem Teig verteilen." },
+    { "component": "Zusammensetzen und Backen", "text": "Die überhängenden Teigränder mit der Schere bis zur Form in ca. 1 cm breite Streifen einschneiden." },
+    { "component": "Zusammensetzen und Backen", "text": "Die Streifen abwechselnd von rechts und links verflechten." },
+    { "component": "Zusammensetzen und Backen", "text": "Mit verquirltem Eigelb bestreichen." },
+    { "component": "Zusammensetzen und Backen", "text": "Ca. 15–20 Minuten backen, bis eine dunkle goldene Farbe erreicht ist." },
+
+    { "component": "Glasur", "text": "Auf einem Kuchengitter abkühlen lassen." },
+    { "component": "Glasur", "text": "Alle Glasur-Zutaten verrühren und über dem Plunder verteilen." },
+    { "component": "Glasur", "text": "Optional gehackte Haselnüsse oder Mandeln darüber verteilen." }
+  ],
+  "notes": ""
+}

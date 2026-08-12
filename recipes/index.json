@@ -9,6 +9,15 @@
     "image": "images/peach-blossom-torte.png"
   },
   {
+    "id": "apple-danish",
+    "title": "Apple Danish – Plunderstrudel mit karamellisierten Äpfeln",
+    "category": "backen",
+    "cuisine": "dänisch",
+    "time": 120,
+    "servings": 8,
+    "image": "images/apple-danish.png"
+  },
+  {
     "id": "asiatischer-spitzkohlsalat",
     "title": "Asiatischer Spitzkohlsalat",
     "category": "sonstiges",
@@ -126,6 +135,15 @@
     "image": "images/couscous-bratlinge.png"
   },
   {
+    "id": "cranberry-hafer-walnussbrot",
+    "title": "Cranberry-Hafer-Walnussbrot",
+    "category": "backen",
+    "cuisine": "amerikanisch",
+    "time": 135,
+    "servings": 12,
+    "image": "images/cranberry-hafer-walnussbrot.png"
+  },
+  {
     "id": "schupfnudel-spinat",
     "title": "Cremige Schupfnudeln mit Spinat",
     "category": "mittag",
@@ -207,6 +225,15 @@
     "image": "images/erdnuss-gemüse-reis.png"
   },
   {
+    "id": "exotisches-schoko-toertchen",
+    "title": "Exotisches Schoko-Törtchen mit Passionsfruchtkaramell",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 8,
+    "image": "images/exotisches-schoko-toertchen.png"
+  },
+  {
     "id": "focaccia-kartoffel-dinkel",
     "title": "Focaccia aus Kartoffel-Dinkelteig",
     "category": "mittag",
@@ -232,6 +259,15 @@
     "time": 15,
     "servings": null,
     "image": "images/rotes-pesto-frischkäse.png"
+  },
+  {
+    "id": "cheesecake-hefeknoten",
+    "title": "Fruchtige Cheesecake Hefeknoten",
+    "category": "backen",
+    "cuisine": "schwedisch",
+    "time": 45,
+    "servings": 8,
+    "image": "images/cheesecake-hefeknoten.png"
   },
   {
     "id": "fruchttarte-exotic",
@@ -324,6 +360,33 @@
     "image": "images/heidelbeer-thymian-limo.png"
   },
   {
+    "id": "heisse-dubai-schokolade",
+    "title": "Heiße Dubai-Schokolade",
+    "category": "getraenke",
+    "cuisine": "orientalisch",
+    "time": 10,
+    "servings": 1,
+    "image": "images/heisse-dubai-schokolade.png"
+  },
+  {
+    "id": "heisse-matcha-schokolade",
+    "title": "Heiße Matcha-Schokolade",
+    "category": "getraenke",
+    "cuisine": "japanisch",
+    "time": 10,
+    "servings": 1,
+    "image": "images/heisse-matcha-schokolade.png"
+  },
+  {
+    "id": "heisse-schokolade-marshmallows",
+    "title": "Heiße Schokolade mit Marshmallows und Karamellsauce",
+    "category": "getraenke",
+    "cuisine": "amerikanisch",
+    "time": 15,
+    "servings": 4,
+    "image": "images/heisse-schokolade-marshmallows.png"
+  },
+  {
     "id": "himbeer-rosmarin-limo",
     "title": "Himbeer-Limonade mit Rosmarin und Limette",
     "category": "getraenke",
@@ -414,6 +477,15 @@
     "image": "images/cesar_salat.png"
   },
   {
+    "id": "khachapuri",
+    "title": "Khachapuri",
+    "category": "mittag",
+    "cuisine": "georgisch",
+    "time": 90,
+    "servings": 3,
+    "image": "images/khachapuri.png"
+  },
+  {
     "id": "kirsch-dulcey-schokoladentorte",
     "title": "Kirsch-Dulcey Schokoladentorte",
     "category": "backen",
@@ -502,6 +574,15 @@
     "time": 120,
     "servings": 12,
     "image": "images/macarons-salzkaramell.png"
+  },
+  {
+    "id": "macarons-holunder",
+    "title": "Macarons mit Holunder",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 12,
+    "image": "images/macarons-holunder.png"
   },
   {
     "id": "macarons-lakritz",
@@ -666,6 +747,15 @@
     "image": "images/orangentorte-schokoladenknusperboden.png"
   },
   {
+    "id": "oreo-heisse-schokolade",
+    "title": "Oreo heiße Schokolade",
+    "category": "getraenke",
+    "cuisine": "amerikanisch",
+    "time": 11,
+    "servings": 2,
+    "image": "images/oreo-heisse-schokolade.png"
+  },
+  {
     "id": "paella-hähnchen",
     "title": "Paella mit Hähnchen",
     "category": "mittag",
@@ -736,6 +826,24 @@
     "time": 40,
     "servings": 2,
     "image": "images/pilzrisotto.png"
+  },
+  {
+    "id": "pinsa-romana",
+    "title": "Pinsa Romana mit Feigen, Burrata & Basilikum",
+    "category": "mittag",
+    "cuisine": "italienisch",
+    "time": 60,
+    "servings": 4,
+    "image": "images/pinsa-romana.png"
+  },
+  {
+    "id": "pistazien-croissants",
+    "title": "Pistazien-Croissants",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 510,
+    "servings": 7,
+    "image": "images/pistazien-croissants.png"
   },
   {
     "id": "pistazien-himbeer-cookies",

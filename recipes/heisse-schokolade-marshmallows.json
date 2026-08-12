@@ -1,0 +1,38 @@
+{
+  "id": "heisse-schokolade-marshmallows",
+  "title": "Heiße Schokolade mit Marshmallows und Karamellsauce",
+  "category": "getraenke",
+  "cuisine": "amerikanisch",
+  "time": 15,
+  "image": "images/heisse-schokolade-marshmallows.png",
+  "servings": 4,
+  "utensils": [
+    "Messer",
+    "Schneidebrett",
+    "Topf",
+    "Schüssel",
+    "Handrührgerät mit Schneebesen",
+    "Sahnesiphon (optional)"
+  ],
+  "ingredients": [
+    { "amount": "2", "unit": "", "name": "Vanilleschoten" },
+    { "amount": "2", "unit": "TL", "name": "gemahlener Kardamom" },
+    { "amount": "8", "unit": "EL", "name": "Zucker" },
+    { "amount": "1,2", "unit": "l", "name": "Milch" },
+    { "amount": "400", "unit": "g", "name": "Zartbitterschokolade" },
+    { "amount": "200", "unit": "g", "name": "Schlagsahne" },
+    { "amount": "4", "unit": "Kugeln", "name": "Eis" },
+    { "amount": "8", "unit": "EL", "name": "Karamellsauce" },
+    { "amount": "60", "unit": "g", "name": "Mini-Marshmallows" },
+    { "amount": "4", "unit": "EL", "name": "bunte Streusel" }
+  ],
+  "steps": [
+    "Die Vanilleschoten der Länge nach halbieren und das Mark herauskratzen.",
+    "Vanillemark, Kardamom und Zucker mit der Milch aufkochen.",
+    "Die Schokolade unter Rühren in der warmen Milch schmelzen.",
+    "Die Schlagsahne in ein Sahnesiphon füllen oder mit dem Schneebesen des Handrührgeräts aufschlagen.",
+    "Die heiße Schokolade in Becher füllen und mit Sahne, Eis und Karamellsauce garnieren.",
+    "Marshmallows und Streusel darüber verteilen und heiß servieren."
+  ],
+  "notes": ""
+}

@@ -1,0 +1,61 @@
+{
+  "id": "khachapuri",
+  "title": "Khachapuri",
+  "category": "mittag",
+  "cuisine": "georgisch",
+  "time": 90,
+  "image": "images/khachapuri.png",
+  "servings": 3,
+  "utensils": [
+    "Pizzastein",
+    "Pizzaschieber",
+    "Ofen mit Grill und Umluft",
+    "Schüssel",
+    "Geschirrtuch"
+  ],
+  "ingredients": [
+    { "component": "Hefeteig", "amount": "140", "unit": "ml", "name": "Wasser" },
+    { "component": "Hefeteig", "amount": "5", "unit": "g", "name": "Zucker" },
+    { "component": "Hefeteig", "amount": "8", "unit": "g", "name": "Hefe" },
+    { "component": "Hefeteig", "amount": "9", "unit": "ml", "name": "Olivenöl" },
+    { "component": "Hefeteig", "amount": "230", "unit": "g", "name": "Mehl" },
+    { "component": "Hefeteig", "amount": "5", "unit": "g", "name": "Salz" },
+    { "component": "Hefeteig", "amount": "", "unit": "", "name": "etwas Semola" },
+
+    { "component": "Käse-Füllung", "amount": "75", "unit": "g", "name": "Feta" },
+    { "component": "Käse-Füllung", "amount": "150", "unit": "g", "name": "Mozzarella" },
+    { "component": "Käse-Füllung", "amount": "30", "unit": "g", "name": "geriebener Käsemix" },
+    { "component": "Käse-Füllung", "amount": "75", "unit": "g", "name": "Ricotta" },
+    { "component": "Käse-Füllung", "amount": "1", "unit": "Prise", "name": "Pfeffer" },
+
+    { "component": "Dekoration", "amount": "6", "unit": "", "name": "Eigelbe" },
+    { "component": "Dekoration", "amount": "", "unit": "", "name": "etwas Butter" },
+    { "component": "Dekoration", "amount": "", "unit": "", "name": "etwas Knoblauch" },
+    { "component": "Dekoration", "amount": "", "unit": "", "name": "etwas krause Petersilie" },
+    { "component": "Dekoration", "amount": "", "unit": "", "name": "etwas Schnittlauch" },
+    { "component": "Dekoration", "amount": "", "unit": "", "name": "etwas Fleur de Sel" }
+  ],
+  "steps": [
+    { "component": "Hefeteig", "text": "Den Pizzastein auf der untersten Schiene einsetzen und den Ofen auf 50 °C vorheizen." },
+    { "component": "Hefeteig", "text": "Die Hefe zerbröckeln und alle Zutaten vermischen." },
+    { "component": "Hefeteig", "text": "2 Minuten langsam kneten, dann 5 Minuten kräftiger kneten." },
+    { "component": "Hefeteig", "text": "Mit einem feuchten Tuch abdecken und 30 Minuten im ausgeschalteten Ofen gehen lassen." },
+    { "component": "Hefeteig", "text": "Den Ofen anschließend auf 250 °C Grill mit Umluft vorheizen." },
+
+    { "component": "Käse-Füllung", "text": "Den Feta zerbröckeln und den Mozzarella zerreißen." },
+    { "component": "Käse-Füllung", "text": "Mit Käsemix, Ricotta und Pfeffer verrühren." },
+
+    { "component": "Fertigstellung", "text": "Den Teig in 3 Teile teilen, zu Kugeln formen und 5 Minuten ruhen lassen." },
+    { "component": "Fertigstellung", "text": "Zu Ovalen ausrollen." },
+    { "component": "Fertigstellung", "text": "Die Ränder der langen Seiten nach innen falten, die Spitzen verdrehen und zusammendrücken." },
+    { "component": "Fertigstellung", "text": "Mit der Käsemasse befüllen." },
+    { "component": "Fertigstellung", "text": "10 Minuten bei Zimmertemperatur gehen lassen." },
+    { "component": "Fertigstellung", "text": "Auf dem Pizzastein ca. 10 Minuten backen." },
+
+    { "component": "Dekoration", "text": "Je zwei Eigelbe pro Brot in die Vertiefungen geben." },
+    { "component": "Dekoration", "text": "Weitere 2–3 Minuten backen." },
+    { "component": "Dekoration", "text": "Mit Knoblauchbutter bestreichen." },
+    { "component": "Dekoration", "text": "Petersilie und Schnittlauch fein hacken und zusammen mit dem Fleur de Sel darauf verteilen." }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,63 @@
+{
+  "id": "pistazien-croissants",
+  "title": "Pistazien-Croissants",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 510,
+  "image": "images/pistazien-croissants.png",
+  "servings": 7,
+  "utensils": [
+    "Teigrolle bzw. französisches Nudelholz",
+    "Backpapier",
+    "Backblech",
+    "Pinsel",
+    "Croissant-Schneider (optional)"
+  ],
+  "ingredients": [
+    { "component": "Croissant-Teig", "amount": "250", "unit": "g", "name": "Mehl Type 550 oder T65" },
+    { "component": "Croissant-Teig", "amount": "160", "unit": "ml", "name": "Wasser" },
+    { "component": "Croissant-Teig", "amount": "0,5", "unit": "TL", "name": "Salz" },
+    { "component": "Croissant-Teig", "amount": "25", "unit": "g", "name": "Zucker" },
+    { "component": "Croissant-Teig", "amount": "20", "unit": "g", "name": "Hefe" },
+    { "component": "Croissant-Teig", "amount": "125", "unit": "g", "name": "Butter" },
+
+    { "component": "Pistazien-Schicht", "amount": "50", "unit": "g", "name": "Croissant-Teig" },
+    { "component": "Pistazien-Schicht", "amount": "1", "unit": "gute TL", "name": "grüne Pistazienpaste" },
+    { "component": "Pistazien-Schicht", "amount": "", "unit": "", "name": "grüne Lebensmittelfarbe (optional)" },
+
+    { "component": "Pistazien-Creme", "amount": "75", "unit": "g", "name": "Mandeln" },
+    { "component": "Pistazien-Creme", "amount": "75", "unit": "g", "name": "weiche Butter" },
+    { "component": "Pistazien-Creme", "amount": "75", "unit": "g", "name": "Puderzucker" },
+    { "component": "Pistazien-Creme", "amount": "2", "unit": "TL", "name": "Pistazienpaste" },
+
+    { "component": "Zum Bestreichen und Verzieren", "amount": "1", "unit": "", "name": "Eigelb" },
+    { "component": "Zum Bestreichen und Verzieren", "amount": "2", "unit": "EL", "name": "Milch" },
+    { "component": "Zum Bestreichen und Verzieren", "amount": "30-40", "unit": "g", "name": "Puderzucker" },
+    { "component": "Zum Bestreichen und Verzieren", "amount": "2", "unit": "EL", "name": "gehackte Pistazien" }
+  ],
+  "steps": [
+    { "component": "Croissant-Teig", "text": "Mehl, Salz und Zucker mischen." },
+    { "component": "Croissant-Teig", "text": "Die Hefe in lauwarmem Wasser auflösen und auf das Mehl geben." },
+    { "component": "Croissant-Teig", "text": "Den Teig durchkneten und 30 Minuten ruhen lassen." },
+    { "component": "Croissant-Teig", "text": "Den Teig auf ca. 30 cm ausbreiten und die Butter als 13-cm-Viereck einschlagen." },
+    { "component": "Croissant-Teig", "text": "Den Teig zusammenklappen und den dicken Rand abschneiden." },
+
+    { "component": "Pistazien-Schicht", "text": "Ca. 50 g Teigrest mit der Pistazienpaste vermischen." },
+    { "component": "Pistazien-Schicht", "text": "Gründlich durchkneten." },
+
+    { "component": "Laminage", "text": "3 Touren (Zusammenlegen und Ausbreiten) wie beim Basis-Croissantrezept durchführen." },
+    { "component": "Laminage", "text": "Den Teig ein letztes Mal ausbreiten." },
+    { "component": "Laminage", "text": "Den Pistazien-Teig sehr dünn (3 mm) ausbreiten." },
+    { "component": "Laminage", "text": "Auf den Croissant-Teig legen und mit der Teigrolle andrücken." },
+    { "component": "Laminage", "text": "In Dreiecke schneiden." },
+
+    { "component": "Pistazien-Creme", "text": "Alle Zutaten der Pistazien-Creme cremig rühren." },
+
+    { "component": "Formen und Backen", "text": "Jedes Dreieck mit 1 TL Pistazien-Creme füllen." },
+    { "component": "Formen und Backen", "text": "Zusammenrollen und auf Backpapier legen." },
+    { "component": "Formen und Backen", "text": "Mindestens 30 Minuten, besser länger, an einem warmen Ort gehen lassen." },
+    { "component": "Formen und Backen", "text": "Mit der Eigelb-Milch-Mischung bepinseln." },
+    { "component": "Formen und Backen", "text": "Bei 180 °C Umluft ca. 30 Minuten backen und in den letzten Minuten auf 170 °C reduzieren, damit die Farbe erhalten bleibt." }
+  ],
+  "notes": ""
+}

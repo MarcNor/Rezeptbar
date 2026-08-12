@@ -1,0 +1,33 @@
+{
+  "id": "oreo-heisse-schokolade",
+  "title": "Oreo heiße Schokolade",
+  "category": "getraenke",
+  "cuisine": "amerikanisch",
+  "time": 11,
+  "image": "images/oreo-heisse-schokolade.png",
+  "servings": 2,
+  "utensils": [
+    "Thermomix mit Schmetterlingsaufsatz",
+    "2 Gläser oder Tassen"
+  ],
+  "ingredients": [
+    { "amount": "150", "unit": "g", "name": "Schlagsahne (mind. 35 % Fett)" },
+    { "amount": "100", "unit": "g", "name": "Oreo-Kekse" },
+    { "amount": "500", "unit": "g", "name": "Milch (350 g + 150 g)" },
+    { "amount": "50", "unit": "g", "name": "dunkle Schokolade" },
+    { "amount": "", "unit": "", "name": "Oreo-Kekse zum Dekorieren" },
+    { "amount": "", "unit": "", "name": "Schokoladensauce (optional)" },
+    { "amount": "", "unit": "", "name": "farbige Streusel (optional)" }
+  ],
+  "steps": [
+    "Den Schmetterlingsaufsatz einsetzen und die Sahne auf Stufe 3,5 steif schlagen, die Zeit variiert. Anschließend in den Kühlschrank stellen.",
+    "Die zerbrochenen Oreo-Kekse 5 Sekunden auf Stufe 4 zerkleinern.",
+    "350 g Milch zugeben und 7 Minuten bei 90 °C auf Stufe 1 erhitzen.",
+    "Auf 2 Gläser verteilen.",
+    "Die Zartbitterschokolade mit 150 ml Milch 3 Minuten bei 37 °C auf Stufe 3 schmelzen.",
+    "Die Schokolade vorsichtig in die Gläser gießen.",
+    "Mit der Schlagsahne toppen und mit Keksen und Sauce dekorieren.",
+    "Sofort servieren."
+  ],
+  "notes": ""
+}

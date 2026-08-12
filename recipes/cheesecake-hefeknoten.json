@@ -1,0 +1,53 @@
+{
+  "id": "cheesecake-hefeknoten",
+  "title": "Fruchtige Cheesecake Hefeknoten",
+  "category": "backen",
+  "cuisine": "schwedisch",
+  "time": 45,
+  "image": "images/cheesecake-hefeknoten.png",
+  "servings": 8,
+  "utensils": [
+    "Backblech",
+    "Backpapier",
+    "Scharfes Messer",
+    "Muffinblech mit großen Mulden (optional)"
+  ],
+  "ingredients": [
+    { "component": "Teig", "amount": "250", "unit": "g", "name": "Speisequark (20 % Fett)" },
+    { "component": "Teig", "amount": "1", "unit": "Pck.", "name": "Vanille-Puddingpulver" },
+    { "component": "Teig", "amount": "6", "unit": "EL", "name": "Zucker" },
+    { "component": "Teig", "amount": "0,5", "unit": "Würfel", "name": "Hefe" },
+    { "component": "Teig", "amount": "250", "unit": "ml", "name": "Milch" },
+    { "component": "Teig", "amount": "100", "unit": "ml", "name": "Öl" },
+    { "component": "Teig", "amount": "500", "unit": "g", "name": "Mehl" },
+    { "component": "Teig", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Teig", "amount": "0,5", "unit": "Pck.", "name": "Backpulver" },
+    { "component": "Teig", "amount": "2", "unit": "", "name": "Eier (Gr. M)" },
+
+    { "component": "Füllung & Topping", "amount": "150", "unit": "g", "name": "Blaubeer-Marmelade" },
+    { "component": "Füllung & Topping", "amount": "50", "unit": "g", "name": "Mandelblättchen" },
+    { "component": "Füllung & Topping", "amount": "2", "unit": "EL", "name": "Puderzucker" }
+  ],
+  "steps": [
+    { "component": "Teig", "text": "Den Quark mit dem Puddingpulver und 2 EL Zucker verrühren." },
+    { "component": "Teig", "text": "Hefe, 4 EL Zucker und die lauwarme Milch glattrühren." },
+    { "component": "Teig", "text": "Öl, Mehl, Backpulver, Salz und 1 Ei zugeben und zu einem glatten Teig kneten." },
+
+    { "component": "Formen", "text": "Den Teig zu einem Rechteck ausrollen." },
+    { "component": "Formen", "text": "Mit der Quarkmasse bestreichen." },
+    { "component": "Formen", "text": "Die Blaubeermarmelade in Klecksen darauf verteilen." },
+    { "component": "Formen", "text": "Den Teig waagerecht zusammenklappen." },
+    { "component": "Formen", "text": "Senkrecht in 2–3 cm breite Streifen schneiden." },
+    { "component": "Formen", "text": "Die Streifen in der Mitte durchschneiden, der obere Rand bleibt verbunden." },
+    { "component": "Formen", "text": "Die Teigstränge miteinander verdrehen und zu Knoten formen." },
+
+    { "component": "Backen", "text": "Den Ofen auf 200 °C Ober-/Unterhitze vorheizen." },
+    { "component": "Backen", "text": "Die Knoten auf Backpapier legen." },
+    { "component": "Backen", "text": "Ca. 10 Minuten ruhen lassen." },
+    { "component": "Backen", "text": "Mit dem verquirlten Ei bestreichen." },
+    { "component": "Backen", "text": "Mit den Mandeln bestreuen." },
+    { "component": "Backen", "text": "Ca. 15 Minuten goldbraun backen." },
+    { "component": "Backen", "text": "Abkühlen lassen und mit Puderzucker bestäuben." }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,42 @@
+{
+  "id": "heisse-dubai-schokolade",
+  "title": "Heiße Dubai-Schokolade",
+  "category": "getraenke",
+  "cuisine": "orientalisch",
+  "time": 10,
+  "image": "images/heisse-dubai-schokolade.png",
+  "servings": 1,
+  "utensils": [
+    "Kleiner Topf",
+    "Rührlöffel",
+    "Tasse"
+  ],
+  "ingredients": [
+    { "component": "Flüssige Basis", "amount": "200", "unit": "ml", "name": "Milch (Vollmilch oder pflanzliche Alternative)" },
+    { "component": "Flüssige Basis", "amount": "50", "unit": "ml", "name": "Sahne (optional)" },
+
+    { "component": "Kakao & Schokolade", "amount": "1", "unit": "EL", "name": "Trinkkakao pur" },
+    { "component": "Kakao & Schokolade", "amount": "25", "unit": "g", "name": "Zartbitterschokolade (mind. 70 %), gehackt" },
+
+    { "component": "Süßungsmittel & Aromen", "amount": "0,5", "unit": "EL", "name": "brauner Zucker" },
+    { "component": "Süßungsmittel & Aromen", "amount": "0,5", "unit": "TL", "name": "Vanilleextrakt" },
+
+    { "component": "Gewürze", "amount": "0,25", "unit": "TL", "name": "Zimt" },
+    { "component": "Gewürze", "amount": "1", "unit": "Prise", "name": "Kardamom" },
+    { "component": "Gewürze", "amount": "1", "unit": "Prise", "name": "Muskatnuss" },
+    { "component": "Gewürze", "amount": "1", "unit": "Prise", "name": "Salz" },
+
+    { "component": "Cremigkeit", "amount": "1", "unit": "EL", "name": "Pistaziencreme" },
+
+    { "component": "Toppings (optional)", "amount": "", "unit": "", "name": "Schlagsahne, gehackte Pistazien, Kakaopulver" }
+  ],
+  "steps": [
+    "Milch und Sahne bei mittlerer Hitze erwärmen.",
+    "Kakao, Vanilleextrakt, Gewürze und Salz einrühren.",
+    "Die gehackte Schokolade und den braunen Zucker zugeben und schmelzen lassen.",
+    "Die Pistaziencreme darin auflösen.",
+    "Abschmecken und die Würzung prüfen.",
+    "In eine Tasse gießen und mit den Toppings garnieren."
+  ],
+  "notes": ""
+}

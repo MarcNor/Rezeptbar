@@ -1,0 +1,53 @@
+{
+  "id": "pinsa-romana",
+  "title": "Pinsa Romana mit Feigen, Burrata & Basilikum",
+  "category": "mittag",
+  "cuisine": "italienisch",
+  "time": 60,
+  "image": "images/pinsa-romana.png",
+  "servings": 4,
+  "utensils": [
+    "Küchenmaschine mit Knethaken",
+    "Backstein, Pizzastahl oder gusseiserne Pfanne",
+    "Pizzaschaufel"
+  ],
+  "ingredients": [
+    { "component": "Teig", "amount": "400", "unit": "g", "name": "Tipo 00 Pizzamehl" },
+    { "component": "Teig", "amount": "75", "unit": "g", "name": "Reismehl (plus etwas mehr für die Arbeitsfläche)" },
+    { "component": "Teig", "amount": "25", "unit": "g", "name": "Kichererbsen- oder Sojamehl" },
+    { "component": "Teig", "amount": "330", "unit": "g", "name": "Wasser" },
+    { "component": "Teig", "amount": "1", "unit": "g", "name": "frische Hefe" },
+    { "component": "Teig", "amount": "25", "unit": "g", "name": "Lievito Madre oder Weizensauerteig (alternativ insgesamt 2 g frische Hefe)" },
+    { "component": "Teig", "amount": "15", "unit": "g", "name": "Olivenöl" },
+    { "component": "Teig", "amount": "10", "unit": "g", "name": "Salz" },
+
+    { "component": "Belag", "amount": "400", "unit": "g", "name": "ganze, geschälte San-Marzano-Tomaten (1 Dose)" },
+    { "component": "Belag", "amount": "5", "unit": "g", "name": "Salz" },
+    { "component": "Belag", "amount": "1", "unit": "Handvoll", "name": "Basilikumblättchen" },
+    { "component": "Belag", "amount": "4", "unit": "", "name": "frische Feigen" },
+    { "component": "Belag", "amount": "1", "unit": "Kugel", "name": "Burrata" },
+    { "component": "Belag", "amount": "", "unit": "", "name": "Olivenöl zum Beträufeln" },
+    { "component": "Belag", "amount": "", "unit": "", "name": "schwarzer Pfeffer" },
+    { "component": "Belag", "amount": "", "unit": "", "name": "Pesto oder Olivenpaste (optional)" }
+  ],
+  "steps": [
+    { "component": "Teig", "text": "Die Mehle mit dem Wasser vermischen und 20–30 Minuten quellen lassen (Autolyse)." },
+    { "component": "Teig", "text": "Hefe, Sauerteig, Öl und Salz zugeben." },
+    { "component": "Teig", "text": "5–8 Minuten auf Stufe 1, dann 8–10 Minuten auf Stufe 2 kneten, bis der Teig elastisch ist (Fenstertest)." },
+    { "component": "Teig", "text": "30–60 Minuten abgedeckt bei Raumtemperatur stehen lassen." },
+    { "component": "Teig", "text": "24–72 Stunden luftdicht verschlossen im Kühlschrank reifen lassen." },
+    { "component": "Teig", "text": "In vier Portionen teilen und zu Kugeln formen." },
+    { "component": "Teig", "text": "Ca. 4 Stunden bei Raumtemperatur gehen lassen." },
+
+    { "component": "Belag und Backen", "text": "Den Ofen mit Backstein oder Pizzastahl mindestens 30 Minuten auf 250 °C bzw. die maximale Temperatur vorheizen." },
+    { "component": "Belag und Backen", "text": "Die Tomaten mit Salz und Öl zerdrücken und zwei Drittel des Basilikums untermengen." },
+    { "component": "Belag und Backen", "text": "Die Feigen in dünne Scheiben schneiden." },
+    { "component": "Belag und Backen", "text": "Die Arbeitsplatte mit Reismehl bestäuben." },
+    { "component": "Belag und Backen", "text": "Den Teigling zu einem länglichen Fladen mit höherem Rand formen." },
+    { "component": "Belag und Backen", "text": "Mit der Soße bestreichen und mit den Feigen belegen." },
+    { "component": "Belag und Backen", "text": "5–6 Minuten backen." },
+    { "component": "Belag und Backen", "text": "Die Burrata zerlegen und auf die fertige Pinsa legen." },
+    { "component": "Belag und Backen", "text": "Das restliche Basilikum verteilen, mit Pfeffer und Olivenöl abschließen und nach Wunsch Pesto zugeben." }
+  ],
+  "notes": ""
+}

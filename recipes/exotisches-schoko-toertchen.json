@@ -1,0 +1,115 @@
+{
+  "id": "exotisches-schoko-toertchen",
+  "title": "Exotisches Schoko-Törtchen mit Passionsfruchtkaramell",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 180,
+  "image": "images/exotisches-schoko-toertchen.png",
+  "servings": 8,
+  "utensils": [
+    "Silikonform für die Fruchtkerne",
+    "Silikonform für das Schokomousse",
+    "Tartelettesringe 7–8 cm ∅",
+    "Backblech und Backpapier",
+    "Gabel",
+    "Töpfe",
+    "Pürierstab",
+    "Wasserbad oder Mikrowelle",
+    "Umgedrehte Eierbecher zum Glasieren"
+  ],
+  "ingredients": [
+    { "component": "Fruchtkern im Schokomousse", "amount": "1", "unit": "Glas", "name": "Multifrucht-Konfitüre ohne Stückchen und Kerne" },
+
+    { "component": "Schoko Mousse", "amount": "2", "unit": "Blatt", "name": "Gelatine" },
+    { "component": "Schoko Mousse", "amount": "80", "unit": "ml", "name": "Sahne" },
+    { "component": "Schoko Mousse", "amount": "150", "unit": "ml", "name": "Milch" },
+    { "component": "Schoko Mousse", "amount": "100", "unit": "g", "name": "Zartbitter-Kuvertüre" },
+    { "component": "Schoko Mousse", "amount": "200", "unit": "g", "name": "Sahne zum Steifschlagen" },
+
+    { "component": "Schoko-Tartelettesböden", "amount": "120", "unit": "g", "name": "Butter" },
+    { "component": "Schoko-Tartelettesböden", "amount": "90", "unit": "g", "name": "Puderzucker" },
+    { "component": "Schoko-Tartelettesböden", "amount": "1", "unit": "gute Prise", "name": "Salz" },
+    { "component": "Schoko-Tartelettesböden", "amount": "30", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Schoko-Tartelettesböden", "amount": "1", "unit": "", "name": "Ei" },
+    { "component": "Schoko-Tartelettesböden", "amount": "220", "unit": "g", "name": "Mehl" },
+    { "component": "Schoko-Tartelettesböden", "amount": "30", "unit": "g", "name": "Kakaopulver" },
+
+    { "component": "Passionsfruchtkaramell", "amount": "50", "unit": "g", "name": "Glucosesirup" },
+    { "component": "Passionsfruchtkaramell", "amount": "500", "unit": "g", "name": "Zucker" },
+    { "component": "Passionsfruchtkaramell", "amount": "40", "unit": "g", "name": "Wasser" },
+    { "component": "Passionsfruchtkaramell", "amount": "200", "unit": "g", "name": "Sahne" },
+    { "component": "Passionsfruchtkaramell", "amount": "200", "unit": "g", "name": "exotisches Fruchtpüree (Passionsfrucht und Mango oder nur Passionsfrucht)" },
+
+    { "component": "Exotische Frucht-Schokoganache", "amount": "100", "unit": "g", "name": "Fruchtpüree (Passionsfrucht und Mango oder nur Passionsfrucht)" },
+    { "component": "Exotische Frucht-Schokoganache", "amount": "20", "unit": "g", "name": "Glucosesirup" },
+    { "component": "Exotische Frucht-Schokoganache", "amount": "120", "unit": "g", "name": "Zartbitterschokolade" },
+
+    { "component": "Schokodeko", "amount": "50", "unit": "g", "name": "Kuchenglasur Zartbitter oder Vollmilch" },
+    { "component": "Schokodeko", "amount": "", "unit": "", "name": "essbarer Goldstaub" },
+    { "component": "Schokodeko", "amount": "", "unit": "", "name": "kleine Schokoraspel bzw. Schokoplättchen" },
+
+    { "component": "Schokoglasur für die Schokomoussetörtchen", "amount": "75", "unit": "ml", "name": "Milch" },
+    { "component": "Schokoglasur für die Schokomoussetörtchen", "amount": "40", "unit": "g", "name": "Sahne" },
+    { "component": "Schokoglasur für die Schokomoussetörtchen", "amount": "25", "unit": "g", "name": "Zucker" },
+    { "component": "Schokoglasur für die Schokomoussetörtchen", "amount": "25", "unit": "g", "name": "Glucosesirup" },
+    { "component": "Schokoglasur für die Schokomoussetörtchen", "amount": "130", "unit": "g", "name": "Zartbitterschokolade" },
+    { "component": "Schokoglasur für die Schokomoussetörtchen", "amount": "130", "unit": "g", "name": "dünnflüssige Überzugsschokolade oder Kakaofettglasur" },
+    { "component": "Schokoglasur für die Schokomoussetörtchen", "amount": "2-4", "unit": "EL", "name": "Kokosöl" }
+  ],
+  "steps": [
+    { "component": "Fruchtkerne", "text": "Die Multifrucht-Konfitüre in die passende Silikonform geben und über Nacht gefrieren lassen." },
+
+    { "component": "Schokomousse", "text": "Die Gelatine in kaltem Wasser einweichen." },
+    { "component": "Schokomousse", "text": "Sahne und Milch aufkochen und direkt über die klein gehackte Kuvertüre gießen." },
+    { "component": "Schokomousse", "text": "Rühren, bis die Kuvertüre komplett geschmolzen ist." },
+    { "component": "Schokomousse", "text": "Die ausgedrückte Gelatine zugeben und rühren, bis sie aufgelöst ist." },
+    { "component": "Schokomousse", "text": "Die Masse in den Kühlschrank stellen und abkühlen lassen." },
+    { "component": "Schokomousse", "text": "Sobald die Masse nach ca. 30–45 Minuten zu gelieren beginnt, die Sahne steif schlagen – aber nicht zu fest, sonst verbindet sie sich schlecht." },
+    { "component": "Schokomousse", "text": "Zunächst die Hälfte der Sahne unterheben, bis alles gleichmäßig verbunden ist, dann die zweite Hälfte vorsichtig unterheben." },
+    { "component": "Schokomousse", "text": "Die Masse in die Silikonförmchen füllen, dabei nicht ganz voll füllen." },
+    { "component": "Schokomousse", "text": "Die Fruchtkerne vorsichtig mit einem Esslöffel aus der Form holen und mittig in das Schokomousse legen." },
+    { "component": "Schokomousse", "text": "An der Oberfläche mit Schokomousse bedecken und über Nacht durchgefrieren lassen." },
+
+    { "component": "Schoko-Tartelettesböden", "text": "Den Backofen auf 160 °C Umluft bzw. 180 °C Ober-/Unterhitze vorheizen." },
+    { "component": "Schoko-Tartelettesböden", "text": "Butter, Puderzucker und Salz vermischen." },
+    { "component": "Schoko-Tartelettesböden", "text": "Gemahlene Mandeln und Ei zugeben." },
+    { "component": "Schoko-Tartelettesböden", "text": "Zum Schluss Mehl und Kakaopulver unterkneten, bis ein glatter Teig entsteht." },
+    { "component": "Schoko-Tartelettesböden", "text": "Den Teig auf leicht bemehlter Fläche dünn ausrollen und Kreise ausstechen." },
+    { "component": "Schoko-Tartelettesböden", "text": "Die Kreise in die Tartelettesringe auf einem mit Backpapier ausgelegten Blech einlegen, festdrücken und den überstehenden Teig abschneiden." },
+    { "component": "Schoko-Tartelettesböden", "text": "Den Teigboden überall mit einer Gabel einstechen." },
+    { "component": "Schoko-Tartelettesböden", "text": "Ca. 15–20 Minuten blindbacken und nach 15 Minuten prüfen, ob der Teig überall durch ist." },
+    { "component": "Schoko-Tartelettesböden", "text": "Abkühlen lassen und bis zur Verwendung im Kühlschrank aufbewahren." },
+
+    { "component": "Passionsfruchtkaramell", "text": "Glucosesirup, Zucker und Wasser aufkochen und warten, bis die Mischung zu karamellisieren beginnt und leicht braun wird – dabei aufpassen, dass sie nicht verbrennt." },
+    { "component": "Passionsfruchtkaramell", "text": "Währenddessen Sahne und Fruchtpüree in einem Topf zusammen aufkochen." },
+    { "component": "Passionsfruchtkaramell", "text": "Die kochende Sahne-Frucht-Mischung vom Herd nehmen und zur karamellisierenden Zuckermischung gießen." },
+    { "component": "Passionsfruchtkaramell", "text": "Alles gut verrühren, bis ein gleichmäßiges Karamell entstanden ist." },
+    { "component": "Passionsfruchtkaramell", "text": "Vom Herd nehmen und das Karamell auf den Schokoböden verteilen – die Förmchen nur etwa halb voll füllen, damit die Ganache noch Platz hat." },
+
+    { "component": "Exotische Schoko-Ganache", "text": "Das Fruchtpüree mit dem Glucosesirup aufkochen." },
+    { "component": "Exotische Schoko-Ganache", "text": "Die Schokolade klein hacken und das aufgekochte Fruchtpüree darübergießen." },
+    { "component": "Exotische Schoko-Ganache", "text": "Rühren, bis die Schokolade komplett geschmolzen ist." },
+    { "component": "Exotische Schoko-Ganache", "text": "Kurz mit dem Pürierstab emulgieren oder gut mit dem Schneebesen durchrühren." },
+    { "component": "Exotische Schoko-Ganache", "text": "Gleichmäßig auf das Karamell gießen und im Kühlschrank fest werden lassen." },
+
+    { "component": "Schokodeko", "text": "Die Kuvertüre im Wasserbad oder in der Mikrowelle bei geringer Wattzahl schmelzen." },
+    { "component": "Schokodeko", "text": "Mit einem Löffel gitterartig auf Backpapier verteilen." },
+    { "component": "Schokodeko", "text": "Das Backpapier leicht einrollen, bei Bedarf mit Tesa fixieren, und im Kühlschrank trocknen lassen." },
+    { "component": "Schokodeko", "text": "Vom Backpapier lösen und vorsichtig mit essbarem Goldglitzer bestäuben." },
+
+    { "component": "Schokoglasur", "text": "Alle Zutaten für die Glasur bis auf die Schokolade und das Kokosöl zusammen aufkochen." },
+    { "component": "Schokoglasur", "text": "Die Masse über die klein gehackte Schokolade gießen und komplett schmelzen lassen." },
+    { "component": "Schokoglasur", "text": "Mit dem Pürierstab emulgieren." },
+    { "component": "Schokoglasur", "text": "Ist die Glasur zu dick, das Kokosöl nach Bedarf unterrühren, bis sie sich gut übergießen lässt." },
+    { "component": "Schokoglasur", "text": "Die Glasur etwas auskühlen lassen – ideal sind ca. 35 °C." },
+    { "component": "Schokoglasur", "text": "Die gefrorenen Schokomoussetörtchen vorsichtig aus der Silikonform lösen und sofort mit der Glasur überziehen, dabei auf umgedrehte Eierbecher setzen, damit die Glasur ablaufen kann." },
+    { "component": "Schokoglasur", "text": "Abkühlen lassen und bis zum Zusammenbau in den Kühlschrank stellen." },
+
+    { "component": "Zusammenbau", "text": "Unten befinden sich die Tartelettes." },
+    { "component": "Zusammenbau", "text": "Darauf vorsichtig mit einem Messer ein Schokomoussetörtchen setzen, damit die glatte Oberfläche nicht beschädigt wird." },
+    { "component": "Zusammenbau", "text": "Das Schokomoussetörtchen an den Seiten mit Schokoplättchen dekorieren." },
+    { "component": "Zusammenbau", "text": "Zum Schluss ein Schoko-Dekoelement obenauf setzen und mit etwas essbarem Goldstaub bestäuben." },
+    { "component": "Zusammenbau", "text": "Bis zum Verzehr kühl stellen, die Törtchen sollten dann aufgetaut sein." }
+  ],
+  "notes": ""
+}

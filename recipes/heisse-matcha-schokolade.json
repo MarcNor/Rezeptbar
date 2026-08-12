@@ -1,0 +1,30 @@
+{
+  "id": "heisse-matcha-schokolade",
+  "title": "Heiße Matcha-Schokolade",
+  "category": "getraenke",
+  "cuisine": "japanisch",
+  "time": 10,
+  "image": "images/heisse-matcha-schokolade.png",
+  "servings": 1,
+  "utensils": [
+    "Schüssel",
+    "Schneebesen oder Matcha-Quirl",
+    "Kleine Pfanne",
+    "Tasse"
+  ],
+  "ingredients": [
+    { "amount": "2", "unit": "g", "name": "Matcha" },
+    { "amount": "30-50", "unit": "ml", "name": "Wasser" },
+    { "amount": "200", "unit": "ml", "name": "Hafermilch" },
+    { "amount": "1", "unit": "EL", "name": "ungesüßtes Kakaopulver" },
+    { "amount": "1", "unit": "TL", "name": "Ahornsirup oder Honig" }
+  ],
+  "steps": [
+    "Den Matcha mit kaltem Wasser zu einer glatten Paste verrühren.",
+    "Heißes Wasser (70–80 °C) zugießen und mit W-Bewegungen aufschäumen.",
+    "Die Milch erhitzen, das Kakaopulver einrühren und leicht aufschäumen.",
+    "Die Schokoladenmilch in die Tasse geben, den Matcha zugeben und verrühren.",
+    "Nach Geschmack süßen."
+  ],
+  "notes": ""
+}

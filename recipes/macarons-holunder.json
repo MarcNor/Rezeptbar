@@ -1,0 +1,40 @@
+{
+  "id": "macarons-holunder",
+  "title": "Macarons mit Holunder",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "servings": 12,
+  "image": "images/macarons-holunder.png",
+  "ingredients": [
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Eiweiß" },
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Zucker" },
+    { "component": "Macarons", "amount": "90", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Macarons", "amount": "60", "unit": "g", "name": "Puderzucker" },
+    { "component": "Macarons", "amount": "1", "unit": "TL", "name": "grüne Lebensmittelfarbefarbe" },
+
+    { "component": "Holunder-Ganache", "amount": "55", "unit": "g", "name": "Sahne" },
+    { "component": "Holunder-Ganache", "amount": "20", "unit": "ml", "name": "Holunderblütensirup" },
+    { "component": "Lakritzfüllung", "amount": "50", "unit": "g", "name": "weiße Schokolade" }
+  ],
+  "steps": [
+    { "component": "Macarons", "text": "Die Mandeln und Puderzucker in einen Zerkleinerer geben, fein mahlen und danach durch ein Sieb streichen. Die Mischung sollte keine größeren Mandelstückchen enthalten."},
+    { "component": "Macarons", "text": "Das Eiweiß und den Zucker über einem Wasserbad langsam auf 65°C erhitzen und dabei ständig mit einem Schneebesen rühren."},
+    { "component": "Macarons", "text": "Sobald die Temperatur erreicht ist und sich der Zucker aufgelöst hat, die Masse 8 Minuten auf langsam schlagen."},
+    { "component": "Macarons", "text": "Danach die Lebensmittelfarbe hinzufügen und weitere zwei Minuten vollständig steif schlagen."},
+    { "component": "Macarons", "text": "Jetzt die gesiebte Mandel-Puderzucker-Mischung in drei Portionen unter den Eischnee heben. Vorsichtig umrühren. Die Masse sollte dickflüssig sein und trotzdem glatt verlaufen."},
+    { "component": "Macarons", "text": "Die Macaron-Masse in einen Spritzbeutel mit Lochtülle füllen. Dann in einer Größe von ca. 2 Zentimetern und mit genügend Abstand auf die Silikonmatte spritzen."},
+    { "component": "Macarons", "text": "Das Backblech mit dem aufgespritzten Macaron-Teig drei Mal auf die Arbeitsfläche klopfen und ca. 30 Minuten an der Luft antrocknen lassen."},
+    { "component": "Macarons", "text": "In der Zwischenzeit den Backofen auf 160°C vorheizen."},
+    { "component": "Macarons", "text": "Die Macarons ca. 12-14 Minuten backen und anschließend gut auskühlen lassen."},
+
+    { "component": "Holunder-Ganache", "text": "Hacke die Kuvertüre in feine Stücke und löse sie über dem Wasserbad auf."},
+    { "component": "Holunder-Ganache", "text": "Erhitze 1/3 der Sahne zusammen mit dem Holunderblütensirup."},
+    { "component": "Holunder-Ganache", "text": "Gieße die Holunder-Sahne zur Kuvertüre und verrühre alles zu einer glatten Masse."},
+    { "component": "Holunder-Ganache", "text": "Gib die restliche, kalte Sahne dazu, rühre nochmals alles glatt und stell die Ganache für 6 Stunden in den Kühlschrank."},
+    { "component": "Holunder-Ganache", "text": "Schlage die Holunderblüten-Ganache mit den Schneebesen eines Handrührgerätes zu einer lockeren Creme auf. Stelle sie für weitere 6 Stunden in den Kühlschrank, bevor du sie verwendest. Sie muss erst wieder fest werden."},
+
+    { "component": "Zusammensetzen", "text": "Sobald die Macarons-Hälften ausgekühlt sind, die Holunder-Ganache auf die einzelnen Hälften dressieren und eine weitere Hälfte oben drauf setzen."}
+  ],
+  "notes": ""
+}

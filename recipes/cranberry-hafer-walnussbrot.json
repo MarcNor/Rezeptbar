@@ -1,0 +1,38 @@
+{
+  "id": "cranberry-hafer-walnussbrot",
+  "title": "Cranberry-Hafer-Walnussbrot",
+  "category": "backen",
+  "cuisine": "amerikanisch",
+  "time": 135,
+  "image": "images/cranberry-hafer-walnussbrot.png",
+  "servings": 12,
+  "utensils": [
+    "Standmixer mit Knethaken",
+    "Brotbackschüssel mit Deckel",
+    "Teigspatel oder Holzlöffel",
+    "Gitterrost",
+    "Backpapier"
+  ],
+  "ingredients": [
+    { "amount": "350", "unit": "g", "name": "Mehl" },
+    { "amount": "45", "unit": "g", "name": "Haferflocken" },
+    { "amount": "6", "unit": "g", "name": "Trockenhefe" },
+    { "amount": "8", "unit": "g", "name": "Salz" },
+    { "amount": "0,5", "unit": "TL", "name": "gemahlener Kardamom" },
+    { "amount": "60", "unit": "g", "name": "Honig" },
+    { "amount": "40", "unit": "g", "name": "gehackte Walnüsse" },
+    { "amount": "45", "unit": "g", "name": "getrocknete Cranberrys" },
+    { "amount": "350", "unit": "ml", "name": "warmes Wasser" }
+  ],
+  "steps": [
+    "Alle Zutaten mischen und mit dem Knethaken auf Stufe 2 ca. 1 Minute kneten.",
+    "Mit Mehl bestäuben und 1–1,5 Stunden gehen lassen.",
+    "Den Teig formen: mehrfach ziehen und falten, bis 3–4 Umdrehungen erreicht sind, und in Haferflocken wälzen.",
+    "In der Brotbackschüssel 30 Minuten ein zweites Mal gehen lassen.",
+    "Den Backofen auf 230 °C vorheizen.",
+    "Den Teig auf den Deckel stürzen und mit der Schüssel bedeckt 30 Minuten backen.",
+    "Weitere 10–12 Minuten unbedeckt backen, bis das Brot goldbraun ist.",
+    "Auf einem Gitterrost abkühlen lassen."
+  ],
+  "notes": ""
+}
