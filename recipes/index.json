@@ -117,6 +117,15 @@
     "image": "images/erbseneintopf.png"
   },
   {
+    "id": "erdbeertorte-fragolina",
+    "title": "Erdbeertorte \"Fragolina\"",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/erdbeertorte-fragolina.png"
+  },
+  {
     "id": "erdnuss-gemüse-reis",
     "title": "Erdnuss-Gemüse-Reis mit Tofu",
     "category": "mittag",
@@ -241,6 +250,15 @@
     "time": 30,
     "servings": 6,
     "image": "images/himbeer-rosmarin-limo.png"
+  },
+  {
+    "id": "holunderbeeren-torte",
+    "title": "Holunderbeeren Torte",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 8,
+    "image": "images/holunderbeeren-torte.png"
   },
   {
     "id": "jerusalem-teller",
@@ -459,6 +477,15 @@
     "image": "images/pains-au-chocolat.png"
   },
   {
+    "id": "pfirsich-maracuja-torte-basilikum",
+    "title": "Pfirsich-Maracuja Torte mit Basilikum",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 240,
+    "servings": 10,
+    "image": "images/pfirsich-maracuja-torte-basilikum.png"
+  },
+  {
     "id": "eistee-pfirsisch",
     "title": "Pfirsisch Eistee",
     "category": "getraenke",
@@ -484,6 +511,15 @@
     "time": 40,
     "servings": 2,
     "image": "images/pilzrisotto.png"
+  },
+  {
+    "id": "pistazientorte-70er-look",
+    "title": "Pistazientorte im 70er Look",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 8,
+    "image": "images/pistazientorte-70er-look.png"
   },
   {
     "id": "quesadillas",
@@ -529,6 +565,24 @@
     "time": 150,
     "servings": 4,
     "image": "images/eistee-rhabarber.png"
+  },
+  {
+    "id": "rhabarber-himbeer-vanille-toertchen",
+    "title": "Rhabarber-Himbeer-Vanille Törtchen",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/rhabarber-himbeer-vanille-toertchen.png"
+  },
+  {
+    "id": "limettentorte-mango-minze",
+    "title": "Saftige Limettentorte mit Mango & Minze",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/limettentorte-mango-minze.png"
   },
   {
     "id": "schinken-zwiebel-baguette",
@@ -675,6 +729,15 @@
     "image": "images/taco-salat.png"
   },
   {
+    "id": "tarte-schokominza",
+    "title": "Tarte \"Schokominza\"",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 8,
+    "image": "images/tarte-schokominza.png"
+  },
+  {
     "id": "tartelettes-au-chocolate",
     "title": "Tartelettes au Chocolat",
     "category": "backen",
@@ -709,6 +772,15 @@
     "time": 5,
     "servings": null,
     "image": "images/tomatenbutter.png"
+  },
+  {
+    "id": "torte-verdiana",
+    "title": "Torte \"Verdiana\"",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 8,
+    "image": "images/torte-verdiana.png"
   },
   {
     "id": "tortellini-schinken-käse",
