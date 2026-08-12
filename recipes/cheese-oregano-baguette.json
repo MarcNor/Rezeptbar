@@ -1,0 +1,40 @@
+{
+  "id": "cheese-oregano-baguette",
+  "title": "Cheese-Oregano Baguette",
+  "category": "backen",
+  "cuisine": "italienisch",
+  "time": 35,
+  "image": "images/cheese-oregano-baguette.png",
+  "servings": 4,
+  "utensils": [
+    "Backlöffel",
+    "Teigkarte",
+    "Baguetteblech",
+    "Backtrennspray",
+    "Topf mit Wasser für Dampf (optional)"
+  ],
+  "ingredients": [
+    { "amount": "10,5", "unit": "g", "name": "frische Hefe" },
+    { "amount": "1", "unit": "Prise", "name": "Zucker" },
+    { "amount": "300", "unit": "g", "name": "Wasser" },
+    { "amount": "380", "unit": "g", "name": "Mehl" },
+    { "amount": "1", "unit": "TL", "name": "Salz" },
+    { "amount": "50", "unit": "g", "name": "Parmesan" },
+    { "amount": "1", "unit": "EL", "name": "getrockneter Oregano" }
+  ],
+  "steps": [
+    "Die Hefe mit Zucker und Wasser verrühren.",
+    "Mehl und Salz zugeben und mit dem Backlöffel durchrühren, bis alles vollständig verbunden ist.",
+    "Den Parmesan reiben und mit dem Oregano unter den Teig heben.",
+    "Den Teig abgedeckt 2 Stunden bei Zimmertemperatur gehen lassen.",
+    "Den Ofen auf 240 °C Heißluft vorheizen.",
+    "Das Baguetteblech mit Backtrennspray fetten.",
+    "Den Teig auf die bemehlte Arbeitsplatte schütten, ohne die Luft herauszudrücken.",
+    "Mit Mehl bestreuen.",
+    "Mit der Teigkarte in gleich große Portionen teilen.",
+    "Die Portionen in das Blech legen.",
+    "20 Minuten bei 240 °C Heißluft backen, dabei optional Dampf zugeben oder einen Topf mit Wasser in den Ofen stellen.",
+    "Nach dem Backen kurz abkühlen lassen."
+  ],
+  "notes": ""
+}

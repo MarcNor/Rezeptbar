@@ -1,0 +1,61 @@
+{
+  "id": "blaubeer-cheesecake-plunderzopf",
+  "title": "Blaubeer-Cheesecake Plunderzopf aus Blätterteig",
+  "category": "backen",
+  "cuisine": "deutsch",
+  "time": 45,
+  "image": "images/blaubeer-cheesecake-plunderzopf.png",
+  "servings": 4,
+  "utensils": [
+    "Backblech",
+    "Backpapier",
+    "Schneebesen",
+    "Pizzaschneider",
+    "Mandelhobel"
+  ],
+  "ingredients": [
+    { "component": "Zopf", "amount": "1", "unit": "Rolle", "name": "Blätterteig aus der Kühlabteilung" },
+    { "component": "Zopf", "amount": "1", "unit": "", "name": "Ei" },
+    { "component": "Zopf", "amount": "1", "unit": "TL", "name": "Wasser" },
+
+    { "component": "Cheesecake-Füllung", "amount": "100", "unit": "g", "name": "Frischkäse natur, Doppelrahmstufe, raumtemperiert" },
+    { "component": "Cheesecake-Füllung", "amount": "30", "unit": "g", "name": "Zucker" },
+    { "component": "Cheesecake-Füllung", "amount": "1", "unit": "TL", "name": "Vanillezucker" },
+    { "component": "Cheesecake-Füllung", "amount": "1", "unit": "", "name": "Eigelb (Gr. S) oder ½ Eigelb (Gr. M)" },
+    { "component": "Cheesecake-Füllung", "amount": "2", "unit": "EL", "name": "Heidelbeerkonfitüre" },
+    { "component": "Cheesecake-Füllung", "amount": "75", "unit": "g", "name": "Blaubeeren, frisch oder tiefgefroren (nicht aufgetaut)" },
+
+    { "component": "Außerdem", "amount": "", "unit": "", "name": "gehobelte Mandeln" },
+    { "component": "Außerdem", "amount": "", "unit": "", "name": "Zuckerguss aus Puderzucker und Zitronensaft, Wasser oder Milch – oder Puderzucker zum Bestäuben" }
+  ],
+  "steps": [
+    { "component": "Vorbereitung", "text": "Den Backofen auf 200 °C Ober-/Unterhitze vorheizen." },
+    { "component": "Vorbereitung", "text": "Das Backblech mit Backpapier auslegen." },
+    { "component": "Vorbereitung", "text": "Den Frischkäse ca. 20 Minuten vorher aus dem Kühlschrank nehmen." },
+
+    { "component": "Cheesecake-Füllung", "text": "Frischkäse, Zucker, Vanillezucker und Eigelb mit dem Schneebesen kurz homogen verrühren." },
+    { "component": "Cheesecake-Füllung", "text": "Bis zur Verwendung im Kühlschrank lagern." },
+
+    { "component": "Blätterteig vorbereiten", "text": "Den Blätterteig entrollen und dabei nicht reißen lassen." },
+    { "component": "Blätterteig vorbereiten", "text": "Auf dem Backpapier hochkant platzieren." },
+    { "component": "Blätterteig vorbereiten", "text": "Die oberen zwei Ecken abschneiden – sie lassen sich separat mit Zimt-Zucker mitbacken." },
+    { "component": "Blätterteig vorbereiten", "text": "Rechts und links diagonal ca. 1,5 cm breite Streifen einschneiden, der mittlere Bereich bleibt intakt." },
+
+    { "component": "Füllen", "text": "Die Cheesecake-Füllung auf die Mitte geben." },
+    { "component": "Füllen", "text": "Die Heidelbeerkonfitüre in Klecksen darauf verteilen." },
+    { "component": "Füllen", "text": "Mit den Blaubeeren bedecken. Nicht zu viel Füllung nehmen, sonst läuft sie aus." },
+
+    { "component": "Flechten", "text": "Das obere Mittelstück nach unten über die Füllung falten." },
+    { "component": "Flechten", "text": "Abwechselnd rechts und links die Teigstreifen über die Füllung klappen." },
+    { "component": "Flechten", "text": "Das untere Mittelstück nach oben falten." },
+    { "component": "Flechten", "text": "Überstehende Streifen abschneiden." },
+
+    { "component": "Backen", "text": "Ei und Wasser verquirlen und den Teig damit bestreichen." },
+    { "component": "Backen", "text": "Mit gehobelten Mandeln bestreuen." },
+    { "component": "Backen", "text": "20–25 Minuten auf mittlerer Schiene knusprig gebräunt backen." },
+
+    { "component": "Fertigstellung", "text": "Mit Puderzucker bestäuben oder mit Zuckerguss überziehen." },
+    { "component": "Fertigstellung", "text": "In Streifen schneiden und servieren." }
+  ],
+  "notes": ""
+}

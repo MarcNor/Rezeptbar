@@ -1,0 +1,65 @@
+{
+  "id": "pistazien-schnecken",
+  "title": "Pistazien-Schnecken",
+  "category": "backen",
+  "cuisine": "deutsch",
+  "time": 40,
+  "image": "images/pistazien-schnecken.png",
+  "servings": 12,
+  "utensils": [
+    "Topf",
+    "Schüssel",
+    "Knethaken",
+    "Küchentuch",
+    "Messer oder Garn zum Schneiden",
+    "Eingefettete Backform",
+    "Wasserbad"
+  ],
+  "ingredients": [
+    { "component": "Teig", "amount": "60", "unit": "g", "name": "Butter" },
+    { "component": "Teig", "amount": "270", "unit": "ml", "name": "Milch" },
+    { "component": "Teig", "amount": "500", "unit": "g", "name": "Mehl" },
+    { "component": "Teig", "amount": "50", "unit": "g", "name": "Zucker" },
+    { "component": "Teig", "amount": "1", "unit": "Pck.", "name": "Vanillezucker" },
+    { "component": "Teig", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Teig", "amount": "0,5", "unit": "Würfel", "name": "frische Hefe" },
+
+    { "component": "Füllung", "amount": "1", "unit": "Glas", "name": "Pistaziencreme" },
+    { "component": "Füllung", "amount": "20", "unit": "g", "name": "gehackte Pistazien" },
+
+    { "component": "Zum Bestreichen vor dem Backen", "amount": "200", "unit": "ml", "name": "Sahne" },
+
+    { "component": "Frosting", "amount": "100", "unit": "g", "name": "Frischkäse" },
+    { "component": "Frosting", "amount": "1", "unit": "EL", "name": "Puderzucker" },
+    { "component": "Frosting", "amount": "1", "unit": "EL", "name": "Pistaziencreme" },
+
+    { "component": "Topping", "amount": "30", "unit": "g", "name": "gehackte Pistazien" },
+    { "component": "Topping", "amount": "100", "unit": "g", "name": "weiße Kuvertüre" }
+  ],
+  "steps": [
+    { "component": "Teig", "text": "Butter und Milch erwärmen und wieder abkühlen lassen." },
+    { "component": "Teig", "text": "Mehl, Zucker, Vanillezucker und Salz verrühren." },
+    { "component": "Teig", "text": "Eine Mulde in die Mitte drücken und die Hefe hineinbröseln." },
+    { "component": "Teig", "text": "Die lauwarme Milchmischung zugeben und mit den Knethaken zu einem Teig kneten." },
+    { "component": "Teig", "text": "Den Teig 45 Minuten mit einem nassen Küchentuch abgedeckt gehen lassen." },
+
+    { "component": "Füllung", "text": "Den Teig ausrollen." },
+    { "component": "Füllung", "text": "Mit Pistaziencreme bestreichen und dabei 1 EL für das Frosting zurückstellen." },
+    { "component": "Füllung", "text": "Die gehackten Pistazien darüber streuen." },
+    { "component": "Füllung", "text": "Von der langen Seite her aufrollen." },
+    { "component": "Füllung", "text": "Mit einem Messer oder Garn in 12 gleich große Stücke schneiden." },
+    { "component": "Füllung", "text": "Die Stücke mit der Schnittkante nach oben in die eingefettete Form setzen." },
+    { "component": "Füllung", "text": "30 Minuten zugedeckt gehen lassen." },
+
+    { "component": "Backen", "text": "Die Sahne über den Teig gießen." },
+    { "component": "Backen", "text": "Im vorgeheizten Ofen bei 160 °C Umluft ca. 25 Minuten backen." },
+
+    { "component": "Frosting", "text": "Frischkäse, Puderzucker und Pistaziencreme zu einer cremigen Masse verrühren." },
+    { "component": "Frosting", "text": "Gleichmäßig über die etwas abgekühlten Schnecken verteilen." },
+
+    { "component": "Topping", "text": "Die Kuvertüre über dem Wasserbad schmelzen." },
+    { "component": "Topping", "text": "Die Schnecken damit verzieren." },
+    { "component": "Topping", "text": "Die gehackten Pistazien darüber streuen." }
+  ],
+  "notes": ""
+}

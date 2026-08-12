@@ -36,6 +36,15 @@
     "image": "images/beerentorte-zitrone-kraeuter.png"
   },
   {
+    "id": "blaubeer-cheesecake-plunderzopf",
+    "title": "Blaubeer-Cheesecake Plunderzopf aus Blätterteig",
+    "category": "backen",
+    "cuisine": "deutsch",
+    "time": 45,
+    "servings": 4,
+    "image": "images/blaubeer-cheesecake-plunderzopf.png"
+  },
+  {
     "id": "blaubeertorte-blueberry-dream",
     "title": "Blaubeertorte \"Blueberry Dream\"",
     "category": "backen",
@@ -54,6 +63,15 @@
     "image": "images/brezenknödel.png"
   },
   {
+    "id": "brombeer-schokoladen-torte",
+    "title": "Brombeer-Schokoladen-Torte (Double Chocolate Naked Cake)",
+    "category": "backen",
+    "cuisine": "deutsch",
+    "time": 120,
+    "servings": 12,
+    "image": "images/brombeer-schokoladen-torte.png"
+  },
+  {
     "id": "burger-knusperhähnchen-coleslaw",
     "title": "Burger mit Knusperhähnchen und Coleslaw",
     "category": "mittag",
@@ -70,6 +88,24 @@
     "time": 25,
     "servings": 2,
     "image": "images/burrito.png"
+  },
+  {
+    "id": "cheese-oregano-baguette",
+    "title": "Cheese-Oregano Baguette",
+    "category": "backen",
+    "cuisine": "italienisch",
+    "time": 35,
+    "servings": 4,
+    "image": "images/cheese-oregano-baguette.png"
+  },
+  {
+    "id": "veganer-cheesecake-apfelstrudel",
+    "title": "Cheesecake-Apfelstrudel mit Preiselbeeren",
+    "category": "backen",
+    "cuisine": "österreichisch",
+    "time": 35,
+    "servings": 8,
+    "image": "images/veganer-cheesecake-apfelstrudel.png"
   },
   {
     "id": "mie-nudel-suppe",
@@ -106,6 +142,24 @@
     "time": 15,
     "servings": null,
     "image": "images/humus-ras-el-hanout.png"
+  },
+  {
+    "id": "daenisches-wienerbrod",
+    "title": "Dänisches Wienerbrød",
+    "category": "backen",
+    "cuisine": "dänisch",
+    "time": 105,
+    "servings": 2,
+    "image": "images/daenisches-wienerbrod.png"
+  },
+  {
+    "id": "dreierlei-beerentorte",
+    "title": "Dreierlei Beerentorte mit Joghurt und Mascarpone",
+    "category": "backen",
+    "cuisine": "deutsch",
+    "time": 120,
+    "servings": 10,
+    "image": "images/dreierlei-beerentorte.png"
   },
   {
     "id": "dreierlei-mousse-torte",
@@ -333,6 +387,15 @@
     "image": "images/johannisbeertorte-summer-blush.png"
   },
   {
+    "id": "kanelbullar-zimtschnecken",
+    "title": "Kanelbullar – schwedische Zimtschnecken",
+    "category": "backen",
+    "cuisine": "schwedisch",
+    "time": 180,
+    "servings": 15,
+    "image": "images/kanelbullar-zimtschnecken.png"
+  },
+  {
     "id": "kartoffelgratin",
     "title": "Kartoffelgratin",
     "category": "mittag",
@@ -376,6 +439,15 @@
     "time": 180,
     "servings": 6,
     "image": "images/knusperstangen.png"
+  },
+  {
+    "id": "daenisches-plundergebaeck",
+    "title": "Knuspriges dänisches Plundergebäck",
+    "category": "backen",
+    "cuisine": "dänisch",
+    "time": 180,
+    "servings": 6,
+    "image": "images/daenisches-plundergebaeck.png"
   },
   {
     "id": "lammlachs-kräuterkruste",
@@ -448,6 +520,15 @@
     "time": 120,
     "servings": 12,
     "image": "images/macarons-thymian-rosmarin.png"
+  },
+  {
+    "id": "madeleines",
+    "title": "Madeleines",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 30,
+    "servings": 20,
+    "image": "images/madeleines.png"
   },
   {
     "id": "mango-berry-torte",
@@ -655,6 +736,24 @@
     "time": 40,
     "servings": 2,
     "image": "images/pilzrisotto.png"
+  },
+  {
+    "id": "pistazien-himbeer-cookies",
+    "title": "Pistazien-Himbeer-Cookies",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 37,
+    "servings": 12,
+    "image": "images/pistazien-himbeer-cookies.png"
+  },
+  {
+    "id": "pistazien-schnecken",
+    "title": "Pistazien-Schnecken",
+    "category": "backen",
+    "cuisine": "deutsch",
+    "time": 40,
+    "servings": 12,
+    "image": "images/pistazien-schnecken.png"
   },
   {
     "id": "pistazien-zitrus-tartelettes",

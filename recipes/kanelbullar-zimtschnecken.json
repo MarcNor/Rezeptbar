@@ -1,0 +1,68 @@
+{
+  "id": "kanelbullar-zimtschnecken",
+  "title": "Kanelbullar – schwedische Zimtschnecken",
+  "category": "backen",
+  "cuisine": "schwedisch",
+  "time": 180,
+  "image": "images/kanelbullar-zimtschnecken.png",
+  "servings": 15,
+  "utensils": [
+    "Topf oder Küchenmaschine",
+    "Teigroller",
+    "2 Backbleche mit Backpapier",
+    "Gitter zum Auskühlen",
+    "Pizza-Rollschneider oder Messer",
+    "Mörser für den Kardamom",
+    "Teigschaber"
+  ],
+  "ingredients": [
+    { "component": "Vorteig", "amount": "25", "unit": "g", "name": "frische Hefe (oder 7 g Trockenhefe)" },
+    { "component": "Vorteig", "amount": "120", "unit": "ml", "name": "Milch (zimmerwarm)" },
+    { "component": "Vorteig", "amount": "50", "unit": "g", "name": "Kristallzucker" },
+    { "component": "Vorteig", "amount": "175", "unit": "g", "name": "Mehl Type 550" },
+
+    { "component": "Hauptteig", "amount": "120", "unit": "ml", "name": "Milch (zimmerwarm)" },
+    { "component": "Hauptteig", "amount": "70", "unit": "g", "name": "Kristallzucker oder brauner Zucker" },
+    { "component": "Hauptteig", "amount": "100", "unit": "g", "name": "Butter (zimmerwarm)" },
+    { "component": "Hauptteig", "amount": "5", "unit": "g", "name": "Salz" },
+    { "component": "Hauptteig", "amount": "375", "unit": "g", "name": "Weizenmehl" },
+    { "component": "Hauptteig", "amount": "1", "unit": "", "name": "Ei (zimmerwarm)" },
+    { "component": "Hauptteig", "amount": "10", "unit": "Kapseln", "name": "Kardamom, frisch gemahlen (oder 1,5 EL gemahlener Kardamom)" },
+
+    { "component": "Fülle", "amount": "100", "unit": "g", "name": "Butter (zimmerwarm)" },
+    { "component": "Fülle", "amount": "100", "unit": "g", "name": "Kristallzucker oder brauner Zucker" },
+    { "component": "Fülle", "amount": "2", "unit": "EL", "name": "Zimt" },
+    { "component": "Fülle", "amount": "1", "unit": "Prise", "name": "Salz" },
+
+    { "component": "Topping", "amount": "", "unit": "", "name": "Hagelzucker, Kardamom-Zucker-Mischung oder verquirltes Ei" }
+  ],
+  "steps": [
+    { "component": "Vorbereitung", "text": "Butter, Ei und Milch 1 Stunde vorher aus dem Kühlschrank nehmen, damit sie zimmerwarm sind." },
+    { "component": "Vorbereitung", "text": "Den Kardamom im Mörser zerstoßen." },
+
+    { "component": "Vorteig", "text": "Die Hefe in der zimmerwarmen Milch auflösen." },
+    { "component": "Vorteig", "text": "Zucker und Mehl zugeben und ca. 5 Minuten zu einem elastischen Teig kneten." },
+    { "component": "Vorteig", "text": "Zu einer Kugel formen und abgedeckt 30–60 Minuten gehen lassen, bis sich das Volumen verdoppelt hat." },
+
+    { "component": "Hauptteig", "text": "Vorteig, Milch, Zucker, Mehl und Salz in der Küchenmaschine kneten." },
+    { "component": "Hauptteig", "text": "Das Ei einkneten." },
+    { "component": "Hauptteig", "text": "Die Butter portionsweise untermischen und vollständig einkneten." },
+    { "component": "Hauptteig", "text": "Zum Schluss den Kardamom zugeben." },
+    { "component": "Hauptteig", "text": "Ca. 10 Minuten in der Maschine oder 15 Minuten von Hand kneten." },
+    { "component": "Hauptteig", "text": "Zu einer Kugel formen und 15 Minuten gehen lassen." },
+
+    { "component": "Fülle", "text": "Butter, Zimt, Zucker und Salz mit der Gabel mischen." },
+
+    { "component": "Formen und Backen", "text": "Den Teig auf bemehlter Fläche zu einem Viereck von ca. 60 × 80 cm ausrollen." },
+    { "component": "Formen und Backen", "text": "Dünn mit der Füllung bestreichen." },
+    { "component": "Formen und Backen", "text": "Von oben und unten zu Dritteln einfalten und sanft andrücken." },
+    { "component": "Formen und Backen", "text": "Streifen schneiden und nach Wunsch formen – geflochten, klassisch gerollt, geknotet oder als Zwei-Strang-Knoten." },
+    { "component": "Formen und Backen", "text": "6–8 Stück pro Blech mit Abstand anordnen." },
+    { "component": "Formen und Backen", "text": "30–45 Minuten aufgehen lassen." },
+    { "component": "Formen und Backen", "text": "Mit verquirltem Ei bestreichen und/oder mit dem Topping bestreuen." },
+    { "component": "Formen und Backen", "text": "Den Ofen vorheizen und ca. 30 Minuten bei 180 °C Ober-/Unterhitze bzw. 160 °C Umluft backen." },
+    { "component": "Formen und Backen", "text": "Bei zu schneller Bräunung ein Schutzblech oberhalb einschieben." },
+    { "component": "Formen und Backen", "text": "Auf einem Gitter abkühlen lassen, den Rest einfrieren." }
+  ],
+  "notes": ""
+}

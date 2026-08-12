@@ -1,0 +1,47 @@
+{
+  "id": "pistazien-himbeer-cookies",
+  "title": "Pistazien-Himbeer-Cookies",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 37,
+  "image": "images/pistazien-himbeer-cookies.png",
+  "servings": 12,
+  "utensils": [
+    "Backmatte",
+    "Backblech",
+    "Kochlöffel",
+    "Schüssel"
+  ],
+  "ingredients": [
+    { "component": "Teig", "amount": "90", "unit": "g", "name": "Butter (Zimmertemperatur)" },
+    { "component": "Teig", "amount": "80", "unit": "g", "name": "Zucker" },
+    { "component": "Teig", "amount": "1", "unit": "", "name": "Ei (M)" },
+    { "component": "Teig", "amount": "150", "unit": "g", "name": "Mehl T45" },
+    { "component": "Teig", "amount": "1", "unit": "TL", "name": "Backpulver" },
+    { "component": "Teig", "amount": "40", "unit": "g", "name": "gemahlene Pistazien (Pistazienmehl)" },
+
+    { "component": "Einarbeitungen", "amount": "30", "unit": "g", "name": "gehackte Pistazien" },
+    { "component": "Einarbeitungen", "amount": "20", "unit": "g", "name": "Himbeer Crispies (gefriergetrocknet)" },
+    { "component": "Einarbeitungen", "amount": "50", "unit": "g", "name": "Himbeer-Schokolade (Inspiration Himbeere)" },
+    { "component": "Einarbeitungen", "amount": "1", "unit": "EL", "name": "ganze grüne Pistazien" },
+
+    { "component": "Zum Dekorieren", "amount": "10", "unit": "g", "name": "Inspiration Himbeere" },
+    { "component": "Zum Dekorieren", "amount": "1", "unit": "TL", "name": "ganze Pistazien" }
+  ],
+  "steps": [
+    { "component": "Teig", "text": "Die Butter 1 Stunde vorher aus dem Kühlschrank nehmen, damit sie Zimmertemperatur hat." },
+    { "component": "Teig", "text": "Butter und Zucker mit einem Löffel vermischen." },
+    { "component": "Teig", "text": "Ei und Pistazienmehl zugeben." },
+    { "component": "Teig", "text": "Mehl mit Backpulver untermischen." },
+
+    { "component": "Einarbeitungen", "text": "Himbeer Crispies, gehackte Pistazien, klein gehackte Himbeer-Schokolade und die ganzen Pistazien unterrühren." },
+
+    { "component": "Formen und Backen", "text": "Aus dem Teig kleine Kugeln formen." },
+    { "component": "Formen und Backen", "text": "Die Kugeln mit ausreichend Abstand auf ein mit Backmatte belegtes Blech setzen." },
+    { "component": "Formen und Backen", "text": "Leicht andrücken und mit Pistazien bestreuen." },
+    { "component": "Formen und Backen", "text": "Im vorgeheizten Ofen bei 180 °C Umluft 10–12 Minuten backen." },
+    { "component": "Formen und Backen", "text": "Direkt nach dem Backen kleine Stücke Himbeer-Schokolade und Pistazien darauf streuen." },
+    { "component": "Formen und Backen", "text": "Bei Raumtemperatur außerhalb des Ofens abkühlen lassen." }
+  ],
+  "notes": ""
+}

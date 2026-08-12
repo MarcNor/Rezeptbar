@@ -1,0 +1,55 @@
+{
+  "id": "veganer-cheesecake-apfelstrudel",
+  "title": "Cheesecake-Apfelstrudel mit Preiselbeeren",
+  "category": "backen",
+  "cuisine": "österreichisch",
+  "time": 35,
+  "image": "images/veganer-cheesecake-apfelstrudel.png",
+  "servings": 8,
+  "utensils": [
+    "Topf",
+    "Schneebesen",
+    "Backblech",
+    "Messer"
+  ],
+  "ingredients": [
+    { "component": "Füllung", "amount": "300", "unit": "g", "name": "säuerlicher Apfel (z. B. Boskop)" },
+    { "component": "Füllung", "amount": "35", "unit": "g", "name": "Butter" },
+    { "component": "Füllung", "amount": "20", "unit": "g", "name": "Rohrohrzucker" },
+    { "component": "Füllung", "amount": "1", "unit": "TL", "name": "Zimt" },
+    { "component": "Füllung", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Füllung", "amount": "2", "unit": "EL", "name": "Spiced Rum" },
+    { "component": "Füllung", "amount": "150", "unit": "g", "name": "Frischkäse" },
+    { "component": "Füllung", "amount": "0,5", "unit": "TL", "name": "Zitronenzesten" },
+    { "component": "Füllung", "amount": "6", "unit": "Tropfen", "name": "Vanilleextrakt" },
+    { "component": "Füllung", "amount": "50", "unit": "g", "name": "Preiselbeerkompott" },
+
+    { "component": "Außerdem", "amount": "1", "unit": "Rolle", "name": "Blätterteig" },
+    { "component": "Außerdem", "amount": "1", "unit": "EL", "name": "Sahne" },
+    { "component": "Außerdem", "amount": "0,25", "unit": "TL", "name": "Kurkumapulver" },
+    { "component": "Außerdem", "amount": "0,25", "unit": "TL", "name": "Rohrohrzucker" },
+
+    { "component": "Glasur", "amount": "50", "unit": "g", "name": "Puderzucker" },
+    { "component": "Glasur", "amount": "1,5", "unit": "TL", "name": "Milch oder Wasser" }
+  ],
+  "steps": [
+    { "component": "Apfelfüllung", "text": "Die Äpfel in 1½ cm dicke Spalten schneiden." },
+    { "component": "Apfelfüllung", "text": "Die Butter im heißen Topf schmelzen und die Hälfte des Zuckers sowie den Zimt zugeben." },
+    { "component": "Apfelfüllung", "text": "Äpfel und Rum zugeben und 5–7 Minuten bei mittlerer bis niedriger Hitze schmoren, dabei gelegentlich umrühren." },
+
+    { "component": "Frischkäsecreme", "text": "Frischkäse, restlichen Zucker, Zitronenzesten und Vanilleextrakt mit dem Schneebesen cremig verrühren." },
+
+    { "component": "Zusammenbau und Backen", "text": "Den Backofen auf 220 °C Ober-/Unterhitze vorheizen." },
+    { "component": "Zusammenbau und Backen", "text": "Den Blätterteig ausrollen und längs mit der Frischkäsecreme bestreichen." },
+    { "component": "Zusammenbau und Backen", "text": "Mit den geschmorten Apfelspalten und den Preiselbeeren belegen." },
+    { "component": "Zusammenbau und Backen", "text": "Links und rechts diagonal gleich breite Streifen schneiden und die oberen und unteren Ecken abschneiden." },
+    { "component": "Zusammenbau und Backen", "text": "Die Enden über die Füllung legen und die Teigstreifen abwechselnd von links und rechts übereinander flechten." },
+    { "component": "Zusammenbau und Backen", "text": "Sahne, Kurkuma und Zucker glattrühren und die Teigoberfläche damit bestreichen." },
+    { "component": "Zusammenbau und Backen", "text": "15 Minuten auf mittlerer Schiene goldbraun backen." },
+    { "component": "Zusammenbau und Backen", "text": "5–10 Minuten abkühlen lassen." },
+
+    { "component": "Glasur", "text": "Puderzucker und Milch zu einer Glasur verrühren." },
+    { "component": "Glasur", "text": "Den Strudel damit verzieren und warm oder kalt servieren." }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "madeleines",
+  "title": "Madeleines",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 30,
+  "image": "images/madeleines.png",
+  "servings": 20,
+  "utensils": [
+    "Madeleine-Backform (Metall oder Silikon)",
+    "Schneebesen",
+    "Schüssel"
+  ],
+  "ingredients": [
+    { "amount": "125", "unit": "g", "name": "geschmolzene Butter" },
+    { "amount": "3", "unit": "", "name": "Eier" },
+    { "amount": "130", "unit": "g", "name": "Zucker" },
+    { "amount": "1", "unit": "EL", "name": "Honig" },
+    { "amount": "100", "unit": "g", "name": "Mehl" },
+    { "amount": "50", "unit": "g", "name": "gemahlene Mandeln" },
+    { "amount": "1", "unit": "TL", "name": "Backpulver" },
+    { "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "amount": "3", "unit": "Tropfen", "name": "Rosenaroma oder 2 EL Orangenblütenwasser (nach Geschmack)" }
+  ],
+  "steps": [
+    "Eier, Zucker und Honig mit dem Schneebesen schlagen, bis die Masse hellgelb ist.",
+    "Mehl, gemahlene Mandeln, Salz, Backpulver, die geschmolzene Butter und das Aroma zugeben und kräftig rühren.",
+    "Den Teig optional 15 Minuten im Kühlschrank ruhen lassen, dann wird er fester.",
+    "Metallformen mit Butter einfetten und leicht mit Mehl bestäuben – Silikonformen brauchen kein Fett.",
+    "Den Teig vor dem Backen nochmals kurz rühren und die Formen nur bis zu zwei Dritteln füllen.",
+    "In den vorgeheizten Ofen schieben: Metallform 15 Minuten bei 180 °C Umluft, Silikonform 12 Minuten bei 180 °C Umluft.",
+    "Goldbraun backen – die Madeleines sind durch, wenn die charakteristische Beule in der Mitte deutlich sichtbar ist.",
+    "Vollständig abkühlen lassen, bevor sie aus der Form genommen werden, besonders bei Metallformen."
+  ],
+  "notes": ""
+}

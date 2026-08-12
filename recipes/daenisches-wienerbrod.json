@@ -1,0 +1,62 @@
+{
+  "id": "daenisches-wienerbrod",
+  "title": "Dänisches Wienerbrød",
+  "category": "backen",
+  "cuisine": "dänisch",
+  "time": 105,
+  "image": "images/daenisches-wienerbrod.png",
+  "servings": 2,
+  "utensils": [
+    "Schneebesen",
+    "Topf",
+    "Feines Sieb",
+    "Klarsichtfolie",
+    "Backpapier",
+    "Backblech",
+    "Gefrierbeutel",
+    "Gitter"
+  ],
+  "ingredients": [
+    { "component": "Puddingcreme", "amount": "1", "unit": "", "name": "Ei (Gr. L)" },
+    { "component": "Puddingcreme", "amount": "20", "unit": "g", "name": "Zucker" },
+    { "component": "Puddingcreme", "amount": "10", "unit": "g", "name": "Speisestärke" },
+    { "component": "Puddingcreme", "amount": "1", "unit": "", "name": "Vanilleschote" },
+    { "component": "Puddingcreme", "amount": "125", "unit": "ml", "name": "Milch (3,5 %)" },
+
+    { "component": "Teig", "amount": "25", "unit": "g", "name": "frische Hefe" },
+    { "component": "Teig", "amount": "200", "unit": "ml", "name": "kalte Milch (3,5 %)" },
+    { "component": "Teig", "amount": "40", "unit": "g", "name": "Zucker" },
+    { "component": "Teig", "amount": "2", "unit": "", "name": "Eier (Gr. L)" },
+    { "component": "Teig", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Teig", "amount": "50", "unit": "g", "name": "weiche Butter" },
+    { "component": "Teig", "amount": "500", "unit": "g", "name": "Weizenmehl Type 550" },
+
+    { "component": "Garnitur", "amount": "1", "unit": "", "name": "Eigelb" },
+    { "component": "Garnitur", "amount": "1", "unit": "EL", "name": "Milch (3,5 %)" },
+    { "component": "Garnitur", "amount": "60", "unit": "g", "name": "Puderzucker" }
+  ],
+  "steps": [
+    { "component": "Puddingcreme", "text": "Ei, Zucker und Speisestärke mit dem Schneebesen glatt rühren." },
+    { "component": "Puddingcreme", "text": "Die Vanilleschote aufschneiden und das Mark auskratzen." },
+    { "component": "Puddingcreme", "text": "Schote, Mark, Milch und die Eimischung verquirlen und aufkochen, bis die Masse andickt." },
+    { "component": "Puddingcreme", "text": "Die Vanilleschote entfernen und die Creme durch ein feines Sieb streichen." },
+    { "component": "Puddingcreme", "text": "Mit Klarsichtfolie abdecken und vollständig abkühlen lassen." },
+
+    { "component": "Teig", "text": "Die Hefe in die Milch bröseln und Zucker, Eier, Salz und die weiche Butter zugeben." },
+    { "component": "Teig", "text": "Mit dem Schneebesen verquirlen, das Mehl unterheben und glatt verrühren." },
+
+    { "component": "Formen und Backen", "text": "Den Backofen auf 225 °C Ober-/Unterhitze bzw. 200 °C Umluft vorheizen." },
+    { "component": "Formen und Backen", "text": "Den Teig zu einem Rechteck von ca. 60 × 25 cm ausrollen und mittig teilen." },
+    { "component": "Formen und Backen", "text": "Je 4 EL Puddingcreme mittig auf den Teigstreifen verteilen." },
+    { "component": "Formen und Backen", "text": "Die Teigränder der Länge nach zur Mitte aufrollen." },
+    { "component": "Formen und Backen", "text": "Auf ein mit Backpapier belegtes Blech legen." },
+    { "component": "Formen und Backen", "text": "Eigelb mit Milch verquirlen und den Teig damit bestreichen." },
+    { "component": "Formen und Backen", "text": "Ca. 20 Minuten backen." },
+
+    { "component": "Garnieren", "text": "Den Puderzucker mit 1–1,5 EL Wasser verrühren." },
+    { "component": "Garnieren", "text": "In einen Gefrierbeutel füllen und eine kleine Ecke abschneiden." },
+    { "component": "Garnieren", "text": "Das Wienerbrød damit verzieren." },
+    { "component": "Garnieren", "text": "Auf einem Gitter abkühlen lassen." }
+  ],
+  "notes": ""
+}

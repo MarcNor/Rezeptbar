@@ -1,0 +1,100 @@
+{
+  "id": "brombeer-schokoladen-torte",
+  "title": "Brombeer-Schokoladen-Torte (Double Chocolate Naked Cake)",
+  "category": "backen",
+  "cuisine": "deutsch",
+  "time": 120,
+  "image": "images/brombeer-schokoladen-torte.png",
+  "servings": 12,
+  "utensils": [
+    "Backring 20 cm ∅",
+    "Tortenring",
+    "Haarsieb",
+    "Spritzbeutel",
+    "Gezackte Sterntülle",
+    "Topf",
+    "Rührgerät"
+  ],
+  "ingredients": [
+    { "component": "Boden", "amount": "2", "unit": "", "name": "Eier" },
+    { "component": "Boden", "amount": "100", "unit": "g", "name": "Zucker" },
+    { "component": "Boden", "amount": "1", "unit": "Prise", "name": "Salz" },
+    { "component": "Boden", "amount": "0,5", "unit": "TL", "name": "Vanilleextrakt" },
+    { "component": "Boden", "amount": "40", "unit": "ml", "name": "heißer Espresso" },
+    { "component": "Boden", "amount": "40", "unit": "g", "name": "Zartbitterschokolade" },
+    { "component": "Boden", "amount": "20", "unit": "g", "name": "Butter" },
+    { "component": "Boden", "amount": "80", "unit": "g", "name": "Mehl" },
+    { "component": "Boden", "amount": "20", "unit": "g", "name": "Kakao" },
+    { "component": "Boden", "amount": "1", "unit": "Prise", "name": "Tonkabohne" },
+
+    { "component": "Creme (Basis)", "amount": "500", "unit": "g", "name": "Quark" },
+    { "component": "Creme (Basis)", "amount": "500", "unit": "g", "name": "Sahne" },
+    { "component": "Creme (Basis)", "amount": "2", "unit": "TL", "name": "San-apart" },
+    { "component": "Creme (Basis)", "amount": "100", "unit": "g", "name": "Puderzucker" },
+    { "component": "Creme (Basis)", "amount": "1", "unit": "TL", "name": "Vanilleextrakt" },
+
+    { "component": "Schokoladencreme", "amount": "50", "unit": "ml", "name": "Wasser" },
+    { "component": "Schokoladencreme", "amount": "12", "unit": "g", "name": "Agar Agar" },
+    { "component": "Schokoladencreme", "amount": "70", "unit": "g", "name": "Zartbitterschokolade" },
+
+    { "component": "Brombeercreme", "amount": "100", "unit": "g", "name": "Brombeeren (frisch oder TK)" },
+    { "component": "Brombeercreme", "amount": "50", "unit": "ml", "name": "Wasser" },
+    { "component": "Brombeercreme", "amount": "12", "unit": "g", "name": "Agar Agar" },
+
+    { "component": "Helle Creme", "amount": "50", "unit": "g", "name": "Wasser" },
+    { "component": "Helle Creme", "amount": "12", "unit": "g", "name": "Agar Agar" },
+
+    { "component": "Brombeergelee", "amount": "200", "unit": "g", "name": "Brombeeren (frisch oder TK)" },
+    { "component": "Brombeergelee", "amount": "100", "unit": "ml", "name": "Wasser" },
+    { "component": "Brombeergelee", "amount": "8", "unit": "g", "name": "Agar Agar" },
+
+    { "component": "Tupfen", "amount": "50", "unit": "g", "name": "Brombeeren (frisch oder TK)" },
+    { "component": "Tupfen", "amount": "75", "unit": "g", "name": "Frischkäse" },
+    { "component": "Tupfen", "amount": "50", "unit": "g", "name": "Sahne" },
+    { "component": "Tupfen", "amount": "20", "unit": "g", "name": "Puderzucker" },
+    { "component": "Tupfen", "amount": "3", "unit": "TL", "name": "San-apart" },
+
+    { "component": "Dekoration", "amount": "10", "unit": "", "name": "Brombeeren" },
+    { "component": "Dekoration", "amount": "10", "unit": "", "name": "Minzblätter" }
+  ],
+  "steps": [
+    { "component": "Boden", "text": "Eier, Zucker, Salz und Vanilleextrakt 5–6 Minuten cremig rühren." },
+    { "component": "Boden", "text": "Den heißen Espresso über Schokolade und Butter gießen und schmelzen lassen." },
+    { "component": "Boden", "text": "Die Schokoladenmasse in die Eiermasse einrühren." },
+    { "component": "Boden", "text": "Mehl und Kakao sieben, die Tonkabohne darüberreiben und alles unterheben." },
+    { "component": "Boden", "text": "In den 20-cm-Backring füllen und bei 170 °C Ober-/Unterhitze ca. 25 Minuten backen." },
+    { "component": "Boden", "text": "Aus der Form nehmen, stürzen und vollständig abkühlen lassen." },
+    { "component": "Boden", "text": "Einen sauberen Tortenring außen herum legen." },
+
+    { "component": "Creme (Basis)", "text": "Die Sahne mit San-apart steif schlagen." },
+    { "component": "Creme (Basis)", "text": "Quark, Puderzucker und Vanilleextrakt verrühren und die Sahne unterheben." },
+    { "component": "Creme (Basis)", "text": "400 g für die helle Schicht beiseitestellen, den Rest halbieren." },
+
+    { "component": "Schokoladencreme", "text": "Wasser und Agar Agar aufkochen und 2 Minuten sprudelnd kochen lassen." },
+    { "component": "Schokoladencreme", "text": "Die Schokolade schmelzen und mit der Agar-Mischung verrühren." },
+    { "component": "Schokoladencreme", "text": "2–3 EL der ersten Cremeportion einrühren, dann alles unter die restliche Creme heben." },
+    { "component": "Schokoladencreme", "text": "Über dem Tortenboden verstreichen und 30 Minuten kühl stellen." },
+
+    { "component": "Brombeercreme", "text": "Die aufgetauten Brombeeren mit dem Wasser pürieren." },
+    { "component": "Brombeercreme", "text": "Mit Agar Agar aufkochen und 2 Minuten sprudelnd kochen lassen." },
+    { "component": "Brombeercreme", "text": "2–3 Minuten lauwarm abkühlen lassen." },
+    { "component": "Brombeercreme", "text": "2–3 EL der zweiten Cremeportion einrühren, dann die gesamte Creme unterheben." },
+    { "component": "Brombeercreme", "text": "Über der Schokoladencreme verstreichen und 30 Minuten kühl stellen." },
+
+    { "component": "Helle Creme", "text": "Wasser und Agar Agar 2 Minuten kochen." },
+    { "component": "Helle Creme", "text": "2–3 EL der großen Cremeportion einrühren, dann die Agar-Mischung unterheben." },
+    { "component": "Helle Creme", "text": "Über der Brombeercreme verstreichen und 15 Minuten kühl stellen." },
+
+    { "component": "Brombeergelee", "text": "Die aufgetauten Brombeeren mit dem Wasser pürieren und mit Agar Agar verrühren." },
+    { "component": "Brombeergelee", "text": "2 Minuten sprudelnd kochen." },
+    { "component": "Brombeergelee", "text": "Lauwarm abkühlen lassen und über die Torte gießen." },
+    { "component": "Brombeergelee", "text": "Mindestens 3 Stunden oder über Nacht kühl stellen." },
+
+    { "component": "Tupfen", "text": "Die Brombeeren einkochen, bis fast die gesamte Flüssigkeit verdunstet ist." },
+    { "component": "Tupfen", "text": "Durch ein Haarsieb streichen und abkühlen lassen." },
+    { "component": "Tupfen", "text": "Mit Frischkäse, Sahne, Puderzucker und San-apart verrühren und steif schlagen." },
+    { "component": "Tupfen", "text": "In einen Spritzbeutel mit gezackter Sterntülle füllen und Tupfen auf die Torte spritzen." },
+    { "component": "Tupfen", "text": "Mit Brombeeren und Minzblättern dekorieren." }
+  ],
+  "notes": ""
+}

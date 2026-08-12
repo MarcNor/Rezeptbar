@@ -1,0 +1,74 @@
+{
+  "id": "daenisches-plundergebaeck",
+  "title": "Knuspriges dänisches Plundergebäck",
+  "category": "backen",
+  "cuisine": "dänisch",
+  "time": 180,
+  "image": "images/daenisches-plundergebaeck.png",
+  "servings": 6,
+  "utensils": [
+    "Große Schüssel",
+    "Knetmaschine (optional)",
+    "Frischhaltefolie",
+    "Backpapier",
+    "Pizzaschneider",
+    "Backblech"
+  ],
+  "ingredients": [
+    { "component": "Plunderteig", "amount": "375", "unit": "g", "name": "Mehl" },
+    { "component": "Plunderteig", "amount": "25", "unit": "g", "name": "Zucker" },
+    { "component": "Plunderteig", "amount": "2", "unit": "TL", "name": "Salz" },
+    { "component": "Plunderteig", "amount": "15", "unit": "g", "name": "Milchpulver" },
+    { "component": "Plunderteig", "amount": "25", "unit": "g", "name": "frische Hefe" },
+    { "component": "Plunderteig", "amount": "1", "unit": "", "name": "Ei Gr. L" },
+    { "component": "Plunderteig", "amount": "115", "unit": "ml", "name": "lauwarmes Wasser" },
+    { "component": "Plunderteig", "amount": "40", "unit": "g", "name": "weiche Butter, gewürfelt" },
+    { "component": "Plunderteig", "amount": "250", "unit": "g", "name": "feste Butter zum Tourieren" },
+
+    { "component": "Streuselteig", "amount": "30", "unit": "g", "name": "Mehl" },
+    { "component": "Streuselteig", "amount": "15", "unit": "g", "name": "Zucker" },
+    { "component": "Streuselteig", "amount": "10", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Streuselteig", "amount": "25", "unit": "g", "name": "weiche Butter" },
+    { "component": "Streuselteig", "amount": "1", "unit": "Prise", "name": "Lakritzpulver" },
+    { "component": "Streuselteig", "amount": "1", "unit": "Prise", "name": "Kardamom" },
+    { "component": "Streuselteig", "amount": "1", "unit": "Prise", "name": "Zimt" },
+    { "component": "Streuselteig", "amount": "1", "unit": "Prise", "name": "Salz" },
+
+    { "component": "Plunderteilchen", "amount": "350", "unit": "g", "name": "Plunderteig" },
+    { "component": "Plunderteilchen", "amount": "70-100", "unit": "g", "name": "Himbeer-Lakritzmarmelade oder eine beliebige andere Marmelade" },
+    { "component": "Plunderteilchen", "amount": "1", "unit": "", "name": "Eigelb, mit 1 EL Milch verschlagen" }
+  ],
+  "steps": [
+    { "component": "Plunderteig", "text": "Mehl, Zucker, Salz und Milchpulver mischen." },
+    { "component": "Plunderteig", "text": "Die Hefe im lauwarmen Wasser auflösen und zusammen mit dem Ei zu den trockenen Zutaten geben." },
+    { "component": "Plunderteig", "text": "Kräftig zu einem festen Teig verkneten, von Hand oder mit der Maschine." },
+    { "component": "Plunderteig", "text": "Die weichen Butterstücke zugeben und unterkneten, bis ein glatter, elastischer Teig entsteht." },
+    { "component": "Plunderteig", "text": "Mit Frischhaltefolie abdecken und 90 Minuten im Kühlschrank ruhen lassen." },
+    { "component": "Plunderteig", "text": "10 Minuten vor Ende der Ruhezeit die Butter zum Tourieren ins Gefrierfach legen." },
+
+    { "component": "Tourieren", "text": "Den Teig auf bemehlter Fläche 6 mm dick zu einem Rechteck ausrollen." },
+    { "component": "Tourieren", "text": "Die kalte Butter zwischen Backpapier halb so groß wie der Teig ausrollen." },
+    { "component": "Tourieren", "text": "Die Butter auf die untere Teighälfte legen und andrücken." },
+    { "component": "Tourieren", "text": "Die obere Teighälfte darüberklappen, sodass die Butter vollständig bedeckt ist." },
+    { "component": "Tourieren", "text": "Das Paket um 90° drehen, die geschlossene Kante liegt links." },
+    { "component": "Tourieren", "text": "Wieder zu einem 6–7 mm dicken Rechteck ausrollen." },
+    { "component": "Tourieren", "text": "Obere und untere Hälfte zur Mitte falten, sodass die Kanten aneinanderstoßen." },
+    { "component": "Tourieren", "text": "Nochmals falten – es entstehen vier Lagen." },
+    { "component": "Tourieren", "text": "In Folie wickeln und 35 Minuten im Kühlschrank ruhen lassen." },
+    { "component": "Tourieren", "text": "Mit der geschlossenen Seite nach links wieder 6–7 mm dick ausrollen." },
+    { "component": "Tourieren", "text": "Ein Drittel einschlagen und das zweite Drittel darüberlegen – drei Lagen." },
+    { "component": "Tourieren", "text": "In Folie wickeln und 1 Stunde im Kühlschrank ruhen lassen." },
+
+    { "component": "Streusel", "text": "Alle Zutaten zwischen den Händen zu Streuseln verreiben." },
+    { "component": "Streusel", "text": "Bis zur Verwendung im Kühlschrank lagern." },
+
+    { "component": "Plunderteilchen", "text": "Den Backofen auf 180 °C Ober-/Unterhitze vorheizen." },
+    { "component": "Plunderteilchen", "text": "Den Plunderteig auf ca. 30 × 20 cm ausrollen." },
+    { "component": "Plunderteilchen", "text": "Sechs Quadrate mit 9 cm Kantenlänge ausschneiden." },
+    { "component": "Plunderteilchen", "text": "Mit der Marmelade füllen und mit den Streuseln garnieren." },
+    { "component": "Plunderteilchen", "text": "Bei der gefalteten Variante Eigelb entlang der Faltlinien aufstreichen, damit die Teile halten und die Marmelade nicht ausläuft." },
+    { "component": "Plunderteilchen", "text": "Mit dem verquirlten Eigelb bestreichen." },
+    { "component": "Plunderteilchen", "text": "Ca. 20 Minuten bei 180 °C backen." }
+  ],
+  "notes": ""
+}
