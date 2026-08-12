@@ -1,0 +1,98 @@
+{
+  "id": "schwarze-himbeer-pistazien-tartelettes",
+  "title": "Schwarze Himbeer-Pistazien Tartelettes mit Lychees",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 150,
+  "image": "images/schwarze-himbeer-pistazien-tartelettes.png",
+  "servings": 5,
+  "utensils": [
+    "5 Tartelette-Ringe 8 cm ∅",
+    "Silikonform Zylinder 7 cm ∅",
+    "Airmat oder Silikonmatte",
+    "Lochblech 30 × 40 cm",
+    "Mixgerät",
+    "Kleines scharfes Messer",
+    "Gabel",
+    "Backrost",
+    "Gitter mit Auffangschale",
+    "Palette",
+    "Frischhaltefolie"
+  ],
+  "ingredients": [
+    { "component": "Schwarzer Mürbeteig", "amount": "110", "unit": "g", "name": "weiche Butter" },
+    { "component": "Schwarzer Mürbeteig", "amount": "15", "unit": "g", "name": "brauner Zucker" },
+    { "component": "Schwarzer Mürbeteig", "amount": "50", "unit": "g", "name": "Puderzucker" },
+    { "component": "Schwarzer Mürbeteig", "amount": "2", "unit": "g", "name": "Aktivkohle Pulver" },
+    { "component": "Schwarzer Mürbeteig", "amount": "30", "unit": "g", "name": "Ei, verschlagen" },
+    { "component": "Schwarzer Mürbeteig", "amount": "175", "unit": "g", "name": "Mehl Type 550" },
+
+    { "component": "Himbeermousse", "amount": "120", "unit": "g", "name": "Himbeerpüree" },
+    { "component": "Himbeermousse", "amount": "2,5", "unit": "Blatt", "name": "Gelatine" },
+    { "component": "Himbeermousse", "amount": "40", "unit": "g", "name": "Zucker" },
+    { "component": "Himbeermousse", "amount": "1", "unit": "EL", "name": "Rosenwasser" },
+    { "component": "Himbeermousse", "amount": "120", "unit": "g", "name": "Schlagsahne" },
+    { "component": "Himbeermousse", "amount": "8-10", "unit": "", "name": "Lychees aus der Dose" },
+
+    { "component": "Pistazienfrangipane", "amount": "30", "unit": "g", "name": "gemahlene grüne Pistazien" },
+    { "component": "Pistazienfrangipane", "amount": "30", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Pistazienfrangipane", "amount": "60", "unit": "g", "name": "weiche Butter" },
+    { "component": "Pistazienfrangipane", "amount": "60", "unit": "g", "name": "Zucker" },
+    { "component": "Pistazienfrangipane", "amount": "1", "unit": "", "name": "Ei" },
+    { "component": "Pistazienfrangipane", "amount": "1-2", "unit": "Tropfen", "name": "Bittermandelaroma" },
+
+    { "component": "Transparente Glasur", "amount": "100", "unit": "g", "name": "Wasser" },
+    { "component": "Transparente Glasur", "amount": "150", "unit": "g", "name": "Zucker" },
+    { "component": "Transparente Glasur", "amount": "1", "unit": "EL", "name": "Zitronensaft" },
+    { "component": "Transparente Glasur", "amount": "4", "unit": "Blatt", "name": "Gelatine" },
+
+    { "component": "Garnitur", "amount": "1", "unit": "EL", "name": "Himbeergelee" },
+    { "component": "Garnitur", "amount": "2", "unit": "EL", "name": "gemahlene grüne Pistazien" },
+    { "component": "Garnitur", "amount": "", "unit": "", "name": "frische Himbeeren, mit Himbeergelee gefüllt" },
+    { "component": "Garnitur", "amount": "", "unit": "", "name": "grüner Mikrowellenbiskuit" },
+    { "component": "Garnitur", "amount": "", "unit": "", "name": "essbares Blattgold" }
+  ],
+  "steps": [
+    { "component": "Schwarzer Mürbeteig", "text": "Die weiche Butter mit beiden Zuckersorten und der Aktivkohle verrühren." },
+    { "component": "Schwarzer Mürbeteig", "text": "Das Ei schrittweise zugeben." },
+    { "component": "Schwarzer Mürbeteig", "text": "Das Mehl kurz einarbeiten." },
+    { "component": "Schwarzer Mürbeteig", "text": "In Folie wickeln und mindestens 6 Stunden kalt stellen." },
+
+    { "component": "Himbeermousse", "text": "Die Gelatine in eiskaltem Wasser einweichen." },
+    { "component": "Himbeermousse", "text": "Ein Drittel des Pürees mit dem Zucker erwärmen und die Gelatine darin auflösen." },
+    { "component": "Himbeermousse", "text": "Das restliche Püree und das Rosenwasser zugeben." },
+    { "component": "Himbeermousse", "text": "Nach leichtem Gelieren die Sahne cremig schlagen und unterheben." },
+    { "component": "Himbeermousse", "text": "Die Mousse in 5 Silikonvertiefungen füllen, bis 1 cm unter den Rand." },
+    { "component": "Himbeermousse", "text": "Die Lychees abtropfen lassen, vierteln und hineindrücken." },
+    { "component": "Himbeermousse", "text": "Über Nacht in den Gefrierschrank stellen." },
+
+    { "component": "Tartelettes formen", "text": "Die Ringe leicht buttern und auf ein Blech stellen." },
+    { "component": "Tartelettes formen", "text": "Den Teig 3–4 mm dick ausrollen." },
+    { "component": "Tartelettes formen", "text": "5 Streifen von 3,5 cm Breite ausschneiden und in die Ringe einpassen." },
+    { "component": "Tartelettes formen", "text": "5 Kreise von knapp 8 cm ∅ ausstechen und in die Tartelettes legen." },
+    { "component": "Tartelettes formen", "text": "Die Innenkanten verstreichen und den Boden mehrfach mit einer Gabel einstechen." },
+    { "component": "Tartelettes formen", "text": "30 Minuten gefrieren." },
+
+    { "component": "Pistazienfrangipane", "text": "Alle Zutaten mit dem Mixgerät zu einer fluffigen Masse verrühren." },
+
+    { "component": "Backen", "text": "Den Ofen auf 180 °C Ober-/Unterhitze vorheizen." },
+    { "component": "Backen", "text": "Die überstehenden Teigränder mit einem Messer abschneiden." },
+    { "component": "Backen", "text": "Die Frangipane einfüllen und glattstreichen." },
+    { "component": "Backen", "text": "20–25 Minuten backen." },
+    { "component": "Backen", "text": "Auf einem Rost abkühlen lassen." },
+
+    { "component": "Transparente Glasur", "text": "Die Gelatine einweichen." },
+    { "component": "Transparente Glasur", "text": "Wasser, Zucker und Zitronensaft erhitzen, bis der Zucker gelöst ist." },
+    { "component": "Transparente Glasur", "text": "Die Gelatine auflösen." },
+    { "component": "Transparente Glasur", "text": "Auf 32–35 °C abkühlen lassen." },
+
+    { "component": "Fertigstellung", "text": "Die gefrorenen Mousse-Törtchen aus der Form lösen." },
+    { "component": "Fertigstellung", "text": "Auf ein Gitter über einer Schale setzen." },
+    { "component": "Fertigstellung", "text": "Die Glasur gleichmäßig übergießen." },
+    { "component": "Fertigstellung", "text": "Die Tartelettes mit Himbeergelee bestreichen." },
+    { "component": "Fertigstellung", "text": "Die gemahlenen Pistazien mit einem Esslöffel am unteren Rand andrücken." },
+    { "component": "Fertigstellung", "text": "Die Mousse-Törtchen auf die Tartelettes setzen." },
+    { "component": "Fertigstellung", "text": "Die Garnitur erst am Serviertag auflegen." }
+  ],
+  "notes": ""
+}

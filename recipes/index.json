@@ -18,6 +18,15 @@
     "image": "images/bao-buns-jackfruit-coleslaw.png"
   },
   {
+    "id": "beerentorte-zitrone-kraeuter",
+    "title": "Beerentorte mit Zitrone & zitronigen Kräutern",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/beerentorte-zitrone-kraeuter.png"
+  },
+  {
     "id": "blaubeertorte-blueberry-dream",
     "title": "Blaubeertorte \"Blueberry Dream\"",
     "category": "backen",
@@ -162,6 +171,15 @@
     "image": "images/rotes-pesto-frischkäse.png"
   },
   {
+    "id": "fruchttarte-exotic",
+    "title": "Fruchttarte \"Exotic\"",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 10,
+    "image": "images/fruchttarte-exotic.png"
+  },
+  {
     "id": "gebratene-nudeln-mit-ei-und-gemuese",
     "title": "Gebratene Nudeln mit Ei und Gemüse",
     "category": "mittag",
@@ -252,6 +270,15 @@
     "image": "images/himbeer-rosmarin-limo.png"
   },
   {
+    "id": "himbeertartelettes",
+    "title": "Himbeertartelettes",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 6,
+    "image": "images/himbeertartelettes.png"
+  },
+  {
     "id": "holunderbeeren-torte",
     "title": "Holunderbeeren Torte",
     "category": "backen",
@@ -270,6 +297,24 @@
     "image": "images/jerusalem-teller.png"
   },
   {
+    "id": "joghurttoertchen-himbeeren-holunderblueten",
+    "title": "Joghurttörtchen mit Himbeeren & Holunderblüten",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 6,
+    "image": "images/joghurttoertchen-himbeeren-holunderblueten.png"
+  },
+  {
+    "id": "johannisbeertorte-summer-blush",
+    "title": "Johannisbeertorte \"Summer Blush\"",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 240,
+    "servings": 10,
+    "image": "images/johannisbeertorte-summer-blush.png"
+  },
+  {
     "id": "kartoffelgratin",
     "title": "Kartoffelgratin",
     "category": "mittag",
@@ -286,6 +331,15 @@
     "time": 50,
     "servings": 4,
     "image": "images/cesar_salat.png"
+  },
+  {
+    "id": "kirsch-dulcey-schokoladentorte",
+    "title": "Kirsch-Dulcey Schokoladentorte",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/kirsch-dulcey-schokoladentorte.png"
   },
   {
     "id": "hühnersuppe",
@@ -351,6 +405,24 @@
     "image": "images/macarons-salzkaramell.png"
   },
   {
+    "id": "macarons-lakritz",
+    "title": "Macarons mit Lakritz",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 12,
+    "image": "images/macarons-lakritz.png"
+  },
+  {
+    "id": "macarons-thymian-rosmarin",
+    "title": "Macarons mit Thymian und Rosmarin",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 12,
+    "image": "images/macarons-thymian-rosmarin.png"
+  },
+  {
     "id": "mango-berry-torte",
     "title": "Mango Berry Torte",
     "category": "backen",
@@ -369,6 +441,15 @@
     "image": "images/mango-hähnchen-curry.png"
   },
   {
+    "id": "mango-lassi-berry-toertchen",
+    "title": "Mango-Lassi & Berry Törtchen",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 10,
+    "image": "images/mango-lassi-berry-toertchen.png"
+  },
+  {
     "id": "maracuja-cheesecake",
     "title": "Maracuja Cheesecake",
     "category": "backen",
@@ -385,6 +466,15 @@
     "time": 120,
     "servings": 10,
     "image": "images/maracuja-cheescake-tartelettes.png"
+  },
+  {
+    "id": "matchatoertchen-limette-himbeere",
+    "title": "Matchatörtchen mit Limette & Himbeere",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 6,
+    "image": "images/matchatoertchen-limette-himbeere.png"
   },
   {
     "id": "maultaschen-spinat-auflauf",
@@ -450,6 +540,15 @@
     "image": "images/nudelsalat.png"
   },
   {
+    "id": "orangentorte-schokoladenknusperboden",
+    "title": "Orangentorte mit Schokoladenknusperboden & Glanzglasur",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 12,
+    "image": "images/orangentorte-schokoladenknusperboden.png"
+  },
+  {
     "id": "paella-hähnchen",
     "title": "Paella mit Hähnchen",
     "category": "mittag",
@@ -475,6 +574,15 @@
     "time": 120,
     "servings": 8,
     "image": "images/pains-au-chocolat.png"
+  },
+  {
+    "id": "pfirsich-holunderblueten-toertchen",
+    "title": "Pfirsich-Holunderblüten Törtchen mit rosa Pfeffer",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 8,
+    "image": "images/pfirsich-holunderblueten-toertchen.png"
   },
   {
     "id": "pfirsich-maracuja-torte-basilikum",
@@ -511,6 +619,24 @@
     "time": 40,
     "servings": 2,
     "image": "images/pilzrisotto.png"
+  },
+  {
+    "id": "pistazien-zitrus-tartelettes",
+    "title": "Pistazien-Zitrus Tartelettes",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 6,
+    "image": "images/pistazien-zitrus-tartelettes.png"
+  },
+  {
+    "id": "pistazienschnitten-sicily",
+    "title": "Pistazienschnitten \"Sicily\"",
+    "category": "backen",
+    "cuisine": "italienisch",
+    "time": 150,
+    "servings": 12,
+    "image": "images/pistazienschnitten-sicily.png"
   },
   {
     "id": "pistazientorte-70er-look",
@@ -619,6 +745,42 @@
     "time": 90,
     "servings": 10,
     "image": "images/eclair-schoko.png"
+  },
+  {
+    "id": "schoko-kirschtorte-zimthauch",
+    "title": "Schoko-Kirschtorte mit Zimthauch",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/schoko-kirschtorte-zimthauch.png"
+  },
+  {
+    "id": "schoko-sandwich-toertchen-kirsche-banane",
+    "title": "Schoko-Sandwich Törtchen mit Kirsche & Banane",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 12,
+    "image": "images/schoko-sandwich-toertchen-kirsche-banane.png"
+  },
+  {
+    "id": "schokoladen-lakritz-torte",
+    "title": "Schokoladen-Lakritz Torte \"Das schwarze süße Gold\"",
+    "category": "backen",
+    "cuisine": "deutsch",
+    "time": 120,
+    "servings": 12,
+    "image": "images/schokoladen-lakritz-torte.png"
+  },
+  {
+    "id": "schwarze-himbeer-pistazien-tartelettes",
+    "title": "Schwarze Himbeer-Pistazien Tartelettes mit Lychees",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 150,
+    "servings": 5,
+    "image": "images/schwarze-himbeer-pistazien-tartelettes.png"
   },
   {
     "id": "schweizer-rösti",

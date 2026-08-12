@@ -1,0 +1,40 @@
+{
+  "id": "macarons-thymian-rosmarin",
+  "title": "Macarons mit Thymian und Rosmarin",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "servings": 12,
+  "image": "images/macarons-thymian-rosmarin.png",
+  "ingredients": [
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Eiweiß" },
+    { "component": "Macarons", "amount": "70", "unit": "g", "name": "Zucker" },
+    { "component": "Macarons", "amount": "90", "unit": "g", "name": "gemahlene Mandeln" },
+    { "component": "Macarons", "amount": "60", "unit": "g", "name": "Puderzucker" },
+    { "component": "Macarons", "amount": "1", "unit": "TL", "name": "schwarze Puderfarbe" },
+
+    { "component": "Ganache", "amount": "150", "unit": "g", "name": "weiße Schokolade" },
+    { "component": "Ganache", "amount": "75", "unit": "g", "name": "Sahne" },
+    { "component": "Ganache", "amount": "10", "unit": "g", "name": "Thymian" },
+    { "component": "Ganache", "amount": "10", "unit": "g", "name": "Rosmarin" }
+  ],
+  "steps": [
+    { "component": "Macarons", "text": "Die Mandeln und Puderzucker in einen Zerkleinerer geben, fein mahlen und danach durch ein Sieb streichen. Die Mischung sollte keine größeren Mandelstückchen enthalten."},
+    { "component": "Macarons", "text": "Das Eiweiß und den Zucker über einem Wasserbad langsam auf 65°C erhitzen und dabei ständig mit einem Schneebesen rühren."},
+    { "component": "Macarons", "text": "Sobald die Temperatur erreicht ist und sich der Zucker aufgelöst hat, die Masse 8 Minuten auf langsam schlagen."},
+    { "component": "Macarons", "text": "Danach die Lebensmittelfarbe hinzufügen und weitere zwei Minuten vollständig steif schlagen."},
+    { "component": "Macarons", "text": "Jetzt die gesiebte Mandel-Puderzucker-Mischung in drei Portionen unter den Eischnee heben. Vorsichtig umrühren. Die Masse sollte dickflüssig sein und trotzdem glatt verlaufen."},
+    { "component": "Macarons", "text": "Die Macaron-Masse in einen Spritzbeutel mit Lochtülle füllen. Dann in einer Größe von ca. 2 Zentimetern und mit genügend Abstand auf die Silikonmatte spritzen."},
+    { "component": "Macarons", "text": "Das Backblech mit dem aufgespritzten Macaron-Teig drei Mal auf die Arbeitsfläche klopfen und ca. 30 Minuten an der Luft antrocknen lassen."},
+    { "component": "Macarons", "text": "In der Zwischenzeit den Backofen auf 160°C vorheizen."},
+    { "component": "Macarons", "text": "Die Macarons ca. 12-14 Minuten backen und anschließend gut auskühlen lassen."},
+
+    { "component": "Ganache", "text": "Die Sahne mit dem Rosmarin und Thymian erhitzen, ohne sie zum Kochen zu bringen."},
+    { "component": "Ganache", "text": "Vom Herd nehmen, abdecken und 10-15 Minuten ziehen lassen. Abseihen und erneut leicht erwärmen."},
+    { "component": "Ganache", "text": "Die erhitzte Sahne über die gehackte weiße Schokolade gießen. Mit einem Spatel zu einer glatten, glänzenden Emulsion verrühren."},
+    { "component": "Ganache", "text": "Mit Frischhaltefolie direkt an der Oberfläche abdecken und mindestens 2 Stunden im Kühlschrank kalt stellen, bis die Creme streichfähig ist."},
+
+    { "component": "Zusammensetzen", "text": "Sobald die Macarons-Hälften ausgekühlt sind, die Ganache auf die einzelnen Hälften dressieren und eine weitere Hälfte oben drauf setzen."}
+  ],
+  "notes": ""
+}

@@ -1,0 +1,89 @@
+{
+  "id": "joghurttoertchen-himbeeren-holunderblueten",
+  "title": "Joghurttörtchen mit Himbeeren & Holunderblüten",
+  "category": "backen",
+  "cuisine": "französisch",
+  "time": 120,
+  "image": "images/joghurttoertchen-himbeeren-holunderblueten.png",
+  "servings": 6,
+  "utensils": [
+    "Petit-Fours Silikonform (40 mm)",
+    "Dessertringe 7,5 cm ∅",
+    "Topf",
+    "Backblech oder Backmatte",
+    "Backpapier",
+    "Tortenrandfolie",
+    "Spritzbeutel",
+    "Passiersieb (Flotte Lotte)"
+  ],
+  "ingredients": [
+    { "component": "Himbeer-Holunderblütenkerne", "amount": "30", "unit": "g", "name": "Holunderblütensirup" },
+    { "component": "Himbeer-Holunderblütenkerne", "amount": "10", "unit": "g", "name": "Zucker" },
+    { "component": "Himbeer-Holunderblütenkerne", "amount": "90", "unit": "g", "name": "Himbeerpüree" },
+    { "component": "Himbeer-Holunderblütenkerne", "amount": "1,5", "unit": "Blatt", "name": "Gelatine" },
+
+    { "component": "Himbeerbiskuit", "amount": "2", "unit": "", "name": "Eigelbe" },
+    { "component": "Himbeerbiskuit", "amount": "20", "unit": "g", "name": "Puderzucker" },
+    { "component": "Himbeerbiskuit", "amount": "2", "unit": "", "name": "Eiweiß" },
+    { "component": "Himbeerbiskuit", "amount": "30", "unit": "g", "name": "Zucker" },
+    { "component": "Himbeerbiskuit", "amount": "20", "unit": "g", "name": "Stärkemehl" },
+    { "component": "Himbeerbiskuit", "amount": "20", "unit": "g", "name": "Mehl" },
+    { "component": "Himbeerbiskuit", "amount": "10", "unit": "Stück", "name": "tiefgekühlte Himbeeren" },
+
+    { "component": "Joghurt-Holunderblütenmousse", "amount": "200", "unit": "g", "name": "Holunderblütensirup" },
+    { "component": "Joghurt-Holunderblütenmousse", "amount": "200", "unit": "g", "name": "griechischer Joghurt 10 %" },
+    { "component": "Joghurt-Holunderblütenmousse", "amount": "1", "unit": "TL", "name": "Zitronensaft" },
+    { "component": "Joghurt-Holunderblütenmousse", "amount": "", "unit": "", "name": "Zucker nach Geschmack" },
+    { "component": "Joghurt-Holunderblütenmousse", "amount": "5,5", "unit": "Blatt", "name": "Gelatine" },
+    { "component": "Joghurt-Holunderblütenmousse", "amount": "250", "unit": "g", "name": "Schlagsahne" },
+
+    { "component": "Himbeerspiegel", "amount": "50", "unit": "g", "name": "Holunderblütensirup" },
+    { "component": "Himbeerspiegel", "amount": "100", "unit": "g", "name": "Himbeerpüree" },
+    { "component": "Himbeerspiegel", "amount": "2", "unit": "Blatt", "name": "Gelatine" }
+  ],
+  "steps": [
+    { "component": "Himbeer-Holunderblütenkerne", "text": "Die Gelatine in eiskaltem Wasser einweichen." },
+    { "component": "Himbeer-Holunderblütenkerne", "text": "Holunderblütensirup, Zucker und ein Viertel des Himbeerpürees im Topf erhitzen." },
+    { "component": "Himbeer-Holunderblütenkerne", "text": "Die ausgedrückte Gelatine darin auflösen." },
+    { "component": "Himbeer-Holunderblütenkerne", "text": "Das restliche Himbeerpüree einrühren." },
+    { "component": "Himbeer-Holunderblütenkerne", "text": "Auf 6 Vertiefungen der Silikonform verteilen." },
+    { "component": "Himbeer-Holunderblütenkerne", "text": "Mindestens 4 Stunden einfrieren." },
+
+    { "component": "Himbeerbiskuit", "text": "Den Backofen auf 180 °C Ober-/Unterhitze vorheizen." },
+    { "component": "Himbeerbiskuit", "text": "Die Eigelbe mit dem Puderzucker hellschaumig schlagen." },
+    { "component": "Himbeerbiskuit", "text": "Das Eiweiß mit Zucker und Stärke zu festem Eischnee schlagen." },
+    { "component": "Himbeerbiskuit", "text": "Ein Drittel des Eischnees unter die Eigelbmasse ziehen." },
+    { "component": "Himbeerbiskuit", "text": "Den restlichen Eischnee zugeben und das Mehl darübersieben." },
+    { "component": "Himbeerbiskuit", "text": "Sorgfältig unterheben." },
+    { "component": "Himbeerbiskuit", "text": "Den Teig ½ cm dick auf ein Blech mit Backpapier streichen." },
+    { "component": "Himbeerbiskuit", "text": "Die tiefgekühlten Himbeeren zerdrücken und auf dem Biskuit verteilen." },
+    { "component": "Himbeerbiskuit", "text": "10–15 Minuten backen." },
+    { "component": "Himbeerbiskuit", "text": "Gut abkühlen lassen. Der Biskuit kann auch einen Tag vorher gebacken werden." },
+
+    { "component": "Joghurt-Holunderblütenmousse", "text": "Die Gelatine in eiskaltem Wasser einweichen." },
+    { "component": "Joghurt-Holunderblütenmousse", "text": "Die Hälfte des Holunderblütensirups mit dem Zitronensaft und gegebenenfalls Zucker erwärmen." },
+    { "component": "Joghurt-Holunderblütenmousse", "text": "Die ausgedrückte Gelatine darin auflösen." },
+    { "component": "Joghurt-Holunderblütenmousse", "text": "Den restlichen Sirup und den Joghurt zugeben und verrühren." },
+    { "component": "Joghurt-Holunderblütenmousse", "text": "Die Sahne cremig schlagen." },
+    { "component": "Joghurt-Holunderblütenmousse", "text": "Die Sahne unter die Joghurtmasse ziehen." },
+
+    { "component": "Aufbau", "text": "Die 6 Dessertringe auf eine Platte stellen und mit Tortenrandfolie auskleiden." },
+    { "component": "Aufbau", "text": "Aus dem Himbeerbiskuit Streifen von 3,5 × 19 cm schneiden." },
+    { "component": "Aufbau", "text": "Die Streifen mit Holunderblütensirup bestreichen und Stoß an Stoß in die Ringe einlegen." },
+    { "component": "Aufbau", "text": "Kleine Kreise als Böden schneiden und ebenfalls mit Sirup tränken." },
+    { "component": "Aufbau", "text": "Die Joghurtmousse mit dem Spritzbeutel bis zum Biskuitrand einfüllen." },
+    { "component": "Aufbau", "text": "Die gefrorenen Himbeer-Holunderkerne in die Mousse drücken." },
+    { "component": "Aufbau", "text": "Die restliche Mousse verteilen." },
+    { "component": "Aufbau", "text": "1–2 Stunden gekühlt fest werden lassen." },
+
+    { "component": "Himbeerspiegel", "text": "Die Gelatine einweichen." },
+    { "component": "Himbeerspiegel", "text": "Den Holunderblütensirup erwärmen und die Gelatine darin auflösen." },
+    { "component": "Himbeerspiegel", "text": "Das Himbeerpüree zugeben." },
+    { "component": "Himbeerspiegel", "text": "Auf die Mousse gießen." },
+
+    { "component": "Fertigstellung", "text": "Mindestens 2 Stunden oder über Nacht gekühlt durchziehen lassen." },
+    { "component": "Fertigstellung", "text": "Vor dem Servieren Sahne mit Zucker steif schlagen." },
+    { "component": "Fertigstellung", "text": "Mit Sahne, frischen Himbeeren, Holundergelee sowie Blättern und Blüten dekorieren." }
+  ],
+  "notes": ""
+}

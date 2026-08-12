@@ -1,0 +1,63 @@
+{
+  "id": "schokoladen-lakritz-torte",
+  "title": "Schokoladen-Lakritz Torte \"Das schwarze süße Gold\"",
+  "category": "backen",
+  "cuisine": "deutsch",
+  "time": 120,
+  "image": "images/schokoladen-lakritz-torte.png",
+  "servings": 12,
+  "utensils": [
+    "Springform 18–20 cm ∅",
+    "Schüsseln",
+    "Stabmixer",
+    "Messer zum Hacken",
+    "Topf",
+    "Langes Messer zum Durchschneiden der Böden"
+  ],
+  "ingredients": [
+    { "component": "Teig", "amount": "3", "unit": "", "name": "Eier" },
+    { "component": "Teig", "amount": "250", "unit": "g", "name": "Zucker (im Original wurden 210 g verwendet)" },
+    { "component": "Teig", "amount": "2", "unit": "TL", "name": "Vanillezucker" },
+    { "component": "Teig", "amount": "120", "unit": "g", "name": "Mehl" },
+    { "component": "Teig", "amount": "40", "unit": "g", "name": "dunkler Kakao" },
+    { "component": "Teig", "amount": "2", "unit": "TL", "name": "Backpulver" },
+    { "component": "Teig", "amount": "100", "unit": "ml", "name": "Vollmilch" },
+
+    { "component": "Schoko-Lakritzfüllung", "amount": "150", "unit": "g", "name": "dunkle Schokolade (56–64 %)" },
+    { "component": "Schoko-Lakritzfüllung", "amount": "150", "unit": "ml", "name": "Schlagsahne" },
+    { "component": "Schoko-Lakritzfüllung", "amount": "2", "unit": "TL", "name": "Lakritzgranulat" },
+    { "component": "Schoko-Lakritzfüllung", "amount": "1,5", "unit": "EL", "name": "heller Sirup" },
+    { "component": "Schoko-Lakritzfüllung", "amount": "45", "unit": "g", "name": "weiche Butter (Zimmertemperatur)" },
+
+    { "component": "Ganacheglasur", "amount": "200", "unit": "g", "name": "dunkle Schokolade (64–70 %)" },
+    { "component": "Ganacheglasur", "amount": "200", "unit": "ml", "name": "Schlagsahne" },
+    { "component": "Ganacheglasur", "amount": "40", "unit": "g", "name": "weiche Butter (Zimmertemperatur)" }
+  ],
+  "steps": [
+    { "component": "Teig", "text": "Den Backofen auf 175 °C vorheizen." },
+    { "component": "Teig", "text": "Die Springform einfetten." },
+    { "component": "Teig", "text": "Die Eier mit dem Zucker sehr hellschaumig rühren." },
+    { "component": "Teig", "text": "Mehl, Backpulver und Kakao in einer separaten Schüssel vermischen." },
+    { "component": "Teig", "text": "Die Milch fast zum Kochen bringen und zur Eiermasse gießen." },
+    { "component": "Teig", "text": "Die trockenen Zutaten unterrühren, bis ein glatter Teig entsteht." },
+    { "component": "Teig", "text": "Den Teig in die Springform füllen." },
+    { "component": "Teig", "text": "Ca. 45–50 Minuten backen." },
+    { "component": "Teig", "text": "Kurz abkühlen lassen, stürzen und vollständig auskühlen lassen – am besten über Nacht." },
+
+    { "component": "Schoko-Lakritzfüllung", "text": "Die Schokolade fein hacken." },
+    { "component": "Schoko-Lakritzfüllung", "text": "Die Sahne mit Lakritzgranulat und Sirup aufkochen und rühren, bis sich alles gelöst hat." },
+    { "component": "Schoko-Lakritzfüllung", "text": "Die heiße Mischung über die Schokolade gießen, kurz warten und glattrühren." },
+    { "component": "Schoko-Lakritzfüllung", "text": "Nach dem Abkühlen auf ca. 45 °C die Butter mit dem Stabmixer unterrühren." },
+    { "component": "Schoko-Lakritzfüllung", "text": "Im Kühlschrank zu streichfähiger Konsistenz anziehen lassen." },
+    { "component": "Schoko-Lakritzfüllung", "text": "Den Kuchen zweimal horizontal durchschneiden, sodass drei gleich dicke Scheiben entstehen." },
+    { "component": "Schoko-Lakritzfüllung", "text": "Die Füllung je zur Hälfte auf der unteren und der mittleren Schicht verteilen und die Schichten stapeln." },
+
+    { "component": "Ganacheglasur", "text": "Die Schokolade hacken." },
+    { "component": "Ganacheglasur", "text": "Die Sahne aufkochen, über die Schokolade gießen, kurz warten und glattrühren." },
+    { "component": "Ganacheglasur", "text": "Die Butter portionsweise unterrühren." },
+    { "component": "Ganacheglasur", "text": "Die Ganache leicht abkühlen lassen." },
+    { "component": "Ganacheglasur", "text": "Die Torte rundherum damit einstreichen." },
+    { "component": "Ganacheglasur", "text": "Im Kühlschrank fest werden lassen." }
+  ],
+  "notes": ""
+}
