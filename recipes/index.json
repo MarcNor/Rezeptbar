@@ -1,5 +1,14 @@
 [
   {
+    "id": "peach-blossom-torte",
+    "title": "\"Peach Blossom\"-Torte mit weißem Pfirsich & Erdbeere",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 240,
+    "servings": 10,
+    "image": "images/peach-blossom-torte.png"
+  },
+  {
     "id": "asiatischer-spitzkohlsalat",
     "title": "Asiatischer Spitzkohlsalat",
     "category": "sonstiges",
@@ -279,6 +288,15 @@
     "image": "images/himbeertartelettes.png"
   },
   {
+    "id": "himbeertorte-polka-dots",
+    "title": "Himbeertorte mit Polka Dots",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 10,
+    "image": "images/himbeertorte-polka-dots.png"
+  },
+  {
     "id": "holunderbeeren-torte",
     "title": "Holunderbeeren Torte",
     "category": "backen",
@@ -376,6 +394,15 @@
     "time": 150,
     "servings": 4,
     "image": "images/lasagne.png"
+  },
+  {
+    "id": "le-framboisier",
+    "title": "Le Framboisier – Himbeertorte mit Vanillecreme",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 120,
+    "servings": 10,
+    "image": "images/le-framboisier.png"
   },
   {
     "id": "limetten-aioli",
@@ -538,6 +565,15 @@
     "time": 30,
     "servings": 4,
     "image": "images/nudelsalat.png"
+  },
+  {
+    "id": "orangentoertchen-fruehlingshauch",
+    "title": "Orangentörtchen \"Frühlingshauch\"",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 180,
+    "servings": 8,
+    "image": "images/orangentoertchen-fruehlingshauch.png"
   },
   {
     "id": "orangentorte-schokoladenknusperboden",
@@ -1024,5 +1060,14 @@
     "time": 95,
     "servings": 10,
     "image": "images/wan-tan-hähnchen.png"
+  },
+  {
+    "id": "yuzu-schokoladentorte-himbeere",
+    "title": "Yuzu-Schokoladentorte mit Himbeere",
+    "category": "backen",
+    "cuisine": "französisch",
+    "time": 240,
+    "servings": 12,
+    "image": "images/yuzu-schokoladentorte-himbeere.png"
   }
 ]
