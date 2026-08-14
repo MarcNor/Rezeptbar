@@ -1,0 +1,39 @@
+{
+  "id": "apfeltaschen",
+  "title": "Apfeltaschen",
+  "category": "backen",
+  "cuisine": "deutsch",
+  "time": 150,
+  "servings": 6,
+  "image": "images/apfeltaschen.png",
+  "ingredients": [
+    { "component": "Blätterteig", "amount": "275", "unit": "g", "name": "Weizenmehl (405 oder 550)" },
+    { "component": "Blätterteig", "amount": "5", "unit": "g", "name": "Salz" },
+    { "component": "Blätterteig", "amount": "125", "unit": "g", "name": "Wasser" },
+    { "component": "Blätterteig", "amount": "250", "unit": "g", "name": "Butter" },
+
+    { "component": "Apfelfüllung", "amount": "750", "unit": "g", "name": "säuerliche Äpfel" },
+    { "component": "Apfelfüllung", "amount": "1", "unit": "", "name": "Zitrone (Saft)" },
+    { "component": "Apfelfüllung", "amount": "60", "unit": "g", "name": "Zucker" },
+    { "component": "Apfelfüllung", "amount": "0,5", "unit": "TL", "name": "Zimt" },
+
+    { "component": "Außerdem", "amount": "1", "unit": "", "name": "Ei" },
+    { "component": "Außerdem", "amount": "1", "unit": "EL", "name": "Sahne" },
+    { "component": "Außerdem", "amount": "1", "unit": "EL", "name": "brauner Zucker" }
+  ],
+  "steps": [
+    { "component": "Blätterteig", "text": "Am Vortag zunächst die Ziehbutter für den Blätterteig vorbereiten. Dafür die zimmerwarme Butter mit 25g des Mehls verkneten und in einen Gefrierbeutel à etwa 25x25cm geben. Den Beutel schließen und die Ziehbutter mit den Fingern überall im Beutel verteilen, bis ein gleichmäßig dickes Butterquadrat entsteht. Dabei nicht die Ecken vergessen und darauf achten, dass sich keine Luftkammern im Beutel bilden. Die Ziehbutter über Nacht in den Kühlschrank legen." },
+    { "component": "Blätterteig", "text": "Für den Teig das Mehl mit dem Wasser und dem Salz verkneten, bis sich alles zu einem glatten Teig verbunden hat. Den Teig grob zu einem flachen Rechteck formen und in Frischhaltefolie gewickelt für 30 Minuten im Kühlschrank ruhen lassen (er kann dort auch mehrere Stunden oder über Nacht gelagert werden)."},
+    { "component": "Blätterteig", "text": "Das Butterquadrat und den Teig aus dem Kühlschrank nehmen. Den Teig auf die leicht bemehlte Arbeitsfläche legen und möglichst rechteckig auf die doppelte Länge des Butterquadrates ausrollen, sodass die Breite des Teiges dem Butterquadrat entspricht (also etwa 50x25cm). Dann das Butterquadrat aus dem Tiefkühlbeutel schälen und mittig auf den ausgerollten Teig legen. Den Teig von oben und unten über die Butterplatte schlagen, sodass die Butter vollständig vom Teig umschlossen ist. Die Naht mit den Fingern etwas zusammendrücken." },
+    { "component": "Blätterteig", "text": "Dann den Teig um 90 Grad drehen, sodass die Naht vertikal vor dir liegt. Anschließend den Teig vorsichtig der Länge nach auf eine Größe von etwa 35x50cm ausrollen (ggf. noch etwas Mehl auf die Arbeitsfläche geben); dabei immer jeweils von der Mitte des Teigblocks zum oberen bzw. unteren Rand hin rollen, nicht über den gesamten Teigblock – so verteilt sich die Butter im Inneren gleichmäßiger. Eventuelle Mehlreste mit einem Backpinsel vom Teig entfernen. Nun bekommt der Teig eine einfache Tour: dafür zunächst das untere Teigdrittel zur Mitte hin umklappen und dann das obere Teigdrittel darüber klappen, wie bei einem Brief, sodass drei übereinander liegende Teigschichten entstehen. Den Teig in Frischhaltefolie einschlagen und für 30 Minuten in den Kühlschrank legen."},
+    { "component": "Blätterteig", "text": "Den Teig erneut der Länge nach auf eine Größe von etwa 35x50cm ausrollen (ggf. noch etwas Mehl auf die Arbeitsfläche geben). Eventuelle Mehlreste mit einem Backpinsel vom Teig entfernen. Dann dem Teig eine doppelte Tour geben: Dafür wird er von beiden Seiten zur Mitte eingeschlagen und dann zusammengeklappt. Den Teig wieder in Frischhaltefolie einschlagen und nochmals für 30 Minuten in den Kühlschrank legen."},
+    { "component": "Blätterteig", "text": "Diesen Vorgang noch einmal wiederholen, sodass der Teig insgesamt 1 einfache und 2 doppelte Touren bekommt (nach der letzten Tour nochmal 30 Minuten kühl stellen)."},
+
+    { "component": "Apfelfüllung", "text": "Für die Apfelfüllung die Äpfel schälen, entkernen und klein würfeln. Sofort mit dem Saft einer Zitrone vermischen, damit sie nicht braun werden. Den Zucker in einer Pfanne goldbraun karamellisieren und die Apfelwürfel und den Zimt hinzugeben. Kurz köcheln lassen, bis die Äpfel etwas weich sind, aber noch Biss haben. Abkühlen lassen." },
+
+    { "component": "Zubereitung", "text": "Den Backofen auf 210°C Ober- und Unterhitze vorheizen." },
+    { "component": "Zubereitung", "text": "Den fertig tourierten Teig auf der Arbeitsfläche gleichmäßig dünn ausrollen. Mithilfe eines Pizzaschneiders oder eines scharfen Messers in 6 Quadrate schneiden und etwas Apfelfüllung auf die Hälfte jedes Quadrates geben. Den Rand mit etwas Wasser bestreichen und den Teig diagonal über die Apfelfüllung klappen, sodass Dreiecke entstehen. Die Ränder mit einer Gabel fest drücken." },
+    { "component": "Zubereitung", "text": "Das Ei mit der Sahne verquirlen. Die Apfeltaschen mit der Eistreiche bepinseln und mit dem groben braunen Zucker bestreuen. Mit etwas Abstand auf ein mit Backpapier belegtes Blech setzen." },
+    { "component": "Zubereitung", "text": "Die Backofentemperatur auf 200°C herunterschalten und die Apfeltaschen auf der mittleren Schiene 35-45 Minuten goldbraun backen. Sollten sie oben zu dunkel werden, zwischendurch mit einer Lage Alufolie abdecken. Etwas abkühlen lassen und sofort servieren." }
+  ]
+}

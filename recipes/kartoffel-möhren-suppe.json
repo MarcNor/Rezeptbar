@@ -1,0 +1,32 @@
+{
+  "id": "kartoffel-möhren-suppe",
+  "title": "Kartoffel-Möhren-Suppe",
+  "category": "mittag",
+  "cuisine": "deutsch",
+  "time": 35,
+  "servings": 4,
+  "image": "images/kartoffel-möhren-suppe.png",
+  "ingredients": [
+    { "amount": "2", "unit": "", "name": "Zwiebel" },
+    { "amount": "1", "unit": "", "name": "Knoblauchzehe" },
+    { "amount": "500", "unit": "g", "name": "Kartoffeln" },
+    { "amount": "500", "unit": "g", "name": "Möhren" },
+    { "amount": "1", "unit": "EL", "name": "Öl" },
+    { "amount": "1", "unit": "l", "name": "Gemüsebrühe" },
+    { "amount": "1", "unit": "Bund", "name": "Petersilie" },
+    { "amount": "150", "unit": "ml", "name": "Sahne" },
+    { "amount": "", "unit": "", "name": "Salz" },
+    { "amount": "", "unit": "", "name": "Pfeffer" },
+    { "amount": "", "unit": "", "name": "Muskat" },
+    { "amount": "8", "unit": "Scheiben", "name": "Brot" }
+  ],
+  "steps": [
+    "Zwiebeln und Knoblauch abziehen und fein würfeln bzw. hacken.",
+    "Kartoffeln und Möhren waschen, schälen und in grobe Stücke schneiden.",
+    "Rapsöl in einem Topf erhitzen. Zwiebeln darin 2-3 Minuten glasig dünsten. Knoblauch, Möhren und Kartoffeln kurz mitbraten, dann mit Gemüsebrühe ablöschen, aufkochen und bei mittlerer Hitze 25 Minuten köcheln lassen, bis das Gemüse weich ist.",
+    "In der Zwischenzeit Petersilie abbrausen, trockenschütteln und fein hacken. Suppe von der Herdplatte nehmen und mit einem Pürierstab fein pürieren.",
+    "Sahne unter die Suppe mischen, nochmals erhitzen, dann alles mit Salz, Pfeffer und ggf. Muskatnuss abschmecken.",
+    "Kartoffel-Karotten-Suppe mit gehackter Petersilie bestreuen, mit frisch gemahlenem Pfeffer toppen und mit Brot servieren."
+  ],
+  "notes": "Das Brot kann vorher in der Pfanne leicht angeröstet werden."
+}
